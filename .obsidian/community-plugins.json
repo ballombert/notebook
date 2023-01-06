@@ -2,5 +2,12 @@
   "mermaid-tools",
   "obsidian-git",
   "obsidian-plantuml",
-  "obsidian-wordpress"
+  "obsidian-wordpress",
+  "url-into-selection",
+  "obsidian-mind-map",
+  "obsidian-icon-folder",
+  "hotkey-helper",
+  "drawio-obsidian",
+  "table-editor-obsidian",
+  "obsidian-kanban"
 ]
