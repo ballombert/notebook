@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "783c5d075395a7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projets d'articles/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projets d'articles/Untitled 1.md",
+                "file": "projets d'articles/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projets d'articles/Untitled 1.md",
+                "file": "projets d'articles/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projets d'articles/Untitled 1.md"
+                "file": "projets d'articles/Untitled.md"
               }
             }
           },
@@ -182,8 +194,10 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "bd79ce7da1ab540b",
+  "active": "783c5d075395a7d9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "projets d'articles/Untitled 1.md",
     "projets d'articles/164,735,993.md",
     "projets d'articles/Untitled.md",
     "README.md",
