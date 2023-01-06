@@ -1,2 +1,0 @@
-# pourquoi ecrire un blog
-

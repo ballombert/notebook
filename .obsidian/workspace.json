@@ -13,20 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-06.md",
+                "file": "projets d'articles/164,735,993.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7b3977419e6a28a",
+            "id": "12d34d63139ed9f4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": true
+                "file": "projets d'articles/164,735,993.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projets d'articles/164,735,993.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projets d'articles/164,735,993.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projets d'articles/164,735,993.md"
+              }
             }
           },
           {
@@ -161,13 +166,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "f7b3977419e6a28a",
+  "active": "12d34d63139ed9f4",
   "lastOpenFiles": [
+    "projets d'articles/Untitled.md",
+    "projets d'articles/164,735,993.md",
+    "README.md",
+    "Git.md",
+    "2023-01-06.md",
     "2022-03-04.md",
-    "Test/My note.md",
-    "2023-01-06.md"
+    "Test/My note.md"
   ]
 }
