@@ -117,6 +117,14 @@
             "file": "Test/My note.md"
           }
         }
+      },
+      {
+        "id": "6640d72df7c1c681",
+        "type": "leaf",
+        "state": {
+          "type": "mermaid-toolbar-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
