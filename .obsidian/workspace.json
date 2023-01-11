@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0a8254e8ce77b5aa",
+        "id": "d77b83b27cb79773",
         "type": "tabs",
         "children": [
           {
-            "id": "4099a14e9e5de2e6",
+            "id": "965b381b75c21900",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projets d'articles/Doute quan tu nous tiens.md",
+                "file": "Journal/2023-01-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "57aa24ef786e8f4d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projets d'articles/Doute quan tu nous tiens.md",
+                "file": "Journal/2023-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projets d'articles/Doute quan tu nous tiens.md",
+                "file": "Journal/2023-01-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projets d'articles/Doute quan tu nous tiens.md"
+                "file": "Journal/2023-01-11.md"
               }
             }
           },
@@ -164,17 +163,18 @@
       "command-palette:Open command palette": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-wordpress:WordPress Publish": false
+      "obsidian-wordpress:WordPress Publish": false,
+      "publish:Publish changes": false
     }
   },
-  "active": "4099a14e9e5de2e6",
+  "active": "965b381b75c21900",
   "lastOpenFiles": [
-    "Journal/2023-01-11.md",
     "calendar/2023-W02.md",
+    "projets d'articles/Doute quan tu nous tiens.md",
+    "Journal/2023-01-11.md",
     "README.md",
     "Untitled.canvas",
     "projets d'articles/Projects Kanban.md",
-    "projets d'articles/Doute quan tu nous tiens.md",
     "Untitled.md",
     "Test/My note.md",
     "Shortkey.md",
