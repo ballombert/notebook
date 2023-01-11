@@ -17,4 +17,13 @@ Once configured, you're now good to go, using it only takes two steps:
 Make a selection on a page and click the icon of the extension (or use a shortcut key!).
 Obsidian will try to create or append to the specified note within the vault.,
 
-Clipped from [jplattelobsidian-clipper: A Chrome extension that easily clips selections to Obsidian](https://github.com/jplattel/obsidian-clipper) at 2023-01-11.
+Clipped from [jplattelobsidian-clipper: A Chrome extension that easily clips selections to Obsidian](https://github.com/jplattel/obsidian-clipper) at 2023-01-11.> Once configured, you're now good to go, using it only takes two steps:
+
+Make a selection on a page and click the icon of the extension (or use a shortcut key!).
+Obsidian will try to create or append to the specified note within the vault.,
+
+Clipped from [jplattelobsidian-clipper: A Chrome extension that easily clips selections to Obsidian](https://github.com/jplattel/obsidian-clipper) at 2023-01-11.> ,
+
+Clipped from [jplattelobsidian-clipper: A Chrome extension that easily clips selections to Obsidian](https://github.com/jplattel/obsidian-clipper) at 2023-01-11.> ,
+
+Clipped from [Les essentiels Yoga](https://www.bing.com/shop/yoga?&FORM=PLBSC1&entrypoint=msn&adunitid=375358&propertyId=316966&srcmodid=backfill) at 2023-01-11.
