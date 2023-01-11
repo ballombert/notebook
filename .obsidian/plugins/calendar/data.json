@@ -6,5 +6,5 @@
   "weeklyNoteFormat": "",
   "weeklyNoteTemplate": "",
   "weeklyNoteFolder": "calendar",
-  "localeOverride": "fr"
+  "localeOverride": "system-default"
 }

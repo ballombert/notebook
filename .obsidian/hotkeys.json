@@ -1,1 +1,11 @@
-{}
+{
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
+}
