@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projets d'articles/Projects Kanban.md",
+                "file": "calendar/2023-W02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projets d'articles/Projects Kanban.md",
+                "file": "calendar/2023-W02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projets d'articles/Projects Kanban.md",
+                "file": "calendar/2023-W02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projets d'articles/Projects Kanban.md"
+                "file": "calendar/2023-W02.md"
               }
             }
           },
@@ -165,17 +165,17 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "ba1185e8dde31690",
+  "active": "4099a14e9e5de2e6",
   "lastOpenFiles": [
+    "README.md",
     "Untitled.canvas",
     "projets d'articles/Projects Kanban.md",
-    "2023-W02.md",
+    "projets d'articles/Doute quan tu nous tiens.md",
+    "calendar/2023-W02.md",
     "Journal/2023-01-11.md",
-    "README.md",
     "Untitled.md",
     "Test/My note.md",
     "Shortkey.md",
-    "projets d'articles/Doute quan tu nous tiens.md",
     "Untitled 2.md"
   ]
 }
