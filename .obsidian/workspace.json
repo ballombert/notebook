@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/2023-W02.md",
+                "file": "projets d'articles/Doute quan tu nous tiens.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57aa24ef786e8f4d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar/2023-W02.md",
+                "file": "projets d'articles/Doute quan tu nous tiens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar/2023-W02.md",
+                "file": "projets d'articles/Doute quan tu nous tiens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calendar/2023-W02.md"
+                "file": "projets d'articles/Doute quan tu nous tiens.md"
               }
             }
           },
@@ -168,12 +169,12 @@
   },
   "active": "4099a14e9e5de2e6",
   "lastOpenFiles": [
+    "Journal/2023-01-11.md",
+    "calendar/2023-W02.md",
     "README.md",
     "Untitled.canvas",
     "projets d'articles/Projects Kanban.md",
     "projets d'articles/Doute quan tu nous tiens.md",
-    "calendar/2023-W02.md",
-    "Journal/2023-01-11.md",
     "Untitled.md",
     "Test/My note.md",
     "Shortkey.md",
