@@ -4,7 +4,7 @@
 
 # Calendar 
 
-Comment utilser calandar ?
+Comment utiliser calendar ?
 
 
 Mettre ici comment marche obsidian
