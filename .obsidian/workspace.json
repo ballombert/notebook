@@ -4,43 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd68554903909495",
+        "id": "0a8254e8ce77b5aa",
         "type": "tabs",
         "children": [
           {
-            "id": "46b3ce07ad66bdbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projets d'articles/164,735,993.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12d34d63139ed9f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projets d'articles/164,735,993.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd79ce7da1ab540b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "783c5d075395a7d9",
+            "id": "4099a14e9e5de2e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ff1c0f24b4a030af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shortkey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shortkey.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shortkey.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shortkey.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32f7f00cb68882ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -202,16 +165,16 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "ff1c0f24b4a030af",
+  "active": "4099a14e9e5de2e6",
   "lastOpenFiles": [
-    "README.md",
-    "projets d'articles/Doute quan tu nous tiens.md",
     "Untitled.md",
-    "Untitled 2.md",
+    "Test/My note.md",
+    "README.md",
     "Shortkey.md",
+    "projets d'articles/Doute quan tu nous tiens.md",
+    "Untitled 2.md",
     "Untitled.canvas",
     "Journal/2023-01-11.md",
-    "Test/My note.md",
     "Git.md",
     "2023-01-06.md"
   ]
