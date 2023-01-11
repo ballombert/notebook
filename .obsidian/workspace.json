@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projets d'articles/Doute quan tu nous tiens.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projets d'articles/Doute quan tu nous tiens.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projets d'articles/Doute quan tu nous tiens.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projets d'articles/Doute quan tu nous tiens.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -192,6 +192,8 @@
   },
   "active": "783c5d075395a7d9",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "projets d'articles/Doute quan tu nous tiens.md",
     "Untitled.canvas",
     "Journal/2023-01-11.md",
     "README.md",
@@ -199,8 +201,6 @@
     "Test/My note.md",
     "Git.md",
     "2023-01-06.md",
-    "projets d'articles/Doute quan tu nous tiens.md",
-    "projets d'articles/Untitled 1.md",
-    "projets d'articles/164,735,993.md"
+    "projets d'articles/Untitled 1.md"
   ]
 }
