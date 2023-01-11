@@ -11,8 +11,12 @@
             "id": "4099a14e9e5de2e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projets d'articles/Projects Kanban.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projets d'articles/Projects Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projets d'articles/Projects Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projets d'articles/Projects Kanban.md"
+              }
             }
           },
           {
@@ -157,17 +165,17 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "4099a14e9e5de2e6",
+  "active": "ba1185e8dde31690",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "projets d'articles/Projects Kanban.md",
+    "2023-W02.md",
+    "Journal/2023-01-11.md",
     "README.md",
     "Untitled.md",
     "Test/My note.md",
     "Shortkey.md",
     "projets d'articles/Doute quan tu nous tiens.md",
-    "Untitled 2.md",
-    "Journal/2023-01-11.md",
-    "Git.md",
-    "2023-01-06.md"
+    "Untitled 2.md"
   ]
 }
