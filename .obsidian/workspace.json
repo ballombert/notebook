@@ -4,30 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "d709c10c97c00028",
+        "id": "75c8292b2d477d85",
         "type": "tabs",
         "children": [
           {
-            "id": "c283f0c3c7466d65",
+            "id": "3cecb28cb2a54ebc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chrome Clippings.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c95619bcae1bc213",
+            "id": "f8affcc0988c60ad",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chrome Clippings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chrome Clippings.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chrome Clippings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,22 +136,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "db9e12218fa5a2f5",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5309e2e7833d5c7c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
@@ -176,22 +153,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-wordpress:WordPress Publish": false,
       "publish:Publish changes": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c283f0c3c7466d65",
+  "active": "f8affcc0988c60ad",
   "lastOpenFiles": [
+    "Chrome Clippings.md",
+    "Test/My note.md",
     "projets d'articles/Projects Kanban.md",
     "projets d'articles/164,735,993.md",
     "calendar/2023-01-16.md",
     "calendar/2023-W02.md",
-    "Test/My note.md",
     "2023-01-11.md",
-    "Chrome Clippings.md",
     "Untitled.canvas",
     "Journal/2023-01-11.md",
     "2023-W02.pdf"
