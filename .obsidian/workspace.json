@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d77b83b27cb79773",
+        "id": "8396cf0199da7970",
         "type": "tabs",
         "children": [
           {
-            "id": "965b381b75c21900",
+            "id": "7ce5ead2ddb7ec5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chrome Clippings.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chrome Clippings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chrome Clippings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chrome Clippings.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,9 @@
       "publish:Publish changes": false
     }
   },
-  "active": "965b381b75c21900",
+  "active": "7ce5ead2ddb7ec5c",
   "lastOpenFiles": [
+    "Chrome Clippings.md",
     "calendar/2023-W02.md",
     "Journal/2023-01-11.md",
     "projets d'articles/Doute quan tu nous tiens.md",
@@ -177,7 +170,6 @@
     "projets d'articles/Projects Kanban.md",
     "Untitled.md",
     "Test/My note.md",
-    "Shortkey.md",
-    "Untitled 2.md"
+    "Shortkey.md"
   ]
 }
