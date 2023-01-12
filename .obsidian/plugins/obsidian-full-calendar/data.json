@@ -1,9 +1,22 @@
 {
   "calendarSources": [
     {
-      "type": "ical",
-      "color": "#ff1414",
-      "url": "https://calendar.google.com/calendar/render?cid=beatrice.allombert@outlook.com"
+      "type": "caldav",
+      "color": "hsl( 254,  80%, calc( 68% - 3.8%))",
+      "url": "https://allombert.fr/baikal/dav.php/calendars/beatrice/family/",
+      "username": "beatrice",
+      "password": "FamAll2012",
+      "name": "Default calendar",
+      "homeUrl": "https://allombert.fr/baikal/dav.php/calendars/beatrice/default/"
+    },
+    {
+      "type": "caldav",
+      "color": "#00FF00",
+      "url": "https://allombert.fr/baikal/dav.php/calendars/beatrice/family/",
+      "username": "beatrice",
+      "password": "FamAll2012",
+      "name": "Family",
+      "homeUrl": "https://allombert.fr/baikal/dav.php/calendars/beatrice/family/"
     }
   ],
   "defaultCalendar": 0,
