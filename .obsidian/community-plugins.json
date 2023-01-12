@@ -1,4 +1,5 @@
 [
+  "mermaid-tools",
   "obsidian-git",
   "obsidian-plantuml",
   "obsidian-wordpress",
@@ -10,5 +11,6 @@
   "obsidian-kanban",
   "obsidian-languagetool-plugin",
   "settings-search",
+  "calendar",
   "obsidian-full-calendar"
 ]

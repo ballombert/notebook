@@ -2,18 +2,13 @@
   "calendarSources": [
     {
       "type": "ical",
-      "color": "#a101ad",
-      "url": "https://calendar.google.com/calendar/ical/beatrice.allombert%40outlook.com/private-0e73c9f9489eeb67666c40120eabef34/basic.ics"
-    },
-    {
-      "type": "local",
-      "color": "#01058e",
-      "directory": "calendar"
+      "color": "#ff1414",
+      "url": "https://calendar.google.com/calendar/render?cid=beatrice.allombert@outlook.com"
     }
   ],
   "defaultCalendar": 0,
   "recursiveLocal": false,
-  "firstDay": 1,
+  "firstDay": 0,
   "initialView": {
     "desktop": "timeGridWeek",
     "mobile": "timeGrid3Days"
