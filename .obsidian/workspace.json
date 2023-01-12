@@ -14,8 +14,29 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "6cf6fb8e2a2aacb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calendar/2023-01-14 Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36761a149013dd1a",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "calendar/2023-01-14 Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "calendar/2023-01-14 Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "calendar/2023-01-14 Test.md"
+              }
             }
           },
           {
@@ -138,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,20 +180,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-wordpress:WordPress Publish": false,
-      "publish:Publish changes": false
+      "publish:Publish changes": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7ce5ead2ddb7ec5c",
+  "active": "36761a149013dd1a",
   "lastOpenFiles": [
+    "Journal/2023-01-11.md",
+    "calendar/2023-01-14 Test.md",
     "Chrome Clippings.md",
     "calendar/2023-W02.md",
-    "Journal/2023-01-11.md",
     "projets d'articles/Doute quan tu nous tiens.md",
     "README.md",
     "Untitled.canvas",
     "projets d'articles/Projects Kanban.md",
     "Untitled.md",
-    "Test/My note.md",
-    "Shortkey.md"
+    "Test/My note.md"
   ]
 }
