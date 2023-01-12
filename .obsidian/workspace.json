@@ -4,51 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "8396cf0199da7970",
+        "id": "d709c10c97c00028",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce5ead2ddb7ec5c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6cf6fb8e2a2aacb3",
+            "id": "c283f0c3c7466d65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/2023-01-14 Test.md",
+                "file": "Chrome Clippings.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "594bd4ff734cfaad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/comment prendre des notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36761a149013dd1a",
+            "id": "c95619bcae1bc213",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/comment prendre des notes.md",
+                "file": "Chrome Clippings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,12 +105,30 @@
             }
           },
           {
+            "id": "a7c4fc9dc0cd9b23",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dd5edfeb0715af3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chrome Clippings.md"
+              }
+            }
+          },
+          {
             "id": "ea51fd721296458d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/comment prendre des notes.md",
+                "file": "Chrome Clippings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,29 +146,27 @@
             }
           },
           {
-            "id": "4dd5edfeb0715af3",
+            "id": "db9e12218fa5a2f5",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/comment prendre des notes.md"
-              }
+              "type": "mermaid-toolbar-view",
+              "state": {}
             }
           },
           {
-            "id": "a7c4fc9dc0cd9b23",
+            "id": "5309e2e7833d5c7c",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 715.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,23 +176,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-wordpress:WordPress Publish": false,
       "publish:Publish changes": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-wordpress:WordPress Publish": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ba1185e8dde31690",
+  "active": "c283f0c3c7466d65",
   "lastOpenFiles": [
-    "Notes/Machine à états.md",
-    "calendar/2023-01-14 Test.md",
-    "Chrome Clippings.md",
-    "2023-W02.pdf",
-    "Journal/2023-01-11.md",
+    "projets d'articles/Projects Kanban.md",
+    "projets d'articles/164,735,993.md",
+    "calendar/2023-01-16.md",
     "calendar/2023-W02.md",
-    "projets d'articles/Doute quan tu nous tiens.md",
-    "README.md",
+    "Test/My note.md",
+    "2023-01-11.md",
+    "Chrome Clippings.md",
     "Untitled.canvas",
-    "projets d'articles/Projects Kanban.md"
+    "Journal/2023-01-11.md",
+    "2023-W02.pdf"
   ]
 }
