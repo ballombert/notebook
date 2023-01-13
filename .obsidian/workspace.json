@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 715.5
+    "width": 715.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +160,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a7c4fc9dc0cd9b23",
+  "active": "ba1185e8dde31690",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Chrome Clippings.md",
     "Test/My note.md",
     "projets d'articles/Projects Kanban.md",
@@ -169,7 +171,6 @@
     "calendar/2023-W02.md",
     "2023-01-11.md",
     "Untitled.canvas",
-    "Journal/2023-01-11.md",
-    "2023-W02.pdf"
+    "Journal/2023-01-11.md"
   ]
 }
