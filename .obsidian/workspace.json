@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily-notes.md",
+                "file": "Permanents Notes/Obsidian Dataview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/daily-notes.md",
+                "file": "Permanents Notes/Obsidian Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/daily-notes.md",
+                "file": "Permanents Notes/Obsidian Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/daily-notes.md"
+                "file": "Permanents Notes/Obsidian Dataview.md"
               }
             }
           }
@@ -184,10 +184,10 @@
       }
     ]
   },
-  "active": "cae8ad7e09b86065",
+  "active": "ba1185e8dde31690",
   "lastOpenFiles": [
-    "Emobility/Tests/Firmware update local.md",
     "templates/daily-notes.md",
+    "Emobility/Tests/Firmware update local.md",
     "calendar/2023-W02.md",
     "Notes/Machine à états.md",
     "calendar/2023-01-14 Test.md",
