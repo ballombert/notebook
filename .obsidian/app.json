@@ -9,5 +9,6 @@
   "spellcheckLanguages": [
     "en-US",
     "fr-FR"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
