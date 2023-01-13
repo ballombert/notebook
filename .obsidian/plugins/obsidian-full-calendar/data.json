@@ -2,7 +2,7 @@
   "calendarSources": [
     {
       "type": "caldav",
-      "color": "hsl( 254,  80%, calc( 68% - 3.8%))",
+      "color": "#006b29",
       "url": "https://allombert.fr/baikal/dav.php/calendars/beatrice/family/",
       "username": "beatrice",
       "password": "FamAll2012",
@@ -20,7 +20,11 @@
     },
     {
       "type": "local",
+<<<<<<< HEAD
       "color": "#590769",
+=======
+      "color": "#700377",
+>>>>>>> origin/main
       "directory": "calendar"
     }
   ],
