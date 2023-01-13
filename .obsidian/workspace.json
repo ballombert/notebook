@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "75c8292b2d477d85",
+        "id": "8396cf0199da7970",
         "type": "tabs",
         "children": [
           {
-            "id": "3cecb28cb2a54ebc",
+            "id": "36761a149013dd1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "full-calendar-view",
               "state": {}
             }
           },
           {
-            "id": "f8affcc0988c60ad",
+            "id": "fb01a5086e7f61e1",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "graph",
               "state": {}
             }
           }
@@ -101,22 +101,6 @@
             }
           },
           {
-            "id": "a7c4fc9dc0cd9b23",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "4dd5edfeb0715af3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "ea51fd721296458d",
             "type": "leaf",
             "state": {
@@ -137,13 +121,28 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "4dd5edfeb0715af3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7c4fc9dc0cd9b23",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 715.5
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,22 +153,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-wordpress:WordPress Publish": false,
       "publish:Publish changes": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "f8affcc0988c60ad",
+  "active": "fb01a5086e7f61e1",
   "lastOpenFiles": [
-    "Chrome Clippings.md",
-    "Test/My note.md",
-    "projets d'articles/Projects Kanban.md",
-    "projets d'articles/164,735,993.md",
-    "calendar/2023-01-16.md",
     "calendar/2023-W02.md",
-    "2023-01-11.md",
-    "Untitled.canvas",
+    "Notes/Machine à états.md",
+    "calendar/2023-01-14 Test.md",
+    "Chrome Clippings.md",
+    "2023-W02.pdf",
     "Journal/2023-01-11.md",
-    "2023-W02.pdf"
+    "projets d'articles/Doute quan tu nous tiens.md",
+    "README.md",
+    "Untitled.canvas",
+    "projets d'articles/Projects Kanban.md"
   ]
 }
