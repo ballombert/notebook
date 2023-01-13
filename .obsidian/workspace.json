@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6531bd669c5dba86",
+        "id": "e904c122f36b08c7",
         "type": "tabs",
         "children": [
           {
-            "id": "a6527e2f1ef3aa1e",
+            "id": "d8350e5c599073e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Excalibrain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalibrain.md"
+              }
             }
           }
         ],
@@ -177,17 +184,17 @@
       }
     ]
   },
-  "active": "a6527e2f1ef3aa1e",
+  "active": "d8350e5c599073e5",
   "lastOpenFiles": [
+    "Excalibrain.md",
+    "Emobility/Tests/Firmware update local.md",
+    "projets d'articles/164,735,993.md",
     "projets d'articles/Doute quan tu nous tiens.md",
     "projets d'articles/Projects Kanban.md",
     "Permanents Notes/Obsidian Dataview.md",
-    "projets d'articles/164,735,993.md",
     "Journal/2023-01-11.md",
     "templates/daily-notes.md",
     "templates/permanent-notes.md",
-    "Emobility/Tests/Firmware update local.md",
-    "calendar/2023-W02.md",
-    "Notes/Machine à états.md"
+    "calendar/2023-W02.md"
   ]
 }
