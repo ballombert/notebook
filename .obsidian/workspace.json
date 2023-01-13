@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/permanent-notes.md",
+                "file": "templates/daily-notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/permanent-notes.md",
+                "file": "templates/daily-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/permanent-notes.md",
+                "file": "templates/daily-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/permanent-notes.md"
+                "file": "templates/daily-notes.md"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "cae8ad7e09b86065",
   "lastOpenFiles": [
+    "templates/permanent-notes.md",
     "Permanents Notes/Obsidian Dataview.md",
     "templates/daily-notes.md",
     "Emobility/Tests/Firmware update local.md",
@@ -194,7 +195,6 @@
     "calendar/2023-01-14 Test.md",
     "Chrome Clippings.md",
     "2023-W02.pdf",
-    "Journal/2023-01-11.md",
-    "projets d'articles/Doute quan tu nous tiens.md"
+    "Journal/2023-01-11.md"
   ]
 }
