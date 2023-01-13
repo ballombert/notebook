@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8396cf0199da7970",
+        "id": "6531bd669c5dba86",
         "type": "tabs",
         "children": [
           {
-            "id": "cae8ad7e09b86065",
+            "id": "a6527e2f1ef3aa1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/daily-notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/daily-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/daily-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "templates/daily-notes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -184,17 +177,17 @@
       }
     ]
   },
-  "active": "cae8ad7e09b86065",
+  "active": "a6527e2f1ef3aa1e",
   "lastOpenFiles": [
-    "templates/permanent-notes.md",
+    "projets d'articles/Doute quan tu nous tiens.md",
+    "projets d'articles/Projects Kanban.md",
     "Permanents Notes/Obsidian Dataview.md",
+    "projets d'articles/164,735,993.md",
+    "Journal/2023-01-11.md",
     "templates/daily-notes.md",
+    "templates/permanent-notes.md",
     "Emobility/Tests/Firmware update local.md",
     "calendar/2023-W02.md",
-    "Notes/Machine à états.md",
-    "calendar/2023-01-14 Test.md",
-    "Chrome Clippings.md",
-    "2023-W02.pdf",
-    "Journal/2023-01-11.md"
+    "Notes/Machine à états.md"
   ]
 }
