@@ -11,15 +11,11 @@
             "id": "afb81d0025733b40",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "notes/Design Partern.canvas",
-                "viewState": {
-                  "x": 26,
-                  "y": 498,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Journal/2023-01-14.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Design Partern.canvas",
+                "file": "Journal/2023-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Design Partern.canvas"
+                "file": "Journal/2023-01-14.md"
               }
             }
           },
@@ -124,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Design Partern.canvas",
+                "file": "Journal/2023-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +159,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a7c4fc9dc0cd9b23",
+  "active": "afb81d0025733b40",
   "lastOpenFiles": [
     "Permanents Notes/Design Patterns.md",
     "notes/Design Partern.canvas",

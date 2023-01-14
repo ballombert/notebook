@@ -5,13 +5,14 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6868828,
+  "lastSavedStatusID": 6870459,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
   "booksIDsMap": {
     "Readwise/Articles/Google.md": "23260265",
-    "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md": "23260417"
+    "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md": "23260417",
+    "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md": "23264337"
   },
   "reimportShowConfirmation": true
 }
