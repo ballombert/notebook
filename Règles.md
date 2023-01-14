@@ -1,4 +1,5 @@
 
 ### Règle :
 
-. Quand tu as tord tu dois
+ - Tu peux avoir tord
+ - Tu veux 
