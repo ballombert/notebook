@@ -16,7 +16,7 @@
                 "file": "notes/Design Partern.canvas",
                 "viewState": {
                   "x": 26,
-                  "y": 126,
+                  "y": 498,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanents Notes/Design Patterns.md",
+                "file": "notes/Design Partern.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanents Notes/Design Patterns.md"
+                "file": "notes/Design Partern.canvas"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanents Notes/Design Patterns.md",
+                "file": "notes/Design Partern.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "afb81d0025733b40",
+  "active": "a7c4fc9dc0cd9b23",
   "lastOpenFiles": [
     "Permanents Notes/Design Patterns.md",
     "notes/Design Partern.canvas",
