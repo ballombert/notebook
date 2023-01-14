@@ -1,2 +1,4 @@
 
-### Règle N°1 :
+### Règle :
+
+. Quand tu as tord tu dois
