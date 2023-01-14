@@ -15,15 +15,28 @@
               "state": {
                 "file": "notes/Design Partern.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 26,
+                  "y": 5,
                   "zoom": 0,
                   "snapToGrid": false
                 }
               }
             }
+          },
+          {
+            "id": "1fe6e736fbb6a621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Design Partern.canvas",
+                "file": "Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Design Partern.canvas"
+                "file": "Design Patterns.md"
               }
             }
           },
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Design Partern.canvas",
+                "file": "Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,17 +177,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "afb81d0025733b40",
+  "active": "1fe6e736fbb6a621",
   "lastOpenFiles": [
+    "notes/Design Partern.canvas",
+    "notes/Video/taking notes on videos.md",
+    "Design Patterns.md",
     "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md",
     "Journal/2023-01-14.md",
     "notes/video/taking notes on videos.md",
     "Règles.md",
     "Journal/2023-01-09.md",
     "templates/daily-notes.md",
-    "Excalibrain.md",
-    "Obsidian Web Options.md",
-    "Explore Integrations - IFTTT.md",
-    "Test/My note.md"
+    "Excalibrain.md"
   ]
 }

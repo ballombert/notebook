@@ -1,8 +1,15 @@
----
-page-title: "Design Patterns"
-url: https://refactoring.guru/design-patterns
-date: "2023-01-14 18:54:01"
----
+
+# Patron de conception 
+
+## Définition :
+
+Ensemble de concept architectural reconnu comme bonne pratique qui peuvent être applicable pour la conception logicielle
+
+Ces concepts sont regroupés en catégorie :
 
 
-https://refactoring.guru/design-patterns
+
+
+
+
+
