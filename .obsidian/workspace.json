@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calendar/2023-01-09.md",
+                "file": "Journal/2023-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calendar/2023-01-09.md",
+                "file": "Journal/2023-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calendar/2023-01-09.md"
+                "file": "Journal/2023-01-09.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calendar/2023-01-09.md",
+                "file": "Journal/2023-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 715.5,
-    "collapsed": true
+    "width": 715.5
   },
   "left-ribbon": {
     "hiddenItems": {
