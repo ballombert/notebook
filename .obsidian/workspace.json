@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Règles.md",
+                "file": "notes/video/taking notes on videos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57aa24ef786e8f4d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Règles.md",
+                "file": "notes/video/taking notes on videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Règles.md"
+                "file": "notes/video/taking notes on videos.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Règles.md",
+                "file": "notes/video/taking notes on videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +162,15 @@
   },
   "active": "af562275321dc8c9",
   "lastOpenFiles": [
-    "Journal/2023-01-09.md",
+    "notes/video/taking notes on videos.md",
     "Règles.md",
+    "Journal/2023-01-09.md",
     "templates/daily-notes.md",
     "Excalibrain.md",
     "Obsidian Web Options.md",
     "Explore Integrations - IFTTT.md",
     "Test/My note.md",
     "Permanents Notes/Obsidian Dataview.md",
-    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
-    "conflict-files-obsidian-git.md"
+    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md"
   ]
 }
