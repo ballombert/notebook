@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/video/taking notes on videos.md",
+                "file": "Journal/2023-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/video/taking notes on videos.md",
+                "file": "Journal/2023-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/video/taking notes on videos.md"
+                "file": "Journal/2023-01-14.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/video/taking notes on videos.md",
+                "file": "Journal/2023-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
