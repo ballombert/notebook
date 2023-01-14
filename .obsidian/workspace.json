@@ -16,27 +16,14 @@
                 "file": "notes/Design Partern.canvas",
                 "viewState": {
                   "x": 26,
-                  "y": 5,
+                  "y": 126,
                   "zoom": 0,
                   "snapToGrid": false
                 }
               }
             }
-          },
-          {
-            "id": "1fe6e736fbb6a621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Permanents Notes/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns.md"
+                "file": "Permanents Notes/Design Patterns.md"
               }
             }
           },
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Permanents Notes/Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 715.5,
-    "collapsed": true
+    "width": 715.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,17 +163,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1fe6e736fbb6a621",
+  "active": "afb81d0025733b40",
   "lastOpenFiles": [
+    "Permanents Notes/Design Patterns.md",
     "notes/Design Partern.canvas",
+    "templates/permanent-notes.md",
     "notes/Video/taking notes on videos.md",
-    "Design Patterns.md",
     "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md",
     "Journal/2023-01-14.md",
     "notes/video/taking notes on videos.md",
     "Règles.md",
     "Journal/2023-01-09.md",
-    "templates/daily-notes.md",
-    "Excalibrain.md"
+    "templates/daily-notes.md"
   ]
 }
