@@ -1,8 +1,13 @@
 {
   "calendarSources": [
     {
+      "type": "local",
+      "color": "#690070",
+      "directory": "calendar"
+    },
+    {
       "type": "caldav",
-      "color": "#006b29",
+      "color": "#0040ff",
       "url": "https://allombert.fr/baikal/dav.php/calendars/beatrice/family/",
       "username": "beatrice",
       "password": "FamAll2012",
@@ -11,7 +16,7 @@
     },
     {
       "type": "caldav",
-      "color": "#00FF00",
+      "color": "#ffc800",
       "url": "https://allombert.fr/baikal/dav.php/calendars/beatrice/family/",
       "username": "beatrice",
       "password": "FamAll2012",
@@ -19,21 +24,26 @@
       "homeUrl": "https://allombert.fr/baikal/dav.php/calendars/beatrice/family/"
     },
     {
-      "type": "local",
-<<<<<<< HEAD
-      "color": "#590769",
-=======
-      "color": "#700377",
->>>>>>> origin/main
-      "directory": "calendar"
+      "type": "caldav",
+      "color": "#FF6D00",
+      "url": "https://allombert.fr/baikal/dav.php/calendars/beatrice/family/",
+      "username": "beatrice",
+      "password": "FamAll2012",
+      "name": "Test",
+      "homeUrl": "https://allombert.fr/baikal/dav.php/calendars/beatrice/06bc6365-afa7-4ae8-b8a4-72b1666375ce/"
+    },
+    {
+      "type": "ical",
+      "color": "#3ac200",
+      "url": "https://calendar.google.com/calendar/ical/beatrice.allombert%40outlook.com/private-0e73c9f9489eeb67666c40120eabef34/basic.ics"
     }
   ],
   "defaultCalendar": 0,
   "recursiveLocal": false,
-  "firstDay": 0,
+  "firstDay": 1,
   "initialView": {
     "desktop": "timeGridWeek",
     "mobile": "timeGrid3Days"
   },
-  "timeFormat24h": false
+  "timeFormat24h": true
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a22b92609d0ef3",
+        "id": "1fd4ce17e145a8e3",
         "type": "tabs",
         "children": [
           {
-            "id": "345b1f4e24f3852a",
+            "id": "9458d788b663547c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,15 +16,14 @@
             }
           },
           {
-            "id": "aefc84e87072388f",
+            "id": "0b2e4d458de06793",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,17 +160,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aefc84e87072388f",
+  "active": "ba1185e8dde31690",
   "lastOpenFiles": [
+    "Excalibrain.md",
+    "Test/My note.md",
+    "Permanents Notes/Obsidian Dataview.md",
+    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
     "conflict-files-obsidian-git.md",
     "Chrome Clippings.md",
-    "Test/My note.md",
     "projets d'articles/Projects Kanban.md",
     "projets d'articles/164,735,993.md",
     "calendar/2023-01-16.md",
-    "calendar/2023-W02.md",
-    "2023-01-11.md",
-    "Untitled.canvas",
-    "Journal/2023-01-11.md"
+    "calendar/2023-W02.md"
   ]
 }
