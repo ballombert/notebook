@@ -4,18 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bb067b8afa1b1710",
+        "id": "ccb13c6297ba454c",
         "type": "tabs",
         "children": [
           {
-            "id": "af562275321dc8c9",
+            "id": "afb81d0025733b40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Journal/2023-01-14.md",
-                "mode": "source",
-                "source": false
+                "file": "notes/Design Partern.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -69,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "57aa24ef786e8f4d",
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-01-14.md",
+                "file": "notes/Design Partern.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-01-14.md"
+                "file": "notes/Design Partern.canvas"
               }
             }
           },
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-01-14.md",
+                "file": "notes/Design Partern.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 715.5
+    "width": 715.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +164,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "af562275321dc8c9",
+  "active": "afb81d0025733b40",
   "lastOpenFiles": [
+    "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md",
+    "Journal/2023-01-14.md",
     "notes/video/taking notes on videos.md",
     "Règles.md",
     "Journal/2023-01-09.md",
@@ -169,8 +175,6 @@
     "Excalibrain.md",
     "Obsidian Web Options.md",
     "Explore Integrations - IFTTT.md",
-    "Test/My note.md",
-    "Permanents Notes/Obsidian Dataview.md",
-    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md"
+    "Test/My note.md"
   ]
 }
