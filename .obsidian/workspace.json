@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75c8292b2d477d85",
+        "id": "b0a22b92609d0ef3",
         "type": "tabs",
         "children": [
           {
-            "id": "3cecb28cb2a54ebc",
+            "id": "345b1f4e24f3852a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "f8affcc0988c60ad",
+            "id": "aefc84e87072388f",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -161,7 +161,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ba1185e8dde31690",
+  "active": "aefc84e87072388f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Chrome Clippings.md",
