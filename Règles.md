@@ -1,5 +1,5 @@
 
 ### Règle :
 
- - Tu peux avoir tord
- - Tu veux 
+ - Tu peux avoir tord accepte le 
+ - 
