@@ -167,8 +167,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ba1185e8dde31690",
+  "active": "9458d788b663547c",
   "lastOpenFiles": [
+    "templates/daily-notes.md",
+    "Journal/2023-01-09.md",
     "Excalibrain.md",
     "Obsidian Web Options.md",
     "Explore Integrations - IFTTT.md",
@@ -176,8 +178,6 @@
     "Permanents Notes/Obsidian Dataview.md",
     "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
     "conflict-files-obsidian-git.md",
-    "Chrome Clippings.md",
-    "projets d'articles/Projects Kanban.md",
-    "projets d'articles/164,735,993.md"
+    "Chrome Clippings.md"
   ]
 }
