@@ -1,4 +1,6 @@
-
+---
+tags: rules
+---
 ### Règle :
 
  - Tu peux avoir tord accepte le 
