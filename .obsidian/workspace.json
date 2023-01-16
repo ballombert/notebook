@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd2b5194391067ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-01-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
+                "file": "Journal/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md"
+                "file": "Journal/2023-01-16.md"
               }
             }
           },
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
+                "file": "Journal/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,17 +180,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ad0612ff4344d715",
+  "active": "dd2b5194391067ad",
   "lastOpenFiles": [
+    "notes/Quick note HS 9 Programmez.md",
+    "Untitled.canvas",
+    "Shortkey.md",
+    "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
     "Journal/2023-01-16.md",
     "Journal/2023-01-14.md",
     "Journal/2023-01-09.md",
     "calendar/2023-W02.md",
     "projets d'articles/Projects Kanban.md",
-    "Permanents Notes/Design Patterns.md",
-    "Permanents Notes/Obsidian Dataview.md",
-    "Permanents Notes/What is a Readme.md",
-    "notes/Design Partern.canvas",
-    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md"
+    "Permanents Notes/Design Patterns.md"
   ]
 }
