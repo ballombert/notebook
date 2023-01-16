@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-01-16.md",
+                "file": "notes/Quick note HS 9 Programmez.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-01-16.md",
+                "file": "notes/Quick note HS 9 Programmez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-01-16.md"
+                "file": "notes/Quick note HS 9 Programmez.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-01-16.md",
+                "file": "notes/Quick note HS 9 Programmez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,15 +182,15 @@
   },
   "active": "dd2b5194391067ad",
   "lastOpenFiles": [
+    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
+    "Journal/2023-01-16.md",
     "notes/Quick note HS 9 Programmez.md",
     "Untitled.canvas",
     "Shortkey.md",
     "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
-    "Journal/2023-01-16.md",
     "Journal/2023-01-14.md",
     "Journal/2023-01-09.md",
     "calendar/2023-W02.md",
-    "projets d'articles/Projects Kanban.md",
-    "Permanents Notes/Design Patterns.md"
+    "projets d'articles/Projects Kanban.md"
   ]
 }
