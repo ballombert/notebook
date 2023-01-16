@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92f2da2a6df2b291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanents Notes/S.O.L.I.D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Quick note HS 9 Programmez.md",
+                "file": "Permanents Notes/S.O.L.I.D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Quick note HS 9 Programmez.md"
+                "file": "Permanents Notes/S.O.L.I.D.md"
               }
             }
           },
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Quick note HS 9 Programmez.md",
+                "file": "Permanents Notes/S.O.L.I.D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,11 +192,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "dd2b5194391067ad",
+  "active": "92f2da2a6df2b291",
   "lastOpenFiles": [
+    "notes/Quick note HS 9 Programmez.md",
     "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
     "Journal/2023-01-16.md",
-    "notes/Quick note HS 9 Programmez.md",
     "Untitled.canvas",
     "Shortkey.md",
     "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
