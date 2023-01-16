@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanents Notes/Readme.md",
+                "file": "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanents Notes/Readme.md",
+                "file": "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanents Notes/Readme.md"
+                "file": "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanents Notes/Readme.md",
+                "file": "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,15 +170,15 @@
   },
   "active": "ad0612ff4344d715",
   "lastOpenFiles": [
-    "notes/Design Partern.canvas",
-    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
-    "notes/Video/taking notes on videos.md",
-    "Untitled.canvas",
-    "Emobility/Backlog Refinement 2023-01-16.md",
     "Journal/2023-01-16.md",
-    "Permanents Notes/LATCH Hierachy.md",
+    "Journal/2023-01-14.md",
+    "Journal/2023-01-09.md",
+    "calendar/2023-W02.md",
+    "projets d'articles/Projects Kanban.md",
+    "Permanents Notes/Design Patterns.md",
     "Permanents Notes/Obsidian Dataview.md",
-    "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
-    "Shortkey.md"
+    "Permanents Notes/What is a Readme.md",
+    "notes/Design Partern.canvas",
+    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md"
   ]
 }
