@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "3a03c0b54254dc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92f2da2a6df2b291",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Quick note HS 9 Programmez.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Quick note HS 9 Programmez.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Quick note HS 9 Programmez.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +203,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a7c4fc9dc0cd9b23",
+  "active": "3a03c0b54254dc10",
   "lastOpenFiles": [
-    "Permanents Notes/S.O.L.I.D.md",
     "notes/Quick note HS 9 Programmez.md",
+    "Permanents Notes/S.O.L.I.D.md",
     "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
     "Journal/2023-01-16.md",
     "Untitled.canvas",
