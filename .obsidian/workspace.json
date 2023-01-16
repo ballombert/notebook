@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57aa24ef786e8f4d",
@@ -177,7 +178,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a7c4fc9dc0cd9b23",
+  "active": "dc145f98c31be3af",
   "lastOpenFiles": [
     "Journal/2023-01-16.md",
     "Permanents Notes/LATCH Hierachy.md",
