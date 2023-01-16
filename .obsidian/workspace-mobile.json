@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test/My note.md",
+                "file": "Test/Réunion Émilie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test/My note.md",
+            "file": "Test/Réunion Émilie.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test/My note.md",
+            "file": "Test/Réunion Émilie.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test/My note.md"
+            "file": "Test/Réunion Émilie.md"
           }
         }
       },
@@ -129,10 +129,10 @@
     ],
     "currentTab": 0
   },
-  "active": "6553d292204c91fb",
+  "active": "488e9bca2d2554dc",
   "lastOpenFiles": [
     "2023-01-09.md",
-    "Test/My note.md",
+    "Test/Réunion Émilie.md",
     "Untitled.md",
     "Git.md",
     "2023-01-06.md",
