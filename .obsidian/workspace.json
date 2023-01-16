@@ -11,15 +11,44 @@
             "id": "afb81d0025733b40",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "notes/Design Partern.canvas",
+                "viewState": {
+                  "x": 26,
+                  "y": 288.5,
+                  "zoom": -0.49263317900570347,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "58f0792b89953b2a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-01-16.md",
+                "file": "Permanents Notes/Obsidian Dataview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b48ff0ee97422b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanents Notes/Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-01-16.md",
+                "file": "Permanents Notes/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-01-16.md"
+                "file": "Permanents Notes/Readme.md"
               }
             }
           },
@@ -120,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-01-16.md",
+                "file": "Permanents Notes/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +188,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "afb81d0025733b40",
+  "active": "7b48ff0ee97422b5",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Permanents Notes/Obsidian Dataview.md",
+    "Permanents Notes/LATCH Hierachy.md",
+    "Permanents Notes/Readme.md",
+    "notes/Design Partern.canvas",
+    "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
+    "Journal/2023-01-16.md",
     "Readwise/Articles/Google.md",
     "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md",
-    "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
-    "Journal/2023-01-14.md",
-    "Permanents Notes/Design Patterns.md",
-    "notes/Design Partern.canvas",
-    "templates/permanent-notes.md",
-    "notes/Video/taking notes on videos.md",
-    "notes/video/taking notes on videos.md",
-    "Règles.md"
+    "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md"
   ]
 }
