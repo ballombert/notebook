@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanents Notes/S.O.L.I.D.md",
+                "file": "notes/Quick note HS 9 Programmez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanents Notes/S.O.L.I.D.md"
+                "file": "notes/Quick note HS 9 Programmez.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanents Notes/S.O.L.I.D.md",
+                "file": "notes/Quick note HS 9 Programmez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +191,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "92f2da2a6df2b291",
+  "active": "dd2b5194391067ad",
   "lastOpenFiles": [
+    "Permanents Notes/S.O.L.I.D.md",
     "notes/Quick note HS 9 Programmez.md",
     "notes/ExcaliBrain is transforming how I use Obsidian.md - YouTube.md",
     "Journal/2023-01-16.md",
@@ -202,7 +202,6 @@
     "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
     "Journal/2023-01-14.md",
     "Journal/2023-01-09.md",
-    "calendar/2023-W02.md",
-    "projets d'articles/Projects Kanban.md"
+    "calendar/2023-W02.md"
   ]
 }
