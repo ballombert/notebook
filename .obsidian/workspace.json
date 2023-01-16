@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Articles/Google.md",
+                "file": "Journal/2023-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Articles/Google.md",
+                "file": "Journal/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Articles/Google.md"
+                "file": "Journal/2023-01-16.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Articles/Google.md",
+                "file": "Journal/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +161,7 @@
   },
   "active": "afb81d0025733b40",
   "lastOpenFiles": [
+    "Readwise/Articles/Google.md",
     "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md",
     "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
     "Journal/2023-01-14.md",
@@ -169,7 +170,6 @@
     "templates/permanent-notes.md",
     "notes/Video/taking notes on videos.md",
     "notes/video/taking notes on videos.md",
-    "Règles.md",
-    "Journal/2023-01-09.md"
+    "Règles.md"
   ]
 }
