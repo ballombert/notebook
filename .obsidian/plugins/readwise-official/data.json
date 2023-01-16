@@ -8,9 +8,10 @@
   "lastSavedStatusID": 6894545,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
-  "booksToRefresh": [],
+  "booksToRefresh": [
+    "23260265"
+  ],
   "booksIDsMap": {
-    "Readwise/Articles/Google.md": "23260265",
     "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md": "23260417",
     "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md": "23264337"
   },

@@ -1,4 +1,3 @@
-
 ---
 type: permante-notes
 tags: design patterns
@@ -15,12 +14,14 @@ Ces concepts sont regroupés en 3 catégories :
 - Les patrons de structure
 - Les patron de comportement
 
-
 Voir 
 ![[Pasted image 20230114191605.png]]
 
 [Design Patterns (refactoring.guru)](https://refactoring.guru/design-patterns)
 
+
+
+[[concept /design-patern]]
 
 
 
