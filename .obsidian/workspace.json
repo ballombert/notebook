@@ -4,54 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb13c6297ba454c",
+        "id": "c774b80c57b0757b",
         "type": "tabs",
         "children": [
           {
-            "id": "afb81d0025733b40",
+            "id": "d68b65001f411917",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2023-01-16.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "58f0792b89953b2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanents Notes/Obsidian Dataview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b48ff0ee97422b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da2f22d3a0437240",
+            "id": "d0e9819aa41cb834",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "dc145f98c31be3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emobility/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-01-16.md",
+                "file": "Emobility/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-01-16.md"
+                "file": "Emobility/Untitled.md"
               }
             }
           },
@@ -152,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-01-16.md",
+                "file": "Emobility/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,8 +176,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "afb81d0025733b40",
+  "active": "dc145f98c31be3af",
   "lastOpenFiles": [
+    "Journal/2023-01-16.md",
     "Permanents Notes/LATCH Hierachy.md",
     "Permanents Notes/Obsidian Dataview.md",
     "Readwise/Articles/Scott Hanselman's Complete List of Productivity Tips.md",
@@ -201,7 +187,6 @@
     "images/Pasted image 20230114191605.png",
     "Permanents Notes/Design Patterns.md",
     "Permanents Notes/Readme.md",
-    "projets d'articles/Projects Kanban.md",
-    "Readwise/Articles/Taking Notes From YouTube Videos in Obsidian.md"
+    "projets d'articles/Projects Kanban.md"
   ]
 }
