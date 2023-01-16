@@ -11,15 +11,11 @@
             "id": "afb81d0025733b40",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "notes/Design Partern.canvas",
-                "viewState": {
-                  "x": 26,
-                  "y": 288.5,
-                  "zoom": -0.49263317900570347,
-                  "snapToGrid": false
-                }
+                "file": "Journal/2023-01-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -46,9 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da2f22d3a0437240",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Journal/2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Journal/2023-01-16.md"
               }
             }
           },
@@ -149,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Journal/2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +191,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7b48ff0ee97422b5",
+  "active": "afb81d0025733b40",
   "lastOpenFiles": [
     "Permanents Notes/LATCH Hierachy.md",
     "Permanents Notes/Obsidian Dataview.md",
