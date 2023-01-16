@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emobility/Untitled.md",
+                "file": "Emobility/Backlog Refinement 2023-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emobility/Untitled.md",
+                "file": "Emobility/Backlog Refinement 2023-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emobility/Untitled.md"
+                "file": "Emobility/Backlog Refinement 2023-01-16.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emobility/Untitled.md",
+                "file": "Emobility/Backlog Refinement 2023-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +177,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "dc145f98c31be3af",
+  "active": "a7c4fc9dc0cd9b23",
   "lastOpenFiles": [
     "Journal/2023-01-16.md",
     "Permanents Notes/LATCH Hierachy.md",
