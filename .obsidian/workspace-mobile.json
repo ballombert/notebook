@@ -72,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "d3b65fcfef4399af",
@@ -128,7 +129,7 @@
     ],
     "currentTab": 0
   },
-  "active": "488e9bca2d2554dc",
+  "active": "6553d292204c91fb",
   "lastOpenFiles": [
     "2023-01-09.md",
     "Test/My note.md",
