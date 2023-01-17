@@ -1,5 +1,12 @@
 [Et merde, Git!?! (ohshitgit.com)](https://ohshitgit.com/fr)
 
+Git alias :
+[Git alias : pour être un bon développeur fainéant (borntocode.fr)](https://borntocode.fr/git-alias-etre-un-bon-developpeur-faineant/)
+
+
+Youps, je me suis planter :
+
+
 Corriger le message message
 ```bash
 git commit -amend
