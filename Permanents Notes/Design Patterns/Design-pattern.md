@@ -1,6 +1,5 @@
 ---
 type: permanent-notes
-parent: [[Architecture logiciel]]
 tags: Architecture-Logiciel
 ---
 
@@ -11,9 +10,6 @@ Un pattern est un ensemble d'element d'architecture logiciel utilise comme bonne
 %%
 Summarize the idea here with your word
 %%
-
-
-
 
 # [[Pattern de creation]]
 
