@@ -19,8 +19,7 @@ Summarize the idea here with your word
 
 # [[Pattern de structure]]
 
-
-
 # [[Pattern de comportment]]
+
 
 
