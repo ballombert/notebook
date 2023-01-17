@@ -10,5 +10,6 @@
     "en-US",
     "fr-FR"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }
