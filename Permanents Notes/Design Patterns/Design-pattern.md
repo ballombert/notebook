@@ -3,14 +3,11 @@ type: permanent-notes
 tags: Architecture-Logiciel
 ---
 
-> [Info]
-Un pattern est un ensemble d'element d'architecture logiciel utilise comme bonne pratique pour une solution donné.
+> [! DEFINITION]
+> Un pattern est un ensemble d'element d'architecture logiciel utilise comme bonne pratique pour une solution donné.
 
 
-%%
-Summarize the idea here with your word
-%%
-# Design patern 
+# Design pattern 
 
 ## [[Pattern de creation]] 
 
