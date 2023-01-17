@@ -16,32 +16,32 @@ Summarize the idea here with your word
 
 # Pattern de creation 
 
-[[Factory Methode]]
-[[Abstract Factory]]
-[[Builder]]
-[[Prototype]]
-[[Singleton]]
+#### [[Factory Methode]]
+#### [[Abstract Factory]]
+#### [[Builder]]
+#### [[Prototype]]
+#### [[Singleton]]
 
 # Pattern de structure
 
-[[Adapter]]
-[[Bridge]]
-[[Composite]]
-[[Decorator]]
-[[Facade]]
-[[Flyweight]]
-[[Proxy]]
+#### [[Adapter]]
+#### [[Bridge]]
+#### [[Composite]]
+#### [[Decorator]]
+#### [[Facade]]
+#### [[Flyweight]]
+#### [[Proxy]]
 
 
 # Pattern de comportment
 
-[[Chain of Responsibility]]
-[[Command]]
-[[Iterator]]
-[[Mediator]]
-[[Memento]]
-[[Observer]]
-[[State]]
-[[Strategy]]
-[[Template Methode]]
-[[Visitor]]
+#### [[Chain of Responsibility]]
+#### [[Command]]
+#### [[Iterator]]
+#### [[Mediator]]
+#### [[Memento]]
+#### [[Observer]]
+#### [[State]]
+#### [[Strategy]]
+#### [[Template Methode]]
+#### [[Visitor]]
