@@ -11,11 +11,10 @@ Un pattern est un ensemble d'element d'architecture logiciel utilise comme bonne
 Summarize the idea here with your word
 %%
 
-# [[Pattern de creation]]
+child::[[Pattern de creation]]
 
-# [[Pattern de structure]]
-
-# [[Pattern de comportment]]
+child::[[Pattern de structure]]
+child::[[Pattern de comportment]]
 
 
 

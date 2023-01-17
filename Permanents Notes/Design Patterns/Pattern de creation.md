@@ -1,3 +1,9 @@
+child::[[Factory Methode]]
+child::[[Abstract Factory]]
+child::[[Builder]]
+child::[[Prototype]]
+child::[[Singleton]]
+
 #### [[Factory Methode]]
 #### [[Abstract Factory]]
 #### [[Builder]]
