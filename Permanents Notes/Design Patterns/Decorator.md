@@ -1,5 +1,5 @@
 ---
 type: permanent-notes
-parent: [[Pattern de structure]]
 tags: Architecture-Logiciel
 ---
+parent:: [[Pattern de structure]]
