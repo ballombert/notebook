@@ -1,5 +1,6 @@
 ---
 type: permanent-notes
+parent: [[Architecture logiciel]]
 tags: Architecture-Logiciel
 ---
 
@@ -14,7 +15,7 @@ Summarize the idea here with your word
 
 
 
-# Pattern de creation 
+# [[Pattern de creation]]
 
 #### [[Factory Methode]]
 #### [[Abstract Factory]]
@@ -22,7 +23,7 @@ Summarize the idea here with your word
 #### [[Prototype]]
 #### [[Singleton]]
 
-# Pattern de structure
+# [[Pattern de structure]]
 
 #### [[Adapter]]
 #### [[Bridge]]
@@ -33,7 +34,7 @@ Summarize the idea here with your word
 #### [[Proxy]]
 
 
-# Pattern de comportment
+# [[Pattern de comportment]]
 
 #### [[Chain of Responsibility]]
 #### [[Command]]
