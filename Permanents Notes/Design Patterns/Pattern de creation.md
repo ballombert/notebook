@@ -1,1 +1,5 @@
-parent::[[Design-pattern]]
+#### [[Factory Methode]]
+#### [[Abstract Factory]]
+#### [[Builder]]
+#### [[Prototype]]
+#### [[Singleton]]

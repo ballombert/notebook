@@ -1,1 +1,7 @@
-parent::[[Design-pattern]]
+#### [[Adapter]]
+#### [[Bridge]]
+#### [[Composite]]
+#### [[Decorator]]
+#### [[Facade]]
+#### [[Flyweight]]
+#### [[Proxy]]
