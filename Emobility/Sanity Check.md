@@ -1,7 +1,7 @@
 
 Goal :  give the CCC a sanity status of the platform
 
-- [ ] Select a simple in e2e sanity scenario :
+- [ ] Create a simple in e2e sanity scenario :
 	- Create a simulate Charger
 	- Enrol it 
 	- Activated it
