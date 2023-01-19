@@ -12,9 +12,9 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-2023-01-18 ^y2dNCQkY
+2023-01-19 ^lQ8GZCXe
 
-[[Journal/2023-01-18.md]] ^RG27Bo4o
+[[Journal/2023-01-19.md]] ^WhqA2Fgz
 
 %%
 # Drawing
@@ -25,7 +25,7 @@ tags: [excalidraw]
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "RG27Bo4o",
+			"id": "WhqA2Fgz",
 			"type": "rectangle",
 			"x": -107,
 			"y": -72,
@@ -42,31 +42,31 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 1
 			},
-			"seed": 91257,
+			"seed": 5059,
 			"version": 1,
-			"versionNonce": 451783716,
-			"updated": 1674080191372,
+			"versionNonce": 603491945,
+			"updated": 1674155031290,
 			"isDeleted": false,
 			"groupIds": [
-				"hilS2KjF"
+				"KMqqAbGB"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "y2dNCQkY"
+					"id": "lQ8GZCXe"
 				}
 			],
-			"link": "[[Journal/2023-01-18.md]]",
+			"link": "[[Journal/2023-01-19.md]]",
 			"locked": false
 		},
 		{
-			"text": "2023-01-18",
+			"text": "2023-01-19",
 			"fontSize": 30,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 29,
-			"id": "y2dNCQkY",
+			"id": "lQ8GZCXe",
 			"type": "text",
 			"x": -97,
 			"y": -62,
@@ -83,23 +83,23 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 1
 			},
-			"seed": 22385,
+			"seed": 69505,
 			"version": 1,
-			"versionNonce": 944404331,
-			"updated": 1674080191372,
+			"versionNonce": 983334161,
+			"updated": 1674155031290,
 			"isDeleted": false,
 			"groupIds": [
-				"hilS2KjF"
+				"KMqqAbGB"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "RG27Bo4o",
-			"originalText": "2023-01-18",
-			"rawText": "2023-01-18"
+			"containerId": "WhqA2Fgz",
+			"originalText": "2023-01-19",
+			"rawText": "2023-01-19"
 		},
 		{
-			"id": "3ykVRwAc",
+			"id": "iFieEnq0",
 			"type": "ellipse",
 			"x": -117,
 			"y": -49,
@@ -116,20 +116,20 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 1
 			},
-			"seed": 49717,
+			"seed": 12816,
 			"version": 1,
-			"versionNonce": 5137391,
-			"updated": 1674080191372,
+			"versionNonce": 597163231,
+			"updated": 1674155031290,
 			"isDeleted": false,
 			"groupIds": [
-				"hilS2KjF"
+				"KMqqAbGB"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "E976Gcfz",
+			"id": "wHxpeEs0",
 			"type": "ellipse",
 			"x": -20,
 			"y": -82,
@@ -146,20 +146,20 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 1
 			},
-			"seed": 89207,
+			"seed": 24321,
 			"version": 1,
-			"versionNonce": 310823043,
-			"updated": 1674080191372,
+			"versionNonce": 553699513,
+			"updated": 1674155031290,
 			"isDeleted": false,
 			"groupIds": [
-				"hilS2KjF"
+				"KMqqAbGB"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "mtakErVE",
+			"id": "MywPy3vB",
 			"type": "ellipse",
 			"x": 10,
 			"y": -16,
@@ -176,13 +176,13 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 1
 			},
-			"seed": 68488,
+			"seed": 96802,
 			"version": 1,
-			"versionNonce": 71807139,
-			"updated": 1674080191372,
+			"versionNonce": 739604923,
+			"updated": 1674155031290,
 			"isDeleted": false,
 			"groupIds": [
-				"hilS2KjF"
+				"KMqqAbGB"
 			],
 			"boundElements": [],
 			"link": null,
@@ -204,10 +204,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 135.9561403508772,
-		"scrollY": 111.95915570175438,
+		"scrollX": 136.14285714285714,
+		"scrollY": 180.21651785714286,
 		"zoom": {
-			"value": 2.85
+			"value": 3.5
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
