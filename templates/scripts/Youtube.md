@@ -1,4 +1,6 @@
 <%*
+import { getSubtitles } from 'youtube-captions-scraper';
+
 let url = await tp.system.clipboard();
 let page = await tp.obsidian.request({url});
 let p = new DOMParser();
@@ -12,6 +14,15 @@ await tp.file.move("/Videos/"  + titleName);
 let duration2 = $("meta[itemprop='duration']").content.slice(2);
 let duration1 = duration2.replace(/M/gi, " Min ") ;
 let duration = duration1.replace(/S/gi, " Sec ") ;
+
+
+
+getSubtitles({
+  videoID: 'XXXXX', // youtube video id
+  lang: 'fr' // default: `en`
+}).then(captions => {
+  console.log(captions);
+});
 %>
 
 ---
