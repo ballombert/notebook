@@ -12,9 +12,15 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-2023-01-19 ^lQ8GZCXe
+🚀 To get started
+select a document using the search in the top left or
+open a document in another pane.
 
-[[Journal/2023-01-19.md]] ^WhqA2Fgz
+✨ For the best experience enable 'Open in adjacent pane'
+in Excalidraw settings under 'Links and Transclusion'.
+
+⚠ ExcaliBrain may need to wait for DataView to initialize its index.
+This can take up to a few minutes after starting Obsidian. ^jGLOiLZ8
 
 %%
 # Drawing
@@ -25,168 +31,39 @@ tags: [excalidraw]
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "WhqA2Fgz",
-			"type": "rectangle",
-			"x": -107,
-			"y": -72,
-			"width": 197,
-			"height": 56,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#C49A13FF",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 5059,
-			"version": 1,
-			"versionNonce": 603491945,
-			"updated": 1674155031290,
-			"isDeleted": false,
-			"groupIds": [
-				"KMqqAbGB"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "lQ8GZCXe"
-				}
-			],
-			"link": "[[Journal/2023-01-19.md]]",
-			"locked": false
-		},
-		{
-			"text": "2023-01-19",
-			"fontSize": 30,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 29,
-			"id": "lQ8GZCXe",
 			"type": "text",
-			"x": -97,
-			"y": -62,
-			"width": 177,
-			"height": 36,
-			"angle": 0,
-			"strokeColor": "#000000ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
+			"version": 1,
+			"versionNonce": 779822747,
+			"isDeleted": false,
+			"id": "jGLOiLZ8",
+			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 0,
+			"roughness": 1,
 			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 69505,
-			"version": 1,
-			"versionNonce": 983334161,
-			"updated": 1674155031290,
-			"isDeleted": false,
-			"groupIds": [
-				"KMqqAbGB"
-			],
+			"angle": 0,
+			"x": 0,
+			"y": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"width": 813,
+			"height": 225,
+			"seed": 93377,
+			"groupIds": [],
+			"roundness": null,
 			"boundElements": [],
+			"updated": 1674683035549,
 			"link": null,
 			"locked": false,
-			"containerId": "WhqA2Fgz",
-			"originalText": "2023-01-19",
-			"rawText": "2023-01-19"
-		},
-		{
-			"id": "iFieEnq0",
-			"type": "ellipse",
-			"x": -117,
-			"y": -49,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 12816,
-			"version": 1,
-			"versionNonce": 597163231,
-			"updated": 1674155031290,
-			"isDeleted": false,
-			"groupIds": [
-				"KMqqAbGB"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "wHxpeEs0",
-			"type": "ellipse",
-			"x": -20,
-			"y": -82,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 24321,
-			"version": 1,
-			"versionNonce": 553699513,
-			"updated": 1674155031290,
-			"isDeleted": false,
-			"groupIds": [
-				"KMqqAbGB"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "MywPy3vB",
-			"type": "ellipse",
-			"x": 10,
-			"y": -16,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 1
-			},
-			"seed": 96802,
-			"version": 1,
-			"versionNonce": 739604923,
-			"updated": 1674155031290,
-			"isDeleted": false,
-			"groupIds": [
-				"KMqqAbGB"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"rawText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"baseline": 220,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian."
 		}
 	],
 	"appState": {
@@ -204,14 +81,15 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 136.14285714285714,
-		"scrollY": 180.21651785714286,
+		"scrollX": 787,
+		"scrollY": 476.7578125,
 		"zoom": {
-			"value": 3.5
+			"value": 1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
-		"colorPalette": {}
+		"colorPalette": {},
+		"previousGridSize": null
 	},
 	"files": {}
 }
