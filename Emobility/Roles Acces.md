@@ -12,9 +12,16 @@ CCC member is assisting end-user with charger issues and wants to verify that th
 
 **User Story 
 
-As a platform manager, I want to assure platform security access on API by creating and managing access rôle that can be given to a network access key, so that I can assure that security access is set on a minimal access strategy given by the cybersecurity governance 
+As a platform manager, I want to assure platform security access on API by creating and managing access rôle that can be given to a network access key, so that I can assure that security access is set on a minimal access strategy given by the cybersecurity governance without need to deploy a new platforms version
 
 
 **Scenario**
 
 A platform manager need to set up a restricted access role for one or many network (ex: access for data analytics). They can modify the configuration to add specific access of the API to a new role. So They can create new API key with the specific role to limit the access to minimal and assure a security of the platforms.   
+
+**Technical**
+- Create a configuration item with:
+	- list of all the api route
+	- list of all rôle 
+	- link between role and api route access
+	- 
