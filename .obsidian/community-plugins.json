@@ -15,5 +15,6 @@
   "media-extended",
   "obsidian-checklist-plugin",
   "excalibrain",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "templater-obsidian"
 ]
