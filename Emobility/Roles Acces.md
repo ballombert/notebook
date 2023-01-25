@@ -24,4 +24,3 @@ A platform manager need to set up a restricted access role for one or many netwo
 	- list of all the api route
 	- list of all rôle 
 	- link between role and api route access
-	- 
