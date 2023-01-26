@@ -1,4 +1,4 @@
-[[ReadItLater]] [[Youtube]]
+https://www.youtube.com/embed/tDT214cE6Lo& [[ReadItLater]] [[Youtube]]
 
 # [you NEED to use VS Code RIGHT NOW!!](https://www.youtube.com/watch?v=1ZfO149BJvg)
 
