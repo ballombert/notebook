@@ -9,8 +9,10 @@ aura des victimes, c'est qui qu'on assassine ?
 Un etude mal biaisé, irreversible damage
 les Trans sur Internet ne nique pas vos tête
 Rolwling a twitte, j'ai envie de gerbé
-des mec sont menstrué, c'est une verité 
+des mec sont menstrueé c'est une verité 
 
 "the trans train", Rowling y aura des victimes
-aura des victimes, c'est qui qu'on assassine
+aura des victimes, c'est qui qu'on assassine ?
+
+
 
