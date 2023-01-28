@@ -44,13 +44,12 @@ Le mec nous baise
 Appel à la violence
 qui s'faut de l'enfance
 France ça commence
-TPMP,   
-
+TPMP,  Moutot et  Stern
+pouvez-vous vous taire ?
+monter de la panique
+peut plus laisser faire !
 
 PANIQUE TRANS
 
 "the trans train", Rowling 
 qui qu'on assassine ?
-
-
-
