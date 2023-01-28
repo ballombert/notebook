@@ -34,6 +34,7 @@ qui qu'on assassine ?
 pour t'appuyer 
 tu vas chercher
 très très à droite
+des mecs 
 
 
 
