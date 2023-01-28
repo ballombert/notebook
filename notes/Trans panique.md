@@ -1,18 +1,35 @@
-6h du mate, on fappe a la porte, police ! 
-menotte au poignet, c'est pas kinky
-tabasser, triangle rose et deporte comme sous vichy
-tout a comencer par cette essais la pente glisse 
+6h du mate, on fappe!
+c'est la police ! 
+menotter, arreter
+pas très kinky
+tabasser, triangle rosé  
+comme sous vichy
+ca a comencer par cette essais !
+la pente glissante
 
-"the trans train", Rowling y aura des victimes
-aura des victimes, c'est qui qu'on assassine ?
+PANIQUE TRANS
 
-Un etude mal biaisé, irreversible damage
-les Trans sur Internet ne nique pas vos tête
-Rolwling a twitte, j'ai envie de gerbé
-des mec sont menstrueé c'est une verité 
+"the trans train", Rowling 
+qui qu'on assassine ?
 
-"the trans train", Rowling y aura des victimes
-aura des victimes, c'est qui qu'on assassine ?
+Publie mal biaisé,
+irréversible damage
+Sur les réseaux  les trans
+ne nique pas l'enfance
+Rolwling a twitte, 
+envie de gerbé
+des mecs sont menstruée c'est la verité 
+Faut t'faire a l'idée
+
+"the trans train", Rowling 
+qui qu'on assassine ?
+
+Système pourris 
+Y a pas de mystère 
+t'as vecus l'enfer
+bouc émissaire 
+Les trans 
+
 
 
 
