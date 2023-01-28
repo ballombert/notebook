@@ -14,7 +14,8 @@ qui qu'on assassine ?
 
 Publie mal biaisé,
 irréversible damage
-Sur les réseaux  les trans
+survient la 
+Sur les réseaux les trans
 ne nique pas l'enfance
 Rolwling a twitte, 
 envie de gerbé
@@ -36,8 +37,8 @@ le man planning
 tu vas chercher
 très très à droite
 les mecs qui te tape 
-
-"What a woman"
+calomnier et demmander
+"What a woman ?"
 
 
 
