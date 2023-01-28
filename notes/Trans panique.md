@@ -1,10 +1,10 @@
 6h du mate, on fappe!
 c'est la police ! 
-menotter, arreter
+Menotter, arrêter
 pas très kinky
 tabasser, triangle rosé  
 comme sous vichy
-ca a comencer par cette essais !
+ça a commencer par cet essai !
 la pente glissante
 
 PANIQUE TRANS
@@ -20,16 +20,18 @@ Rolwling a twitte,
 envie de gerbé
 des mecs sont menstruée c'est la verité 
 Faut t'faire a l'idée
-
-"the trans train", Rowling 
-qui qu'on assassine ?
-
 Système pourris 
 Y a pas de mystère 
 t'as vecus l'enfer
 bouc émissaire 
-Les trans 
+Les trans prennent vos violences  
 
+PANIQUE TRANS
 
+"the trans train", Rowling 
+qui qu'on assassine ?
+
+pour t'appuyer 
+tu vas chercher
 
 
