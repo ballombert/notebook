@@ -31,10 +31,12 @@ PANIQUE TRANS
 "the trans train", Rowling 
 qui qu'on assassine ?
 
+Pour changé le 
 pour t'appuyer 
 tu vas chercher
 très très à droite
-des mecs 
+les mecs qui t'on niqué
+
 
 
 
