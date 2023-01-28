@@ -7,5 +7,6 @@ tout a comencer avec cette essais la pente glisse
 aura des victimes, c'est qui qu'on assassine
 
 Un etude mal biaisé et c'est fait enculé
-
+les Trans sur Internet ne nique pas les tête
+Rolwling a twitte, j'ai envie de gerbé
 
