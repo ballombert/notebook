@@ -1,10 +1,10 @@
-6h du mate, on fappe!
+6h du mat, on frappe!
 c'est la police ! 
 Menotter, arrêter
 pas très kinky
 tabasser, triangle rosé  
 comme sous vichy
-ça a commencer par cet essai !
+ça à commencer par cet essai !
 la pente glissante
 
 PANIQUE TRANS
@@ -13,17 +13,18 @@ PANIQUE TRANS
 qui qu'on assassine ?
 
 Publie mal biaisé,
-irréversible damage
-survient la 
+dommage irréversible
+c'est nous les nuisible
 Sur les réseaux les trans
 ne nique pas l'enfance
-Rolwling a twitte, 
+Rowling a Twitter, 
 envie de gerbé
-des mecs sont menstruée c'est la verité 
-Faut t'faire a l'idée
+des mecs sont menstrués,
+c'est la vérité 
+Faut t'faire à l'idée
 Système pourris 
 Y a pas de mystère 
-t'as vecus l'enfer
+t'as vécus l'enfer
 bouc émissaire 
 Les trans prennent vos violences  
 
@@ -32,14 +33,24 @@ PANIQUE TRANS
 "the trans train", Rowling 
 qui qu'on assassine ?
 
-Pour changé le paradigme
+Pour changer le paradigme
 le man planning 
 tu vas chercher
 très très à droite
-les mecs qui te tape 
-calomnier et demmander
+les mecs qui te tapent 
+contre-vérité est demander
 "What a woman ?"
+Le mec nous baise
+Appel à la violence
+qui s'faut de l'enfance
+France ça commence
+TPMP,   
 
+
+PANIQUE TRANS
+
+"the trans train", Rowling 
+qui qu'on assassine ?
 
 
 
