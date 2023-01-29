@@ -10,7 +10,7 @@ la pente glissante
 PANIQUE TRANS
 
 "the trans train", Rowling 
-qui qu'on assassine ?
+qui est qu'on assassine ?
 
 Publie mal biaisé,
 dommage irréversible
