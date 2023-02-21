@@ -26,7 +26,7 @@ Ce devis est à envoyer à votre mutuelle 1 mois avant le jour du module pré-op
 
 **« DOSSIER ANESTHESISTES »** :A conserver et à rapporter à chacun de vos RDV anesthésistes.
 - [ ] **/!\ Le test PCR est à réaliser avant la gastroscopie du 03/04/2023**
-- [ ] **/!\ Penser à prendre le rendez-vous avec l’anesthésiste** 
+- [x] **/!\ Penser à prendre le rendez-vous avec l’anesthésiste** 
 - [ ] **/!\ Penser à prendre rendez-vous avec la diététicienne de l’équipe depuis le site follow surg.**
 
 Vous trouverez également une prescription afin de réaliser un dépistage d’apnée du sommeil. Vous pouvez réaliser le RDV auprès du pneumologue de votre choix.
