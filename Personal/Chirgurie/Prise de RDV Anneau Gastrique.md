@@ -20,12 +20,12 @@ Ce devis est à envoyer à votre mutuelle 1 mois avant le jour du module pré-op
 
 —> DEMANDER À VOTRE MUTUELLE D’EFFECTUER LA PRISE EN CHARGE DE CE DEVIS POUR LA DATE DE LA GASTROSCOPIE 
 
-- [ ] **«  DEVIS ANNEAU GASTRIQUE »:**  Merci de SIGNER ce devis et me renvoyer par mail SVP ([sec.blanchet@chirurgien-digestif.com](mailto:sec.blanchet@chirurgien-digestif.com)).
+- [x] **«  DEVIS ANNEAU GASTRIQUE »:**  Merci de SIGNER ce devis et me renvoyer par mail SVP ([sec.blanchet@chirurgien-digestif.com](mailto:sec.blanchet@chirurgien-digestif.com)).
 
 —> Envoyer ce devis dans le même temps que le « devis module pré-opératoire » ATTENTION : Demander une ESTIMATION DE CE DEVIS - Merci d’adresser au secrétariat du DR BLANCHET le retour de votre mutuelle par mail ou de nous donner le document lors du prochain rendez-vous avec le Docteur BLANCHET.
 
 **« DOSSIER ANESTHESISTES »** :A conserver et à rapporter à chacun de vos RDV anesthésistes.
-- [ ] **/!\ Le test PCR est à réaliser avant la gastroscopie du 03/04/2023**
+- [x] **/!\ Le test PCR est à réaliser avant la gastroscopie du 03/04/2023**
 - [x] **/!\ Penser à prendre le rendez-vous avec l’anesthésiste** 
 - [ ] **/!\ Penser à prendre rendez-vous avec la diététicienne de l’équipe depuis le site follow surg.**
 
