@@ -1,4 +1,5 @@
 {
+  "compactView": false,
   "excalibrainFilepath": "excalibrain.md",
   "indexUpdateInterval": 5000,
   "hierarchy": {

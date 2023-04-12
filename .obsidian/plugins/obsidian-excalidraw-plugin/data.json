@@ -69,7 +69,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://excalidraw.com",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.22",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -5150,11 +5150,11 @@
             "fontFamily": 1,
             "text": "0 .. 1",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "0 .. 1"
+            "originalText": "0 .. 1",
+            "lineHeight": 1.25
           }
         ],
         "id": "QRr5-_7DOxv2yIX2L9JYx",
@@ -5194,11 +5194,11 @@
             "fontFamily": 1,
             "text": "1 .. n",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "1 .. n"
+            "originalText": "1 .. n",
+            "lineHeight": 1.25
           }
         ],
         "id": "GBZRmqqSFaPLPhq1RDPAA",
@@ -5238,11 +5238,11 @@
             "fontFamily": 1,
             "text": "n .. m",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "n .. m"
+            "originalText": "n .. m",
+            "lineHeight": 1.25
           }
         ],
         "id": "gmzhIjuBh71XIqhgammEq",
@@ -7006,11 +7006,11 @@
             "fontFamily": 1,
             "text": "Global\nAccelerator",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Global\nAccelerator"
+            "originalText": "Global\nAccelerator",
+            "lineHeight": 1.25
           }
         ],
         "id": "jQXzQM_9WlNjXmoblIK7r",
@@ -7431,11 +7431,11 @@
             "fontFamily": 1,
             "text": "ALB",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "ALB"
+            "originalText": "ALB",
+            "lineHeight": 1.25
           }
         ],
         "id": "LkD9uGsMGLf3w6g6sZj5g",
@@ -7508,11 +7508,11 @@
             "fontFamily": 1,
             "text": "Route 53",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Route 53"
+            "originalText": "Route 53",
+            "lineHeight": 1.25
           },
           {
             "type": "line",
@@ -14031,11 +14031,11 @@
             "fontFamily": 1,
             "text": "53",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "53"
+            "originalText": "53",
+            "lineHeight": 1.25
           }
         ],
         "id": "egfB8yfFTtBbCdpyBVvwM",
@@ -14102,11 +14102,11 @@
             "fontFamily": 1,
             "text": "AWS account",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "AWS account"
+            "originalText": "AWS account",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -14346,11 +14346,11 @@
             "fontFamily": 1,
             "text": "Region",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Region"
+            "originalText": "Region",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -14597,11 +14597,11 @@
             "fontFamily": 1,
             "text": "IAM",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "IAM"
+            "originalText": "IAM",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -15200,11 +15200,11 @@
             "fontFamily": 1,
             "text": "Chatbot",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Chatbot"
+            "originalText": "Chatbot",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -16217,11 +16217,11 @@
             "fontFamily": 1,
             "text": "Train",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Train"
+            "originalText": "Train",
+            "lineHeight": 1.25
           }
         ],
         "id": "nQyviyvQAVC6HXkbjzARS",
@@ -17153,11 +17153,11 @@
             "fontFamily": 1,
             "text": "Model",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Model"
+            "originalText": "Model",
+            "lineHeight": 1.25
           }
         ],
         "id": "-_QIGPSN7gkeuQa6UmWwh",
@@ -17907,11 +17907,11 @@
             "fontFamily": 1,
             "text": "Canvas",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Canvas"
+            "originalText": "Canvas",
+            "lineHeight": 1.25
           }
         ],
         "id": "VJ21zw_CtZOL9awT-tkMp",
@@ -18467,11 +18467,11 @@
             "fontFamily": 1,
             "text": "Notebook",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Notebook"
+            "originalText": "Notebook",
+            "lineHeight": 1.25
           }
         ],
         "id": "pdW-7mjjUZ5168AsAU-sy",
@@ -18513,11 +18513,11 @@
             "fontFamily": 1,
             "text": "Amazon Elastic\nInference",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Amazon Elastic\nInference"
+            "originalText": "Amazon Elastic\nInference",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -20402,11 +20402,11 @@
             "fontFamily": 1,
             "text": "Ground Truth",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Ground Truth"
+            "originalText": "Ground Truth",
+            "lineHeight": 1.25
           }
         ],
         "id": "WSdtIclO5U24cBGGw8Ijj",
@@ -21331,11 +21331,11 @@
             "fontFamily": 1,
             "text": "SageMaker",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "SageMaker"
+            "originalText": "SageMaker",
+            "lineHeight": 1.25
           }
         ],
         "id": "iC2d7xvqPp-rc27ogeQhi",
@@ -21990,11 +21990,11 @@
             "fontFamily": 1,
             "text": "Kinesis \nData Firehose",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Kinesis \nData Firehose"
+            "originalText": "Kinesis \nData Firehose",
+            "lineHeight": 1.25
           }
         ],
         "id": "jcSl44TSynjc-fO_0wdCw",
@@ -22495,11 +22495,11 @@
             "fontFamily": 1,
             "text": "Kinesis \nVideo Streams",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Kinesis \nVideo Streams"
+            "originalText": "Kinesis \nVideo Streams",
+            "lineHeight": 1.25
           }
         ],
         "id": "eeoA0sJRKPwv1IDOSNzVD",
@@ -23322,11 +23322,11 @@
             "fontFamily": 1,
             "text": "Kinesis \nData Streams",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Kinesis \nData Streams"
+            "originalText": "Kinesis \nData Streams",
+            "lineHeight": 1.25
           }
         ],
         "id": "VnIvQwSIqbUBawP0fkZE9",
@@ -23367,11 +23367,11 @@
             "fontFamily": 1,
             "text": "Kinesis \nData Analytics",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Kinesis \nData Analytics"
+            "originalText": "Kinesis \nData Analytics",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -23907,11 +23907,11 @@
             "fontFamily": 1,
             "text": "QuickSight",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "QuickSight"
+            "originalText": "QuickSight",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -24345,11 +24345,11 @@
             "fontFamily": 1,
             "text": "EMR",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "EMR"
+            "originalText": "EMR",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -24952,11 +24952,11 @@
             "fontFamily": 1,
             "text": "Data Pipeline",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Data Pipeline"
+            "originalText": "Data Pipeline",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -25618,11 +25618,11 @@
             "fontFamily": 1,
             "text": "Redshift",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Redshift"
+            "originalText": "Redshift",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -26103,11 +26103,11 @@
             "fontFamily": 1,
             "text": "Lake Formation",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Lake Formation"
+            "originalText": "Lake Formation",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -26921,11 +26921,11 @@
             "fontFamily": 1,
             "text": "Glue",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Glue"
+            "originalText": "Glue",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -27565,11 +27565,11 @@
             "fontFamily": 1,
             "text": "Lambda",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Lambda"
+            "originalText": "Lambda",
+            "lineHeight": 1.25
           }
         ],
         "id": "B5XI2NRrvjQgSu2It-Dio",
@@ -27786,11 +27786,11 @@
             "fontFamily": 1,
             "text": "EC2",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "EC2"
+            "originalText": "EC2",
+            "lineHeight": 1.25
           }
         ],
         "id": "pTH_m9ehAzeTN7TPi3wtj",
@@ -28616,11 +28616,11 @@
             "fontFamily": 1,
             "text": "Fargate",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Fargate"
+            "originalText": "Fargate",
+            "lineHeight": 1.25
           }
         ],
         "id": "DtkYWxbtSdukzd9G3z1dF",
@@ -29264,11 +29264,11 @@
             "fontFamily": 1,
             "text": "Step Functions",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Step Functions"
+            "originalText": "Step Functions",
+            "lineHeight": 1.25
           }
         ],
         "id": "CUDZehZCVtVEl38y0BVk9",
@@ -29535,11 +29535,11 @@
             "fontFamily": 1,
             "text": "S3 Bucket",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "S3 Bucket"
+            "originalText": "S3 Bucket",
+            "lineHeight": 1.25
           }
         ],
         "id": "2cDRfFa3xKa9V1S8mwHeL",
@@ -29615,11 +29615,11 @@
             "fontFamily": 1,
             "text": "EBS",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "EBS"
+            "originalText": "EBS",
+            "lineHeight": 1.25
           },
           {
             "type": "line",
@@ -30169,11 +30169,11 @@
             "fontFamily": 1,
             "text": "EFS",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "EFS"
+            "originalText": "EFS",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -31494,11 +31494,11 @@
             "fontFamily": 1,
             "text": "SNS",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "SNS"
+            "originalText": "SNS",
+            "lineHeight": 1.25
           }
         ],
         "id": "UUaud0TU62hUlULQkf1Gc",
@@ -32142,11 +32142,11 @@
             "fontFamily": 1,
             "text": "SQS",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "SQS"
+            "originalText": "SQS",
+            "lineHeight": 1.25
           }
         ],
         "id": "itvir-hQNN1TBh5Sj4iNB",
@@ -32756,11 +32756,11 @@
             "fontFamily": 1,
             "text": "SES",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "SES"
+            "originalText": "SES",
+            "lineHeight": 1.25
           }
         ],
         "id": "4OsWOq1hb__jVIpmVvJ0Q",
@@ -32801,11 +32801,11 @@
             "fontFamily": 1,
             "text": "Crawler",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Crawler"
+            "originalText": "Crawler",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -33813,11 +33813,11 @@
             "fontFamily": 1,
             "text": "DataCatalog",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "DataCatalog"
+            "originalText": "DataCatalog",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -35177,11 +35177,11 @@
             "fontFamily": 1,
             "text": "DynamoDB",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "DynamoDB"
+            "originalText": "DynamoDB",
+            "lineHeight": 1.25
           }
         ],
         "id": "sBc_ijro6i4nCn2ikQwXq",
@@ -35222,11 +35222,11 @@
             "fontFamily": 1,
             "text": "RDS",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "RDS"
+            "originalText": "RDS",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -36165,11 +36165,11 @@
             "fontFamily": 1,
             "text": "Aurora",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Aurora"
+            "originalText": "Aurora",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -37164,11 +37164,11 @@
             "fontFamily": 1,
             "text": "Kinesis",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Kinesis"
+            "originalText": "Kinesis",
+            "lineHeight": 1.25
           }
         ],
         "id": "IU8wwF2TLJv_lmTcJEOeq",
@@ -37209,11 +37209,11 @@
             "fontFamily": 1,
             "text": "Athena",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Athena"
+            "originalText": "Athena",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -37635,11 +37635,11 @@
             "fontFamily": 3,
             "text": "</>",
             "rawText": "",
-            "baseline": 14.773253822793095,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "</>"
+            "originalText": "</>",
+            "lineHeight": 1.257040423235427
           },
           {
             "type": "ellipse",
@@ -38133,11 +38133,11 @@
             "fontFamily": 1,
             "text": "CodeCommit",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "CodeCommit"
+            "originalText": "CodeCommit",
+            "lineHeight": 1.25
           }
         ],
         "id": "BPe6mMu1Tu0Xddjvu3M8Z",
@@ -38211,11 +38211,11 @@
             "fontFamily": 3,
             "text": "</>",
             "rawText": "",
-            "baseline": 7.260121745431354,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "</>"
+            "originalText": "</>",
+            "lineHeight": 1.1875000000000002
           },
           {
             "type": "rectangle",
@@ -38548,11 +38548,11 @@
             "fontFamily": 1,
             "text": "CodeBuild",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "CodeBuild"
+            "originalText": "CodeBuild",
+            "lineHeight": 1.25
           }
         ],
         "id": "FalNUN8ym82bn4q3wk2HN",
@@ -38626,11 +38626,11 @@
             "fontFamily": 3,
             "text": "</>",
             "rawText": "",
-            "baseline": 16.20566596857732,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "</>"
+            "originalText": "</>",
+            "lineHeight": 1.257040423235427
           },
           {
             "type": "rectangle",
@@ -39245,11 +39245,11 @@
             "fontFamily": 1,
             "text": "CodeDeploy",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "CodeDeploy"
+            "originalText": "CodeDeploy",
+            "lineHeight": 1.25
           }
         ],
         "id": "AmW2DAwyFPIdtyPxtaX8p",
@@ -39290,11 +39290,11 @@
             "fontFamily": 1,
             "text": "CloudFormation",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "CloudFormation"
+            "originalText": "CloudFormation",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -40148,11 +40148,11 @@
             "fontFamily": 1,
             "text": "CloudWatch",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "CloudWatch"
+            "originalText": "CloudWatch",
+            "lineHeight": 1.25
           }
         ],
         "id": "dYep3GfKtwHNePFmWHCCY",
@@ -40693,11 +40693,11 @@
             "fontFamily": 1,
             "text": "EventBridge",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "EventBridge"
+            "originalText": "EventBridge",
+            "lineHeight": 1.25
           }
         ],
         "id": "aM_EPwBvlKyhSrP_WssL6",
@@ -41229,11 +41229,11 @@
             "fontFamily": 1,
             "text": "Cognito",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Cognito"
+            "originalText": "Cognito",
+            "lineHeight": 1.25
           }
         ],
         "id": "2FqDTiYaHkgNemGdW97N0",
@@ -41805,11 +41805,11 @@
             "fontFamily": 1,
             "text": "AppSync",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "AppSync"
+            "originalText": "AppSync",
+            "lineHeight": 1.25
           }
         ],
         "id": "sNijAre7B_17_vEq3IhGo",
@@ -42219,11 +42219,11 @@
             "fontFamily": 1,
             "text": "API Gateway",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "API Gateway"
+            "originalText": "API Gateway",
+            "lineHeight": 1.25
           }
         ],
         "id": "2BShAaU06x5QYdwdlQAol",
@@ -42855,11 +42855,11 @@
             "fontFamily": 1,
             "text": "System Manager",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "System Manager"
+            "originalText": "System Manager",
+            "lineHeight": 1.25
           }
         ],
         "id": "DrRQwiKeJejZ_OdQ4RzA0",
@@ -42900,11 +42900,11 @@
             "fontFamily": 1,
             "text": "Single Sign-On",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Single Sign-On"
+            "originalText": "Single Sign-On",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -43575,11 +43575,11 @@
             "fontFamily": 1,
             "text": "Amplify",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Amplify"
+            "originalText": "Amplify",
+            "lineHeight": 1.25
           }
         ],
         "id": "D6G6eESR90oOnRwsKwg23",
@@ -44230,11 +44230,11 @@
             "fontFamily": 1,
             "text": "CloudFront",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "CloudFront"
+            "originalText": "CloudFront",
+            "lineHeight": 1.25
           }
         ],
         "id": "R7DSc6puLHia7flrnCsVL",
@@ -44691,11 +44691,11 @@
             "fontFamily": 1,
             "text": "Transit Gateway",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Transit Gateway"
+            "originalText": "Transit Gateway",
+            "lineHeight": 1.25
           }
         ],
         "id": "2KD_twzavlrlW8qJiCbpO",
@@ -45041,11 +45041,11 @@
             "fontFamily": 1,
             "text": "ELB",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "ELB"
+            "originalText": "ELB",
+            "lineHeight": 1.25
           }
         ],
         "id": "u7Trd89B5LLThBVECk7T1",
@@ -45289,11 +45289,11 @@
             "fontFamily": 1,
             "text": "VPN gateway",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "VPN gateway"
+            "originalText": "VPN gateway",
+            "lineHeight": 1.25
           }
         ],
         "id": "Uv2NWxZO9jiy2hEwe98zG",
@@ -45670,11 +45670,11 @@
             "fontFamily": 1,
             "text": "Peering connection",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Peering connection"
+            "originalText": "Peering connection",
+            "lineHeight": 1.25
           }
         ],
         "id": "JLUsgjZKAGS5ERzngbawr",
@@ -45715,11 +45715,11 @@
             "fontFamily": 1,
             "text": "NAT gateway",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "NAT gateway"
+            "originalText": "NAT gateway",
+            "lineHeight": 1.25
           },
           {
             "type": "ellipse",
@@ -46115,11 +46115,11 @@
             "fontFamily": 1,
             "text": "Internet gateway",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Internet gateway"
+            "originalText": "Internet gateway",
+            "lineHeight": 1.25
           },
           {
             "type": "ellipse",
@@ -46401,11 +46401,11 @@
             "fontFamily": 1,
             "text": "NACL",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "NACL"
+            "originalText": "NACL",
+            "lineHeight": 1.25
           },
           {
             "type": "ellipse",
@@ -52781,11 +52781,11 @@
             "fontFamily": 1,
             "text": "Scala",
             "rawText": "",
-            "baseline": 180,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Scala"
+            "originalText": "Scala",
+            "lineHeight": 1.2668502517160747
           }
         ],
         "id": "3WTw5amYv_i09zh8SjA5h",
@@ -53217,11 +53217,11 @@
             "fontFamily": 1,
             "text": "GitLab",
             "rawText": "",
-            "baseline": 181,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "GitLab"
+            "originalText": "GitLab",
+            "lineHeight": 1.2647058823529393
           }
         ],
         "id": "IcuHaUt754v5jBKvWOdfV",
@@ -56089,11 +56089,11 @@
             "fontFamily": 1,
             "text": "Power BI",
             "rawText": "",
-            "baseline": 119,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Power BI"
+            "originalText": "Power BI",
+            "lineHeight": 1.2603288994037813
           },
           {
             "type": "line",
@@ -57118,11 +57118,11 @@
             "fontFamily": 1,
             "text": "Apache",
             "rawText": "",
-            "baseline": 56.44595124058509,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Apache"
+            "originalText": "Apache",
+            "lineHeight": 1.2499999999999998
           },
           {
             "type": "text",
@@ -57155,11 +57155,11 @@
             "fontFamily": 1,
             "text": "Superset",
             "rawText": "",
-            "baseline": 149.20923872025338,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Superset"
+            "originalText": "Superset",
+            "lineHeight": 1.2499999999999998
           },
           {
             "type": "line",
@@ -58147,11 +58147,11 @@
             "fontFamily": 1,
             "text": "Apache",
             "rawText": "",
-            "baseline": 89,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Apache"
+            "originalText": "Apache",
+            "lineHeight": 1.2719778104654809
           },
           {
             "type": "text",
@@ -58184,11 +58184,11 @@
             "fontFamily": 1,
             "text": "Airflow",
             "rawText": "",
-            "baseline": 187,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Airflow"
+            "originalText": "Airflow",
+            "lineHeight": 1.2686472221400076
           }
         ],
         "id": "2alGzWDHI1Z3VfY4oX_Dt",
@@ -58630,11 +58630,11 @@
             "fontFamily": 1,
             "text": "AIRBYTE",
             "rawText": "",
-            "baseline": 62,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "AIRBYTE"
+            "originalText": "AIRBYTE",
+            "lineHeight": 1.2652273629605733
           }
         ],
         "id": "m7tKv6DPIGlbDM5AF9trY",
@@ -58852,11 +58852,11 @@
             "fontFamily": 1,
             "text": "dbt",
             "rawText": "",
-            "baseline": 199,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "dbt"
+            "originalText": "dbt",
+            "lineHeight": 1.2669208596893964
           }
         ],
         "id": "26lNXOaTR_AG3PelLOYiW",
@@ -59303,11 +59303,11 @@
             "fontFamily": 1,
             "text": "cloudera",
             "rawText": "",
-            "baseline": 61,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "cloudera"
+            "originalText": "cloudera",
+            "lineHeight": 1.2705114743101995
           },
           {
             "type": "text",
@@ -59342,11 +59342,11 @@
             "fontFamily": 1,
             "text": "IMPALA",
             "rawText": "",
-            "baseline": 33,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "IMPALA"
+            "originalText": "IMPALA",
+            "lineHeight": 1.2785967053114455
           }
         ],
         "id": "q7TfqHIKnQQlthxmvpFGE",
@@ -59562,11 +59562,11 @@
             "fontFamily": 1,
             "text": "DELTA LAKE",
             "rawText": "",
-            "baseline": 82,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "DELTA LAKE"
+            "originalText": "DELTA LAKE",
+            "lineHeight": 1.2667131279896107
           }
         ],
         "id": "4nORjONhn6dUNrSP4hCvO",
@@ -60227,11 +60227,11 @@
             "fontFamily": 1,
             "text": "A",
             "rawText": "",
-            "baseline": 47,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "A"
+            "originalText": "A",
+            "lineHeight": 1.245766392702174
           },
           {
             "type": "text",
@@ -60265,11 +60265,11 @@
             "fontFamily": 1,
             "text": "P",
             "rawText": "",
-            "baseline": 49,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "P"
+            "originalText": "P",
+            "lineHeight": 1.2483837338928128
           },
           {
             "type": "text",
@@ -60303,11 +60303,11 @@
             "fontFamily": 1,
             "text": "C",
             "rawText": "",
-            "baseline": 51,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "C"
+            "originalText": "C",
+            "lineHeight": 1.2645057637972448
           },
           {
             "type": "text",
@@ -60341,11 +60341,11 @@
             "fontFamily": 1,
             "text": "H",
             "rawText": "",
-            "baseline": 51,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "H"
+            "originalText": "H",
+            "lineHeight": 1.2568581443963873
           },
           {
             "type": "text",
@@ -60379,11 +60379,11 @@
             "fontFamily": 1,
             "text": "E",
             "rawText": "",
-            "baseline": 49,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "E"
+            "originalText": "E",
+            "lineHeight": 1.2504577428602315
           },
           {
             "type": "text",
@@ -60417,11 +60417,11 @@
             "fontFamily": 1,
             "text": "A",
             "rawText": "",
-            "baseline": 47,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "A"
+            "originalText": "A",
+            "lineHeight": 1.245766392702174
           },
           {
             "type": "line",
@@ -60798,11 +60798,11 @@
             "fontFamily": 1,
             "text": "databricks",
             "rawText": "",
-            "baseline": 159,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "databricks"
+            "originalText": "databricks",
+            "lineHeight": 1.2645999522502955
           }
         ],
         "id": "HWEWKRDZuDuCh8v9LAnUD",
@@ -60845,11 +60845,11 @@
             "fontFamily": 1,
             "text": "HIVE",
             "rawText": "",
-            "baseline": 139,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "HIVE"
+            "originalText": "HIVE",
+            "lineHeight": 1.2656907250372091
           },
           {
             "type": "line",
@@ -61085,11 +61085,11 @@
             "fontFamily": 1,
             "text": "hadoop",
             "rawText": "",
-            "baseline": 125,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "hadoop"
+            "originalText": "hadoop",
+            "lineHeight": 1.2642988307056797
           },
           {
             "type": "line",
@@ -63532,11 +63532,11 @@
             "fontFamily": 1,
             "text": "kafka",
             "rawText": "",
-            "baseline": 291,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "kafka"
+            "originalText": "kafka",
+            "lineHeight": 1.2631844558951333
           }
         ],
         "id": "EjoXPho2e52u4CxkPOFbG",
@@ -64540,11 +64540,11 @@
             "fontFamily": 1,
             "text": "Virtual\nNetwork\nGateways",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Virtual\nNetwork\nGateways"
+            "originalText": "Virtual\nNetwork\nGateways",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644718860,
@@ -64964,11 +64964,11 @@
             "fontFamily": 1,
             "text": "Local\nNetwork\nGateways",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Local\nNetwork\nGateways"
+            "originalText": "Local\nNetwork\nGateways",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644716664,
@@ -65131,11 +65131,11 @@
             "fontFamily": 1,
             "text": "Connections",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Connections"
+            "originalText": "Connections",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644714833,
@@ -70653,11 +70653,11 @@
             "fontFamily": 1,
             "text": "Firewalls",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Firewalls"
+            "originalText": "Firewalls",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644712771,
@@ -71692,11 +71692,11 @@
             "fontFamily": 1,
             "text": "Firewall\nPolicies",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Firewall\nPolicies"
+            "originalText": "Firewall\nPolicies",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644710912,
@@ -72656,11 +72656,11 @@
             "fontFamily": 1,
             "text": "Firewall\nManager",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Firewall\nManager"
+            "originalText": "Firewall\nManager",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644708999,
@@ -73051,11 +73051,11 @@
             "fontFamily": 1,
             "text": "IP Groups",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "IP Groups"
+            "originalText": "IP Groups",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644706983,
@@ -73376,11 +73376,11 @@
             "fontFamily": 1,
             "text": "NAT \nGateways",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "NAT \nGateways"
+            "originalText": "NAT \nGateways",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644703059,
@@ -73929,11 +73929,11 @@
             "fontFamily": 1,
             "text": "Application\nGateways",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Application\nGateways"
+            "originalText": "Application\nGateways",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644697031,
@@ -74189,11 +74189,11 @@
             "fontFamily": 1,
             "text": "Traffic\nManager\nProfiles",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Traffic\nManager\nProfiles"
+            "originalText": "Traffic\nManager\nProfiles",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644689579,
@@ -74471,11 +74471,11 @@
             "fontFamily": 1,
             "text": "DNS",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": "2qNFriGP_7v1v8o8eYA9C",
-            "originalText": "DNS"
+            "originalText": "DNS",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -74510,11 +74510,11 @@
             "fontFamily": 1,
             "text": "DNS Zones",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "DNS Zones"
+            "originalText": "DNS Zones",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644680321,
@@ -74733,11 +74733,11 @@
             "fontFamily": 1,
             "text": "Bastions",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Bastions"
+            "originalText": "Bastions",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644675408,
@@ -76239,11 +76239,11 @@
             "fontFamily": 1,
             "text": "Virtual \nWANS",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Virtual \nWANS"
+            "originalText": "Virtual \nWANS",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644672595,
@@ -76599,11 +76599,11 @@
             "fontFamily": 1,
             "text": "Private Link",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Private Link"
+            "originalText": "Private Link",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644670528,
@@ -77219,11 +77219,11 @@
             "fontFamily": 1,
             "text": "Web Application \nFirewall \n(WAF)",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Web Application \nFirewall \n(WAF)"
+            "originalText": "Web Application \nFirewall \n(WAF)",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644668398,
@@ -77501,11 +77501,11 @@
             "fontFamily": 1,
             "text": "DNS",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": "TqBeJhE6ZdraHJMx9OiL4",
-            "originalText": "DNS"
+            "originalText": "DNS",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -77540,11 +77540,11 @@
             "fontFamily": 1,
             "text": "Private DNS \nZones",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Private DNS \nZones"
+            "originalText": "Private DNS \nZones",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644665031,
@@ -78030,11 +78030,11 @@
             "fontFamily": 1,
             "text": "Service Plan\nEndpoint Policies",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Service Plan\nEndpoint Policies"
+            "originalText": "Service Plan\nEndpoint Policies",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644661150,
@@ -78318,11 +78318,11 @@
             "fontFamily": 1,
             "text": "DDos\nProtection \nPlans",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "DDos\nProtection \nPlans"
+            "originalText": "DDos\nProtection \nPlans",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644657914,
@@ -80141,11 +80141,11 @@
             "fontFamily": 1,
             "text": "Application\nSecurity\nGroups\n",
             "rawText": "",
-            "baseline": 74,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Application\nSecurity\nGroups\n"
+            "originalText": "Application\nSecurity\nGroups\n",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644656046,
@@ -80980,11 +80980,11 @@
             "fontFamily": 1,
             "text": "Route\nTables\n",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Route\nTables\n"
+            "originalText": "Route\nTables\n",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644651438,
@@ -81385,11 +81385,11 @@
             "fontFamily": 1,
             "text": "Public IP\nPrefixes\n",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Public IP\nPrefixes\n"
+            "originalText": "Public IP\nPrefixes\n",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644644606,
@@ -81604,11 +81604,11 @@
             "fontFamily": 1,
             "text": "Public IP\nAddresses",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Public IP\nAddresses"
+            "originalText": "Public IP\nAddresses",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644641233,
@@ -81910,11 +81910,11 @@
             "fontFamily": 1,
             "text": "Network \nInterfaces",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Network \nInterfaces"
+            "originalText": "Network \nInterfaces",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644639006,
@@ -82207,11 +82207,11 @@
             "fontFamily": 1,
             "text": "Network \nSecurity\nGroups",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Network \nSecurity\nGroups"
+            "originalText": "Network \nSecurity\nGroups",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644636117,
@@ -82688,11 +82688,11 @@
             "fontFamily": 1,
             "text": "Network\nWatcher",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Network\nWatcher"
+            "originalText": "Network\nWatcher",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644633822,
@@ -83992,11 +83992,11 @@
             "fontFamily": 1,
             "text": "Front Door\n& CDN",
             "rawText": "",
-            "baseline": 33.27976598486202,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Front Door\n& CDN"
+            "originalText": "Front Door\n& CDN",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644630261,
@@ -84414,11 +84414,11 @@
             "fontFamily": 1,
             "text": "Load\nBalancers",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Load\nBalancers"
+            "originalText": "Load\nBalancers",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644627630,
@@ -84583,11 +84583,11 @@
             "fontFamily": 1,
             "text": "Azure Synapse\n  Analytics",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Azure Synapse\n  Analytics"
+            "originalText": "Azure Synapse\n  Analytics",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644624581,
@@ -84894,11 +84894,11 @@
             "fontFamily": 1,
             "text": "Virtual\nNetwork",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Virtual\nNetwork"
+            "originalText": "Virtual\nNetwork",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644619413,
@@ -84962,11 +84962,11 @@
             "fontFamily": 3,
             "text": "Login",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Login"
+            "originalText": "Login",
+            "lineHeight": 1.2134831980794492
           },
           {
             "type": "rectangle",
@@ -85049,11 +85049,11 @@
             "fontFamily": 3,
             "text": "Email/Username",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Email/Username"
+            "originalText": "Email/Username",
+            "lineHeight": 1.1925793766974058
           },
           {
             "type": "text",
@@ -85084,11 +85084,11 @@
             "fontFamily": 3,
             "text": "Password",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Password"
+            "originalText": "Password",
+            "lineHeight": 1.2334223497251386
           },
           {
             "type": "ellipse",
@@ -85231,11 +85231,11 @@
             "fontFamily": 3,
             "text": "test@mail.com",
             "rawText": "",
-            "baseline": 15.836930964543267,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "test@mail.com"
+            "originalText": "test@mail.com",
+            "lineHeight": 1.2358407079646023
           },
           {
             "type": "rectangle",
@@ -85292,11 +85292,11 @@
             "fontFamily": 3,
             "text": "Sign in",
             "rawText": "",
-            "baseline": 19,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
-            "originalText": "Sign in"
+            "originalText": "Sign in",
+            "lineHeight": 1.2
           },
           {
             "type": "text",
@@ -85327,11 +85327,11 @@
             "fontFamily": 3,
             "text": "Forgot password?",
             "rawText": "",
-            "baseline": 12.368423461914066,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Forgot password?"
+            "originalText": "Forgot password?",
+            "lineHeight": 1.2334223497251393
           }
         ],
         "id": "5A_ui-AwSYCFh_66C21ew",
@@ -85395,11 +85395,11 @@
             "fontFamily": 3,
             "text": "Register",
             "rawText": "",
-            "baseline": 35,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Register"
+            "originalText": "Register",
+            "lineHeight": 1.1944444444444444
           },
           {
             "type": "rectangle",
@@ -85456,11 +85456,11 @@
             "fontFamily": 3,
             "text": "Name",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Name"
+            "originalText": "Name",
+            "lineHeight": 1.1925793766974058
           },
           {
             "type": "text",
@@ -85491,11 +85491,11 @@
             "fontFamily": 3,
             "text": "test",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "test"
+            "originalText": "test",
+            "lineHeight": 1.1836999127182313
           },
           {
             "type": "rectangle",
@@ -85552,11 +85552,11 @@
             "fontFamily": 3,
             "text": "Email",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Email"
+            "originalText": "Email",
+            "lineHeight": 1.1925793766974058
           },
           {
             "type": "text",
@@ -85587,11 +85587,11 @@
             "fontFamily": 3,
             "text": "test@mail.com",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "test@mail.com"
+            "originalText": "test@mail.com",
+            "lineHeight": 1.1836999127182313
           },
           {
             "type": "rectangle",
@@ -85648,11 +85648,11 @@
             "fontFamily": 2,
             "text": "Password",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Password"
+            "originalText": "Password",
+            "lineHeight": 1.1925793766974058
           },
           {
             "type": "rectangle",
@@ -85709,11 +85709,11 @@
             "fontFamily": 2,
             "text": "Confirm Password",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Confirm Password"
+            "originalText": "Confirm Password",
+            "lineHeight": 1.1925793766974058
           },
           {
             "type": "rectangle",
@@ -85770,11 +85770,11 @@
             "fontFamily": 3,
             "text": "Create",
             "rawText": "",
-            "baseline": 19,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
-            "originalText": "Create"
+            "originalText": "Create",
+            "lineHeight": 1.2
           },
           {
             "type": "ellipse",
@@ -86062,11 +86062,11 @@
             "fontFamily": 1,
             "text": "Onboarding\nPage",
             "rawText": "",
-            "baseline": 120,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Onboarding\nPage"
+            "originalText": "Onboarding\nPage",
+            "lineHeight": 1.561797819750402
           },
           {
             "type": "rectangle",
@@ -86123,11 +86123,11 @@
             "fontFamily": 1,
             "text": "Get Started",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "center",
             "verticalAlign": "middle",
             "containerId": null,
-            "originalText": "Get Started"
+            "originalText": "Get Started",
+            "lineHeight": 1.6
           },
           {
             "type": "text",
@@ -86160,11 +86160,11 @@
             "fontFamily": 1,
             "text": "OR",
             "rawText": "",
-            "baseline": 21.63999999999999,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "OR"
+            "originalText": "OR",
+            "lineHeight": 1.5833333333333333
           },
           {
             "type": "line",
@@ -86277,11 +86277,11 @@
             "fontFamily": 1,
             "text": "Sign in instead",
             "rawText": "",
-            "baseline": 23,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Sign in instead"
+            "originalText": "Sign in instead",
+            "lineHeight": 1.6
           }
         ],
         "id": "32crLZkA_DyIx3sqjiyJR",
@@ -86608,11 +86608,11 @@
             "fontFamily": 1,
             "text": "Key Vault",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Key Vault"
+            "originalText": "Key Vault",
+            "lineHeight": 1.25
           }
         ],
         "id": "7UUS4FN3nPltD1pXJ6NGr",
@@ -86653,11 +86653,11 @@
             "fontFamily": 1,
             "text": "Application\nInsights",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Application\nInsights"
+            "originalText": "Application\nInsights",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -87024,11 +87024,11 @@
             "fontFamily": 1,
             "text": "Azure \nDevOps",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Azure \nDevOps"
+            "originalText": "Azure \nDevOps",
+            "lineHeight": 1.25
           }
         ],
         "id": "cdplIEcCxvRlQfUXpcBpF",
@@ -87067,11 +87067,11 @@
             "fontFamily": 1,
             "text": "Network\nInterface",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Network\nInterface"
+            "originalText": "Network\nInterface",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -87537,11 +87537,11 @@
             "fontFamily": 1,
             "text": "Public IP\nAddress",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Public IP\nAddress"
+            "originalText": "Public IP\nAddress",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -88062,11 +88062,11 @@
             "fontFamily": 1,
             "text": "Disk",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Disk"
+            "originalText": "Disk",
+            "lineHeight": 1.25
           }
         ],
         "id": "Cbv_e75Vj6hVNMGOs8RVa",
@@ -88219,11 +88219,11 @@
             "fontFamily": 1,
             "text": "Microsoft\nAzure",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Microsoft\nAzure"
+            "originalText": "Microsoft\nAzure",
+            "lineHeight": 1.25
           }
         ],
         "id": "RZkOvV8Zmv69TFwOwiQnL",
@@ -88518,11 +88518,11 @@
             "fontFamily": 1,
             "text": "Subscription",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Subscription"
+            "originalText": "Subscription",
+            "lineHeight": 1.25
           }
         ],
         "id": "xOjGg3TY9J280aLHbJlLT",
@@ -88801,11 +88801,11 @@
             "fontFamily": 1,
             "text": "Resource\nGroup",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Resource\nGroup"
+            "originalText": "Resource\nGroup",
+            "lineHeight": 1.25
           }
         ],
         "id": "0xBcsbKHgNIRepu2BwDmQ",
@@ -88984,11 +88984,11 @@
             "fontFamily": 1,
             "text": "Blob \nStorage",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Blob \nStorage"
+            "originalText": "Blob \nStorage",
+            "lineHeight": 1.25
           }
         ],
         "id": "O-Kl2KAC_iBsjqquseIW0",
@@ -89252,11 +89252,11 @@
             "fontFamily": 1,
             "text": "Network\nSecurity \nGroup",
             "rawText": "",
-            "baseline": 68,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Network\nSecurity \nGroup"
+            "originalText": "Network\nSecurity \nGroup",
+            "lineHeight": 1.25
           }
         ],
         "id": "9iwoOwN_bFxE_8SYn9HF8",
@@ -89473,11 +89473,11 @@
             "fontFamily": 1,
             "text": "Virtual\nNetwork",
             "rawText": "",
-            "baseline": 43,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Virtual\nNetwork"
+            "originalText": "Virtual\nNetwork",
+            "lineHeight": 1.25
           }
         ],
         "id": "_k3woRKH6qD6lYpQ_CN4v",
@@ -89516,11 +89516,11 @@
             "fontFamily": 1,
             "text": "Active Directory",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Active Directory"
+            "originalText": "Active Directory",
+            "lineHeight": 1.25
           },
           {
             "type": "line",
@@ -89893,11 +89893,11 @@
             "fontFamily": 1,
             "text": "PS Runbook",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "PS Runbook"
+            "originalText": "PS Runbook",
+            "lineHeight": 1.25
           }
         ],
         "id": "JTsOLz34siMohNKIWG6az",
@@ -90195,11 +90195,11 @@
             "fontFamily": 1,
             "text": "App\nService",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "App\nService"
+            "originalText": "App\nService",
+            "lineHeight": 1.25
           }
         ],
         "id": "JVVhT_idahC-FIv7_FZIY",
@@ -90461,11 +90461,11 @@
             "fontFamily": 1,
             "text": "Service\nBus",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Service\nBus"
+            "originalText": "Service\nBus",
+            "lineHeight": 1.25
           }
         ],
         "id": "O8UJOs70yNNRK6Jaox5Xh",
@@ -90848,11 +90848,11 @@
             "fontFamily": 1,
             "text": "Virtual\nMachine",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Virtual\nMachine"
+            "originalText": "Virtual\nMachine",
+            "lineHeight": 1.25
           }
         ],
         "id": "8YjtiKb4g_LOQJVUboysR",
@@ -90891,11 +90891,11 @@
             "fontFamily": 1,
             "text": "SQL\nDatabase",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "SQL\nDatabase"
+            "originalText": "SQL\nDatabase",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -91202,11 +91202,11 @@
             "fontFamily": 1,
             "text": "SQL",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "SQL"
+            "originalText": "SQL",
+            "lineHeight": 1.25
           }
         ],
         "id": "BDQnQGVlGs7eDlW6cvJ7J",
@@ -91245,11 +91245,11 @@
             "fontFamily": 1,
             "text": "Data\nLake",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Data\nLake"
+            "originalText": "Data\nLake",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -92042,11 +92042,11 @@
             "fontFamily": 1,
             "text": "Container \nApps",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Container \nApps"
+            "originalText": "Container \nApps",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644348075,
@@ -92233,11 +92233,11 @@
             "fontFamily": 1,
             "text": "Workspaces",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Workspaces"
+            "originalText": "Workspaces",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644345978,
@@ -92789,11 +92789,11 @@
             "fontFamily": 1,
             "text": "Maintenance \nConfigurations",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Maintenance \nConfigurations"
+            "originalText": "Maintenance \nConfigurations",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644338147,
@@ -93124,11 +93124,11 @@
             "fontFamily": 1,
             "text": "Application\nGroups",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Application\nGroups"
+            "originalText": "Application\nGroups",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644334634,
@@ -93666,11 +93666,11 @@
             "fontFamily": 1,
             "text": "Azure Spring\nCloud",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Azure Spring\nCloud"
+            "originalText": "Azure Spring\nCloud",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644332403,
@@ -94072,11 +94072,11 @@
             "fontFamily": 1,
             "text": "Host\nGroups",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Host\nGroups"
+            "originalText": "Host\nGroups",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644325978,
@@ -94422,11 +94422,11 @@
             "fontFamily": 1,
             "text": "Hosts",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Hosts"
+            "originalText": "Hosts",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644323074,
@@ -94867,11 +94867,11 @@
             "fontFamily": 1,
             "text": "Proximity\nPlacement\nGroups",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Proximity\nPlacement\nGroups"
+            "originalText": "Proximity\nPlacement\nGroups",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644320366,
@@ -96711,11 +96711,11 @@
             "fontFamily": 1,
             "text": "Availability\n  Sets",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Availability\n  Sets"
+            "originalText": "Availability\n  Sets",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644309475,
@@ -98273,11 +98273,11 @@
             "fontFamily": 1,
             "text": "Kubernetes\nServices",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Kubernetes\nServices"
+            "originalText": "Kubernetes\nServices",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644303073,
@@ -98523,11 +98523,11 @@
             "fontFamily": 1,
             "text": "Service\nFabric\nClusters",
             "rawText": "",
-            "baseline": 54,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Service\nFabric\nClusters"
+            "originalText": "Service\nFabric\nClusters",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644298411,
@@ -98568,11 +98568,11 @@
             "fontFamily": 1,
             "text": "Batch\nAccounts",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Batch\nAccounts"
+            "originalText": "Batch\nAccounts",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -100427,11 +100427,11 @@
             "fontFamily": 1,
             "text": "Container\nInstances",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Container\nInstances"
+            "originalText": "Container\nInstances",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644293159,
@@ -100738,11 +100738,11 @@
             "fontFamily": 1,
             "text": "App Services",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "App Services"
+            "originalText": "App Services",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644289846,
@@ -101027,11 +101027,11 @@
             "fontFamily": 1,
             "text": "Function \n  App",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Function \n  App"
+            "originalText": "Function \n  App",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644286418,
@@ -102902,11 +102902,11 @@
             "fontFamily": 1,
             "text": "Virtual Machine\n  Scale Sets",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Virtual Machine\n  Scale Sets"
+            "originalText": "Virtual Machine\n  Scale Sets",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644282009,
@@ -104657,11 +104657,11 @@
             "fontFamily": 1,
             "text": "Virtual \nMachines",
             "rawText": "",
-            "baseline": 34,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Virtual \nMachines"
+            "originalText": "Virtual \nMachines",
+            "lineHeight": 1.25
           }
         ],
         "created": 1648644275832,
@@ -104746,11 +104746,11 @@
             "fontFamily": 1,
             "text": "relation",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "relation"
+            "originalText": "relation",
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -104811,11 +104811,11 @@
             "fontFamily": 1,
             "text": "Group",
             "rawText": "",
-            "baseline": 27.84027839672511,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Group"
+            "originalText": "Group",
+            "lineHeight": 1.2500000000000004
           },
           {
             "type": "rectangle",
@@ -104876,11 +104876,11 @@
             "fontFamily": 1,
             "text": "Some component",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Some component"
+            "originalText": "Some component",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -104913,11 +104913,11 @@
             "fontFamily": 3,
             "text": "[component]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[component]"
+            "originalText": "[component]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -104950,11 +104950,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           },
           {
             "type": "rectangle",
@@ -105015,11 +105015,11 @@
             "fontFamily": 1,
             "text": "Existing System",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Existing System"
+            "originalText": "Existing System",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -105052,11 +105052,11 @@
             "fontFamily": 3,
             "text": "[software system]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[software system]"
+            "originalText": "[software system]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -105089,11 +105089,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           },
           {
             "type": "rectangle",
@@ -105154,11 +105154,11 @@
             "fontFamily": 1,
             "text": "System",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "System"
+            "originalText": "System",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -105191,11 +105191,11 @@
             "fontFamily": 3,
             "text": "[software system]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[software system]"
+            "originalText": "[software system]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -105228,11 +105228,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           },
           {
             "type": "line",
@@ -105406,11 +105406,11 @@
             "fontFamily": 1,
             "text": "Database",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Database"
+            "originalText": "Database",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -105443,11 +105443,11 @@
             "fontFamily": 3,
             "text": "[container: Oracle etc.]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[container: Oracle etc.]"
+            "originalText": "[container: Oracle etc.]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -105480,11 +105480,11 @@
             "fontFamily": 2,
             "text": "What it stores?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it stores?"
+            "originalText": "What it stores?",
+            "lineHeight": 1.1345231191869982
           },
           {
             "type": "rectangle",
@@ -105665,11 +105665,11 @@
             "fontFamily": 1,
             "text": "Web Application",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Web Application"
+            "originalText": "Web Application",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -105702,11 +105702,11 @@
             "fontFamily": 3,
             "text": "[container: Angular etc.]",
             "rawText": "",
-            "baseline": 13.881794381648934,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[container: Angular etc.]"
+            "originalText": "[container: Angular etc.]",
+            "lineHeight": 1.2499999999999998
           },
           {
             "type": "text",
@@ -105739,11 +105739,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           },
           {
             "type": "rectangle",
@@ -105864,11 +105864,11 @@
             "fontFamily": 1,
             "text": "Mobile App",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Mobile App"
+            "originalText": "Mobile App",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -105901,11 +105901,11 @@
             "fontFamily": 3,
             "text": "[container: iOS etc.]",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[container: iOS etc.]"
+            "originalText": "[container: iOS etc.]",
+            "lineHeight": 1.2582629863527826
           },
           {
             "type": "text",
@@ -105938,11 +105938,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           },
           {
             "type": "text",
@@ -105975,11 +105975,11 @@
             "fontFamily": 3,
             "text": "[enterprise or container]",
             "rawText": "",
-            "baseline": 25.07222271738009,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[enterprise or container]"
+            "originalText": "[enterprise or container]",
+            "lineHeight": 1.2499999999999991
           },
           {
             "type": "ellipse",
@@ -106072,11 +106072,11 @@
             "fontFamily": 1,
             "text": "User",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "User"
+            "originalText": "User",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -106109,11 +106109,11 @@
             "fontFamily": 3,
             "text": "[person]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[person]"
+            "originalText": "[person]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -106146,11 +106146,11 @@
             "fontFamily": 2,
             "text": "Who it is or what it does? ",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Who it is or what it does? "
+            "originalText": "Who it is or what it does? ",
+            "lineHeight": 1.1875
           }
         ],
         "id": "E5NmbB7aqOg3g42WqvPzJ",
@@ -106251,11 +106251,11 @@
             "fontFamily": 1,
             "text": "User",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "User"
+            "originalText": "User",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -106288,11 +106288,11 @@
             "fontFamily": 3,
             "text": "[person]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[person]"
+            "originalText": "[person]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -106325,11 +106325,11 @@
             "fontFamily": 2,
             "text": "Who it is or what it does? ",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Who it is or what it does? "
+            "originalText": "Who it is or what it does? ",
+            "lineHeight": 1.1875
           }
         ],
         "id": "2qBZ5_7oJnJFNLPwe1ayk",
@@ -106518,11 +106518,11 @@
             "fontFamily": 1,
             "text": "Web Application",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Web Application"
+            "originalText": "Web Application",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -106555,11 +106555,11 @@
             "fontFamily": 3,
             "text": "[container: Angular etc.]",
             "rawText": "",
-            "baseline": 13.881794381648934,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[container: Angular etc.]"
+            "originalText": "[container: Angular etc.]",
+            "lineHeight": 1.2499999999999998
           },
           {
             "type": "text",
@@ -106592,11 +106592,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           }
         ],
         "id": "46tUGbvK93-qgY5N8QKHC",
@@ -106725,11 +106725,11 @@
             "fontFamily": 1,
             "text": "Mobile App",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Mobile App"
+            "originalText": "Mobile App",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -106762,11 +106762,11 @@
             "fontFamily": 3,
             "text": "[container: iOS etc.]",
             "rawText": "",
-            "baseline": 14,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[container: iOS etc.]"
+            "originalText": "[container: iOS etc.]",
+            "lineHeight": 1.2582629863527826
           },
           {
             "type": "text",
@@ -106799,11 +106799,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           }
         ],
         "id": "ubupcRdZ4dOJpw959lt0w",
@@ -106872,11 +106872,11 @@
             "fontFamily": 1,
             "text": "Some component",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Some component"
+            "originalText": "Some component",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -106909,11 +106909,11 @@
             "fontFamily": 3,
             "text": "[component]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[component]"
+            "originalText": "[component]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -106946,11 +106946,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           }
         ],
         "id": "HJ2FHfaE7W339eoMFKqaA",
@@ -107019,11 +107019,11 @@
             "fontFamily": 1,
             "text": "System",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "System"
+            "originalText": "System",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -107056,11 +107056,11 @@
             "fontFamily": 3,
             "text": "[software system]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[software system]"
+            "originalText": "[software system]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -107093,11 +107093,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           }
         ],
         "id": "BPeVoKCD1dYc4VosT49cK",
@@ -107166,11 +107166,11 @@
             "fontFamily": 1,
             "text": "Existing System",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Existing System"
+            "originalText": "Existing System",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -107203,11 +107203,11 @@
             "fontFamily": 3,
             "text": "[software system]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[software system]"
+            "originalText": "[software system]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -107240,11 +107240,11 @@
             "fontFamily": 2,
             "text": "What it is or what it does?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it is or what it does?"
+            "originalText": "What it is or what it does?",
+            "lineHeight": 1.1345231191869982
           }
         ],
         "id": "Tagh1I-VhhtE7znAMsPMY",
@@ -107426,11 +107426,11 @@
             "fontFamily": 1,
             "text": "Database",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Database"
+            "originalText": "Database",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -107463,11 +107463,11 @@
             "fontFamily": 3,
             "text": "[container: Oracle etc.]",
             "rawText": "",
-            "baseline": 16,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "[container: Oracle etc.]"
+            "originalText": "[container: Oracle etc.]",
+            "lineHeight": 1.25
           },
           {
             "type": "text",
@@ -107500,11 +107500,11 @@
             "fontFamily": 2,
             "text": "What it stores?",
             "rawText": "",
-            "baseline": 15,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "What it stores?"
+            "originalText": "What it stores?",
+            "lineHeight": 1.1345231191869982
           }
         ],
         "id": "mCR1SAG0KhSHvQ7y3FBqC",
@@ -107573,11 +107573,11 @@
             "fontFamily": 1,
             "text": "Enterprise",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "Enterprise"
+            "originalText": "Enterprise",
+            "lineHeight": 1.25
           }
         ],
         "id": "fHIINb11unrnFZloYmzpg",
@@ -107671,11 +107671,11 @@
             "fontFamily": 1,
             "text": "relation",
             "rawText": "",
-            "baseline": 18,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "relation"
+            "originalText": "relation",
+            "lineHeight": 1.25
           }
         ],
         "id": "DV02MW_RVfIfeR4ygSTpw",
