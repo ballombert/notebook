@@ -69,7 +69,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.22",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -5154,7 +5154,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "0 .. 1",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "id": "QRr5-_7DOxv2yIX2L9JYx",
@@ -5198,7 +5199,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "1 .. n",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "id": "GBZRmqqSFaPLPhq1RDPAA",
@@ -5242,7 +5244,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "n .. m",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "id": "gmzhIjuBh71XIqhgammEq",
@@ -7010,7 +7013,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Global\nAccelerator",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "jQXzQM_9WlNjXmoblIK7r",
@@ -7435,7 +7439,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "ALB",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "LkD9uGsMGLf3w6g6sZj5g",
@@ -7512,7 +7517,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Route 53",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "line",
@@ -14035,7 +14041,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "53",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "id": "egfB8yfFTtBbCdpyBVvwM",
@@ -14106,7 +14113,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "AWS account",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -14350,7 +14358,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Region",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -14601,7 +14610,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "IAM",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -15204,7 +15214,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Chatbot",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -16221,7 +16232,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Train",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "nQyviyvQAVC6HXkbjzARS",
@@ -17157,7 +17169,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Model",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "-_QIGPSN7gkeuQa6UmWwh",
@@ -17911,7 +17924,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Canvas",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "VJ21zw_CtZOL9awT-tkMp",
@@ -18471,7 +18485,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Notebook",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "pdW-7mjjUZ5168AsAU-sy",
@@ -18517,7 +18532,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Amazon Elastic\nInference",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           },
           {
             "type": "rectangle",
@@ -20406,7 +20422,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Ground Truth",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "WSdtIclO5U24cBGGw8Ijj",
@@ -21335,7 +21352,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "SageMaker",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "iC2d7xvqPp-rc27ogeQhi",
@@ -21994,7 +22012,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Kinesis \nData Firehose",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "jcSl44TSynjc-fO_0wdCw",
@@ -22499,7 +22518,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Kinesis \nVideo Streams",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "eeoA0sJRKPwv1IDOSNzVD",
@@ -23326,7 +23346,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Kinesis \nData Streams",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "VnIvQwSIqbUBawP0fkZE9",
@@ -23371,7 +23392,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Kinesis \nData Analytics",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           },
           {
             "type": "rectangle",
@@ -23911,7 +23933,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "QuickSight",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -24349,7 +24372,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "EMR",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -24956,7 +24980,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Data Pipeline",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -25622,7 +25647,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Redshift",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -26107,7 +26133,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Lake Formation",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -26925,7 +26952,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Glue",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -27569,7 +27597,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Lambda",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "B5XI2NRrvjQgSu2It-Dio",
@@ -27790,7 +27819,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "EC2",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "pTH_m9ehAzeTN7TPi3wtj",
@@ -28620,7 +28650,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Fargate",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "DtkYWxbtSdukzd9G3z1dF",
@@ -29268,7 +29299,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Step Functions",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "CUDZehZCVtVEl38y0BVk9",
@@ -29539,7 +29571,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "S3 Bucket",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "2cDRfFa3xKa9V1S8mwHeL",
@@ -29619,7 +29652,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "EBS",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "line",
@@ -30173,7 +30207,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "EFS",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -31498,7 +31533,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "SNS",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "UUaud0TU62hUlULQkf1Gc",
@@ -32146,7 +32182,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "SQS",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "itvir-hQNN1TBh5Sj4iNB",
@@ -32760,7 +32797,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "SES",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "4OsWOq1hb__jVIpmVvJ0Q",
@@ -32805,7 +32843,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Crawler",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -33817,7 +33856,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DataCatalog",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -35181,7 +35221,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DynamoDB",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "sBc_ijro6i4nCn2ikQwXq",
@@ -35226,7 +35267,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "RDS",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -36169,7 +36211,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Aurora",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -37168,7 +37211,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Kinesis",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "IU8wwF2TLJv_lmTcJEOeq",
@@ -37213,7 +37257,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Athena",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -37639,7 +37684,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "</>",
-            "lineHeight": 1.257040423235427
+            "lineHeight": 1.257040423235427,
+            "baseline": 14
           },
           {
             "type": "ellipse",
@@ -38137,7 +38183,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "CodeCommit",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "BPe6mMu1Tu0Xddjvu3M8Z",
@@ -38215,7 +38262,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "</>",
-            "lineHeight": 1.1875000000000002
+            "lineHeight": 1.1875000000000002,
+            "baseline": 7
           },
           {
             "type": "rectangle",
@@ -38552,7 +38600,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "CodeBuild",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "FalNUN8ym82bn4q3wk2HN",
@@ -38630,7 +38679,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "</>",
-            "lineHeight": 1.257040423235427
+            "lineHeight": 1.257040423235427,
+            "baseline": 16
           },
           {
             "type": "rectangle",
@@ -39249,7 +39299,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "CodeDeploy",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "AmW2DAwyFPIdtyPxtaX8p",
@@ -39294,7 +39345,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "CloudFormation",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -40152,7 +40204,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "CloudWatch",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "dYep3GfKtwHNePFmWHCCY",
@@ -40697,7 +40750,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "EventBridge",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "aM_EPwBvlKyhSrP_WssL6",
@@ -41233,7 +41287,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Cognito",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "2FqDTiYaHkgNemGdW97N0",
@@ -41809,7 +41864,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "AppSync",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "sNijAre7B_17_vEq3IhGo",
@@ -42223,7 +42279,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "API Gateway",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "2BShAaU06x5QYdwdlQAol",
@@ -42859,7 +42916,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "System Manager",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "DrRQwiKeJejZ_OdQ4RzA0",
@@ -42904,7 +42962,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Single Sign-On",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -43579,7 +43638,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Amplify",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "D6G6eESR90oOnRwsKwg23",
@@ -44234,7 +44294,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "CloudFront",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "R7DSc6puLHia7flrnCsVL",
@@ -44695,7 +44756,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Transit Gateway",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "2KD_twzavlrlW8qJiCbpO",
@@ -45045,7 +45107,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "ELB",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "u7Trd89B5LLThBVECk7T1",
@@ -45293,7 +45356,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "VPN gateway",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "Uv2NWxZO9jiy2hEwe98zG",
@@ -45674,7 +45738,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Peering connection",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "JLUsgjZKAGS5ERzngbawr",
@@ -45719,7 +45784,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "NAT gateway",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "ellipse",
@@ -46119,7 +46185,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Internet gateway",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "ellipse",
@@ -46405,7 +46472,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "NACL",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "ellipse",
@@ -52785,7 +52853,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Scala",
-            "lineHeight": 1.2668502517160747
+            "lineHeight": 1.2668502517160747,
+            "baseline": 179
           }
         ],
         "id": "3WTw5amYv_i09zh8SjA5h",
@@ -53221,7 +53290,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "GitLab",
-            "lineHeight": 1.2647058823529393
+            "lineHeight": 1.2647058823529393,
+            "baseline": 181
           }
         ],
         "id": "IcuHaUt754v5jBKvWOdfV",
@@ -56093,7 +56163,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Power BI",
-            "lineHeight": 1.2603288994037813
+            "lineHeight": 1.2603288994037813,
+            "baseline": 119
           },
           {
             "type": "line",
@@ -57122,7 +57193,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Apache",
-            "lineHeight": 1.2499999999999998
+            "lineHeight": 1.2499999999999998,
+            "baseline": 56
           },
           {
             "type": "text",
@@ -57159,7 +57231,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Superset",
-            "lineHeight": 1.2499999999999998
+            "lineHeight": 1.2499999999999998,
+            "baseline": 151
           },
           {
             "type": "line",
@@ -58151,7 +58224,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Apache",
-            "lineHeight": 1.2719778104654809
+            "lineHeight": 1.2719778104654809,
+            "baseline": 88
           },
           {
             "type": "text",
@@ -58188,7 +58262,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Airflow",
-            "lineHeight": 1.2686472221400076
+            "lineHeight": 1.2686472221400076,
+            "baseline": 186
           }
         ],
         "id": "2alGzWDHI1Z3VfY4oX_Dt",
@@ -58634,7 +58709,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "AIRBYTE",
-            "lineHeight": 1.2652273629605733
+            "lineHeight": 1.2652273629605733,
+            "baseline": 62
           }
         ],
         "id": "m7tKv6DPIGlbDM5AF9trY",
@@ -58856,7 +58932,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "dbt",
-            "lineHeight": 1.2669208596893964
+            "lineHeight": 1.2669208596893964,
+            "baseline": 199
           }
         ],
         "id": "26lNXOaTR_AG3PelLOYiW",
@@ -59307,7 +59384,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "cloudera",
-            "lineHeight": 1.2705114743101995
+            "lineHeight": 1.2705114743101995,
+            "baseline": 61
           },
           {
             "type": "text",
@@ -59346,7 +59424,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "IMPALA",
-            "lineHeight": 1.2785967053114455
+            "lineHeight": 1.2785967053114455,
+            "baseline": 33
           }
         ],
         "id": "q7TfqHIKnQQlthxmvpFGE",
@@ -59566,7 +59645,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DELTA LAKE",
-            "lineHeight": 1.2667131279896107
+            "lineHeight": 1.2667131279896107,
+            "baseline": 82
           }
         ],
         "id": "4nORjONhn6dUNrSP4hCvO",
@@ -60231,7 +60311,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "A",
-            "lineHeight": 1.245766392702174
+            "lineHeight": 1.245766392702174,
+            "baseline": 47
           },
           {
             "type": "text",
@@ -60269,7 +60350,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "P",
-            "lineHeight": 1.2483837338928128
+            "lineHeight": 1.2483837338928128,
+            "baseline": 48
           },
           {
             "type": "text",
@@ -60307,7 +60389,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "C",
-            "lineHeight": 1.2645057637972448
+            "lineHeight": 1.2645057637972448,
+            "baseline": 51
           },
           {
             "type": "text",
@@ -60345,7 +60428,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "H",
-            "lineHeight": 1.2568581443963873
+            "lineHeight": 1.2568581443963873,
+            "baseline": 51
           },
           {
             "type": "text",
@@ -60383,7 +60467,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "E",
-            "lineHeight": 1.2504577428602315
+            "lineHeight": 1.2504577428602315,
+            "baseline": 49
           },
           {
             "type": "text",
@@ -60421,7 +60506,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "A",
-            "lineHeight": 1.245766392702174
+            "lineHeight": 1.245766392702174,
+            "baseline": 47
           },
           {
             "type": "line",
@@ -60802,7 +60888,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "databricks",
-            "lineHeight": 1.2645999522502955
+            "lineHeight": 1.2645999522502955,
+            "baseline": 159
           }
         ],
         "id": "HWEWKRDZuDuCh8v9LAnUD",
@@ -60849,7 +60936,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "HIVE",
-            "lineHeight": 1.2656907250372091
+            "lineHeight": 1.2656907250372091,
+            "baseline": 139
           },
           {
             "type": "line",
@@ -61089,7 +61177,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "hadoop",
-            "lineHeight": 1.2642988307056797
+            "lineHeight": 1.2642988307056797,
+            "baseline": 125
           },
           {
             "type": "line",
@@ -63536,7 +63625,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "kafka",
-            "lineHeight": 1.2631844558951333
+            "lineHeight": 1.2631844558951333,
+            "baseline": 290
           }
         ],
         "id": "EjoXPho2e52u4CxkPOFbG",
@@ -64544,7 +64634,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Virtual\nNetwork\nGateways",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644718860,
@@ -64968,7 +65059,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Local\nNetwork\nGateways",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644716664,
@@ -65135,7 +65227,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Connections",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644714833,
@@ -70657,7 +70750,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Firewalls",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644712771,
@@ -71696,7 +71790,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Firewall\nPolicies",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644710912,
@@ -72660,7 +72755,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Firewall\nManager",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644708999,
@@ -73055,7 +73151,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "IP Groups",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644706983,
@@ -73380,7 +73477,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "NAT \nGateways",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644703059,
@@ -73933,7 +74031,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Application\nGateways",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644697031,
@@ -74193,7 +74292,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Traffic\nManager\nProfiles",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644689579,
@@ -74475,7 +74575,8 @@
             "verticalAlign": "middle",
             "containerId": "2qNFriGP_7v1v8o8eYA9C",
             "originalText": "DNS",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -74514,7 +74615,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DNS Zones",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644680321,
@@ -74737,7 +74839,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Bastions",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644675408,
@@ -76243,7 +76346,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Virtual \nWANS",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644672595,
@@ -76603,7 +76707,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Private Link",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644670528,
@@ -77223,7 +77328,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Web Application \nFirewall \n(WAF)",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644668398,
@@ -77505,7 +77611,8 @@
             "verticalAlign": "middle",
             "containerId": "TqBeJhE6ZdraHJMx9OiL4",
             "originalText": "DNS",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -77544,7 +77651,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Private DNS \nZones",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644665031,
@@ -78034,7 +78142,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Service Plan\nEndpoint Policies",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644661150,
@@ -78322,7 +78431,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DDos\nProtection \nPlans",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644657914,
@@ -80145,7 +80255,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Application\nSecurity\nGroups\n",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 74
           }
         ],
         "created": 1648644656046,
@@ -80984,7 +81095,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Route\nTables\n",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644651438,
@@ -81389,7 +81501,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Public IP\nPrefixes\n",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644644606,
@@ -81608,7 +81721,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Public IP\nAddresses",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644641233,
@@ -81914,7 +82028,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Network \nInterfaces",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644639006,
@@ -82211,7 +82326,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Network \nSecurity\nGroups",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644636117,
@@ -82692,7 +82808,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Network\nWatcher",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644633822,
@@ -83996,7 +84113,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Front Door\n& CDN",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 33
           }
         ],
         "created": 1648644630261,
@@ -84418,7 +84536,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Load\nBalancers",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644627630,
@@ -84587,7 +84706,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Azure Synapse\n  Analytics",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644624581,
@@ -84898,7 +85018,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Virtual\nNetwork",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644619413,
@@ -84966,7 +85087,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Login",
-            "lineHeight": 1.2134831980794492
+            "lineHeight": 1.2134831980794492,
+            "baseline": 43
           },
           {
             "type": "rectangle",
@@ -85053,7 +85175,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Email/Username",
-            "lineHeight": 1.1925793766974058
+            "lineHeight": 1.1925793766974058,
+            "baseline": 14
           },
           {
             "type": "text",
@@ -85088,7 +85211,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Password",
-            "lineHeight": 1.2334223497251386
+            "lineHeight": 1.2334223497251386,
+            "baseline": 16
           },
           {
             "type": "ellipse",
@@ -85235,7 +85359,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "test@mail.com",
-            "lineHeight": 1.2358407079646023
+            "lineHeight": 1.2358407079646023,
+            "baseline": 15
           },
           {
             "type": "rectangle",
@@ -85296,7 +85421,8 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Sign in",
-            "lineHeight": 1.2
+            "lineHeight": 1.2,
+            "baseline": 19
           },
           {
             "type": "text",
@@ -85331,7 +85457,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Forgot password?",
-            "lineHeight": 1.2334223497251393
+            "lineHeight": 1.2334223497251393,
+            "baseline": 12
           }
         ],
         "id": "5A_ui-AwSYCFh_66C21ew",
@@ -85399,7 +85526,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Register",
-            "lineHeight": 1.1944444444444444
+            "lineHeight": 1.1944444444444444,
+            "baseline": 35
           },
           {
             "type": "rectangle",
@@ -85460,7 +85588,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Name",
-            "lineHeight": 1.1925793766974058
+            "lineHeight": 1.1925793766974058,
+            "baseline": 14
           },
           {
             "type": "text",
@@ -85495,7 +85624,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "test",
-            "lineHeight": 1.1836999127182313
+            "lineHeight": 1.1836999127182313,
+            "baseline": 15
           },
           {
             "type": "rectangle",
@@ -85556,7 +85686,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Email",
-            "lineHeight": 1.1925793766974058
+            "lineHeight": 1.1925793766974058,
+            "baseline": 14
           },
           {
             "type": "text",
@@ -85591,7 +85722,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "test@mail.com",
-            "lineHeight": 1.1836999127182313
+            "lineHeight": 1.1836999127182313,
+            "baseline": 15
           },
           {
             "type": "rectangle",
@@ -85652,7 +85784,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Password",
-            "lineHeight": 1.1925793766974058
+            "lineHeight": 1.1925793766974058,
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -85713,7 +85846,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Confirm Password",
-            "lineHeight": 1.1925793766974058
+            "lineHeight": 1.1925793766974058,
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -85774,7 +85908,8 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Create",
-            "lineHeight": 1.2
+            "lineHeight": 1.2,
+            "baseline": 19
           },
           {
             "type": "ellipse",
@@ -86066,7 +86201,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Onboarding\nPage",
-            "lineHeight": 1.561797819750402
+            "lineHeight": 1.561797819750402,
+            "baseline": 115
           },
           {
             "type": "rectangle",
@@ -86127,7 +86263,8 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Get Started",
-            "lineHeight": 1.6
+            "lineHeight": 1.6,
+            "baseline": 21
           },
           {
             "type": "text",
@@ -86164,7 +86301,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "OR",
-            "lineHeight": 1.5833333333333333
+            "lineHeight": 1.5833333333333333,
+            "baseline": 19
           },
           {
             "type": "line",
@@ -86281,7 +86419,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Sign in instead",
-            "lineHeight": 1.6
+            "lineHeight": 1.6,
+            "baseline": 21
           }
         ],
         "id": "32crLZkA_DyIx3sqjiyJR",
@@ -86612,7 +86751,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Key Vault",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "7UUS4FN3nPltD1pXJ6NGr",
@@ -86657,7 +86797,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Application\nInsights",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           },
           {
             "type": "rectangle",
@@ -87028,7 +87169,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Azure \nDevOps",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "cdplIEcCxvRlQfUXpcBpF",
@@ -87071,7 +87213,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Network\nInterface",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           },
           {
             "type": "rectangle",
@@ -87541,7 +87684,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Public IP\nAddress",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           },
           {
             "type": "rectangle",
@@ -88066,7 +88210,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Disk",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "id": "Cbv_e75Vj6hVNMGOs8RVa",
@@ -88223,7 +88368,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Microsoft\nAzure",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "RZkOvV8Zmv69TFwOwiQnL",
@@ -88522,7 +88668,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Subscription",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "xOjGg3TY9J280aLHbJlLT",
@@ -88805,7 +88952,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Resource\nGroup",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "0xBcsbKHgNIRepu2BwDmQ",
@@ -88988,7 +89136,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Blob \nStorage",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "O-Kl2KAC_iBsjqquseIW0",
@@ -89256,7 +89405,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Network\nSecurity \nGroup",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 68
           }
         ],
         "id": "9iwoOwN_bFxE_8SYn9HF8",
@@ -89477,7 +89627,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Virtual\nNetwork",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 43
           }
         ],
         "id": "_k3woRKH6qD6lYpQ_CN4v",
@@ -89520,7 +89671,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Active Directory",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           },
           {
             "type": "line",
@@ -89897,7 +90049,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "PS Runbook",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "JTsOLz34siMohNKIWG6az",
@@ -90199,7 +90352,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "App\nService",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "id": "JVVhT_idahC-FIv7_FZIY",
@@ -90465,7 +90619,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Service\nBus",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "id": "O8UJOs70yNNRK6Jaox5Xh",
@@ -90852,7 +91007,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Virtual\nMachine",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "id": "8YjtiKb4g_LOQJVUboysR",
@@ -90895,7 +91051,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "SQL\nDatabase",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           },
           {
             "type": "rectangle",
@@ -91206,7 +91363,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "SQL",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "BDQnQGVlGs7eDlW6cvJ7J",
@@ -91249,7 +91407,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Data\nLake",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           },
           {
             "type": "rectangle",
@@ -92046,7 +92205,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Container \nApps",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644348075,
@@ -92237,7 +92397,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Workspaces",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644345978,
@@ -92793,7 +92954,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Maintenance \nConfigurations",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644338147,
@@ -93128,7 +93290,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Application\nGroups",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644334634,
@@ -93670,7 +93833,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Azure Spring\nCloud",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644332403,
@@ -94076,7 +94240,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Host\nGroups",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644325978,
@@ -94426,7 +94591,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Hosts",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644323074,
@@ -94871,7 +95037,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Proximity\nPlacement\nGroups",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644320366,
@@ -96715,7 +96882,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Availability\n  Sets",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644309475,
@@ -98277,7 +98445,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Kubernetes\nServices",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644303073,
@@ -98527,7 +98696,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Service\nFabric\nClusters",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 54
           }
         ],
         "created": 1648644298411,
@@ -98572,7 +98742,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Batch\nAccounts",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           },
           {
             "type": "rectangle",
@@ -100431,7 +100602,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Container\nInstances",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644293159,
@@ -100742,7 +100914,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "App Services",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 14
           }
         ],
         "created": 1648644289846,
@@ -101031,7 +101204,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Function \n  App",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644286418,
@@ -102906,7 +103080,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Virtual Machine\n  Scale Sets",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644282009,
@@ -104661,7 +104836,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Virtual \nMachines",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 34
           }
         ],
         "created": 1648644275832,
@@ -104750,7 +104926,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "relation",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -104815,7 +104992,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Group",
-            "lineHeight": 1.2500000000000004
+            "lineHeight": 1.2500000000000004,
+            "baseline": 27
           },
           {
             "type": "rectangle",
@@ -104880,7 +105058,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Some component",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -104917,7 +105096,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[component]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -104954,7 +105134,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -105019,7 +105200,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Existing System",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -105056,7 +105238,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[software system]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -105093,7 +105276,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -105158,7 +105342,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "System",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -105195,7 +105380,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[software system]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -105232,7 +105418,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           },
           {
             "type": "line",
@@ -105410,7 +105597,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Database",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -105447,7 +105635,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[container: Oracle etc.]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -105484,7 +105673,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it stores?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -105669,7 +105859,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Web Application",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -105706,7 +105897,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[container: Angular etc.]",
-            "lineHeight": 1.2499999999999998
+            "lineHeight": 1.2499999999999998,
+            "baseline": 14
           },
           {
             "type": "text",
@@ -105743,7 +105935,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -105868,7 +106061,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Mobile App",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -105905,7 +106099,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[container: iOS etc.]",
-            "lineHeight": 1.2582629863527826
+            "lineHeight": 1.2582629863527826,
+            "baseline": 14
           },
           {
             "type": "text",
@@ -105942,7 +106137,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           },
           {
             "type": "text",
@@ -105979,7 +106175,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[enterprise or container]",
-            "lineHeight": 1.2499999999999991
+            "lineHeight": 1.2499999999999991,
+            "baseline": 24
           },
           {
             "type": "ellipse",
@@ -106076,7 +106273,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "User",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -106113,7 +106311,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[person]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -106150,7 +106349,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Who it is or what it does? ",
-            "lineHeight": 1.1875
+            "lineHeight": 1.1875,
+            "baseline": 15
           }
         ],
         "id": "E5NmbB7aqOg3g42WqvPzJ",
@@ -106255,7 +106455,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "User",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -106292,7 +106493,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[person]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -106329,7 +106531,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Who it is or what it does? ",
-            "lineHeight": 1.1875
+            "lineHeight": 1.1875,
+            "baseline": 15
           }
         ],
         "id": "2qBZ5_7oJnJFNLPwe1ayk",
@@ -106522,7 +106725,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Web Application",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -106559,7 +106763,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[container: Angular etc.]",
-            "lineHeight": 1.2499999999999998
+            "lineHeight": 1.2499999999999998,
+            "baseline": 14
           },
           {
             "type": "text",
@@ -106596,7 +106801,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           }
         ],
         "id": "46tUGbvK93-qgY5N8QKHC",
@@ -106729,7 +106935,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Mobile App",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -106766,7 +106973,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[container: iOS etc.]",
-            "lineHeight": 1.2582629863527826
+            "lineHeight": 1.2582629863527826,
+            "baseline": 14
           },
           {
             "type": "text",
@@ -106803,7 +107011,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           }
         ],
         "id": "ubupcRdZ4dOJpw959lt0w",
@@ -106876,7 +107085,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Some component",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -106913,7 +107123,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[component]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -106950,7 +107161,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           }
         ],
         "id": "HJ2FHfaE7W339eoMFKqaA",
@@ -107023,7 +107235,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "System",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -107060,7 +107273,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[software system]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -107097,7 +107311,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           }
         ],
         "id": "BPeVoKCD1dYc4VosT49cK",
@@ -107170,7 +107385,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Existing System",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -107207,7 +107423,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[software system]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -107244,7 +107461,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it is or what it does?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           }
         ],
         "id": "Tagh1I-VhhtE7znAMsPMY",
@@ -107430,7 +107648,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Database",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           },
           {
             "type": "text",
@@ -107467,7 +107686,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "[container: Oracle etc.]",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 15
           },
           {
             "type": "text",
@@ -107504,7 +107724,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "What it stores?",
-            "lineHeight": 1.1345231191869982
+            "lineHeight": 1.1345231191869982,
+            "baseline": 14
           }
         ],
         "id": "mCR1SAG0KhSHvQ7y3FBqC",
@@ -107577,7 +107798,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Enterprise",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "fHIINb11unrnFZloYmzpg",
@@ -107675,7 +107897,8 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "relation",
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "baseline": 18
           }
         ],
         "id": "DV02MW_RVfIfeR4ygSTpw",
