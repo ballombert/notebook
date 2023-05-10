@@ -1,6 +1,6 @@
 # Démêler la controverse : un examen critique de la dysphorie de genre à apparition rapide
 
-La dysphorie de genre à apparition rapide ou Rapid-Onset Gender Dysphoria (ROGD) et un argument que l'on retrouve souvent mis en avant face à la montée du nombre d'adolécent trans 
+La dysphorie de genre à apparition rapide ou Rapid-Onset Gender Dysphoria (ROGD) et un argument que l'on retrouve souvent mis en avant face à la montée du nombre d'adolescent trans 
 
 
 
