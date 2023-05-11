@@ -1,0 +1,1 @@
+Il en découle que si le genre n’existait pas, ce qu’on appelle sexe serait dénué de signification, et ne serait pas perçu comme important : ce ne serait qu’une différence physique parmi d’autres.

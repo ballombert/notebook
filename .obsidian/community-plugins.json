@@ -1,22 +1,16 @@
 [
   "obsidian-git",
   "obsidian-plantuml",
-  "url-into-selection",
-  "obsidian-mind-map",
   "obsidian-icon-folder",
   "hotkey-helper",
-  "table-editor-obsidian",
-  "obsidian-kanban",
   "obsidian-languagetool-plugin",
   "settings-search",
-  "obsidian-full-calendar",
-  "dataview",
-  "obsidian-excalidraw-plugin",
   "media-extended",
-  "obsidian-checklist-plugin",
-  "excalibrain",
-  "todoist-sync-plugin",
   "obsidian-read-it-later",
   "quickadd",
-  "obsidian-annotator"
+  "smart-connections",
+  "ytranscript",
+  "markdown-prettifier",
+  "obsidian-annotator",
+  "obsidian-textgenerator-plugin"
 ]
