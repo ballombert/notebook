@@ -1,0 +1,9 @@
+[[ReadItLater]] [[Article]]
+
+# [L'orientation sexuelle peut-elle varier dans le temps ? - C'est comme ça](https://cestcommeca.net/je-me-pose-des-questions/lorientation-sexuelle-peut-elle-varier-dans-le-temps/#:~:text=La%20notion%20de%20fluidit%C3%A9%20sexuelle%2C%20introduite%20par%20la,%C3%A9voluer%20au%20fil%20des%20rencontres%20et%20des%20exp%C3%A9riences.)
+
+La notion de **fluidité sexuelle**, introduite par la chercheuse Lisa Diamond, c’est l’idée selon laquelle l’orientation sexuelle d’une personne peut changer avec le temps. Une orientation n’est pas forcément gravée dans le marbre, elle peut évoluer au fil des rencontres et des expériences. Par exemple, beaucoup de personnes ont une première vie hétérosexuelle, se marient, fondent une famille, en se pensant majoritairement ou exclusivement hétéro (peut-être par conformité au normes sociales ? peut-être en fonction du hasard de la vie ?), puis un jour tombent amoureuses d’une personne du même genre et démarrent une nouvelle vie. C’est à elles alors de [s’autodésigner](https://cestcommeca.net/je-me-pose-des-questions/quest-ce-que-lorientation-sexuelle/) comme hétérosexuelles, homosexuelles, bisexuelles ou autre, selon ce qu’elles ressentent à ce moment-là. 
+
+Il est possible aussi, tout en se disant bisexuel.le, de sentir une attirance nettement plus marquée ou plus fréquente pour l’un des deux genres, et que cela s’inverse ensuite. 
+
+En somme, lorsque l’on cherche à savoir qui l’on est, on n’est pas obligé.e de [“choisir” une catégorie](https://cestcommeca.net/je-me-pose-des-questions/que-penser-des-etiquettes/) dans laquelle on se sentirait ensuite enfermé.e à vie ! Se laisser la possibilité d’évoluer dans le temps est sans doute à la fois moins stressant et plus réaliste, car ce n’est pas rare, comme l’ont montré les recherches d’Alfred Kinsey.
