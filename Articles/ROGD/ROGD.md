@@ -1,11 +1,11 @@
 # Démêler la controverse : un examen critique de la dysphorie de genre à apparition rapide
 
 
-La dysphorie de genre à apparition rapide, connue sous le nom de ROGD (Rapid Onset Gender Dysphoria), est utilisée pour soutenir la thèse que les réseaux sociaux influencerait les adolescents dans leur identité de genre, mais ce terme à t il une valeur ? nous allons voir sur quoi est basé ce concept et s'il est validé par la communauté scientifique    
+La dysphorie de genre à apparition rapide, connue sous le nom de ROGD (Rapid Onset Gender Dysphoria), est utilisée pour critiquer les soins d'affirmation du genre, est la thèse que les réseaux sociaux influencerait les adolescents dans leur identité de genre, mais ce terme à t il une valeur ? nous allons voir sur quoi est basé ce concept et s'il est validé par la communauté scientifique    
 
 Manque de preuves solides et de recherche approfondie
 
-L'une des critiques majeures concernant les ROGD est le manque de preuves solides pour étayer cette notion. Les études menées jusqu'à présent présentent des lacunes importantes en termes de méthodologie et de taille d'échantillon. De plus, il existe un manque de consensus dans la définition même du ROGD, ce qui soulève des inquiétudes quant à sa validité en tant que catégorie distincte de la dysphorie de genre.
+L'une des critiques majeures concernant les ROGD est le manque de preuves solides pour étayer cette notion. Une l'articles Littman   Les études menées jusqu'à présent présentent des lacunes importantes en termes de méthodologie et de taille d'échantillon. De plus, il existe un manque de consensus dans la définition même du ROGD, ce qui soulève des inquiétudes quant à sa validité en tant que catégorie distincte de la dysphorie de genre.
 
 Biais potentiel et manque de représentativité
 
