@@ -17,8 +17,7 @@ Aux États-Unis l'argument des ROGD est toujours utilisé dans les débats polit
 
 Manque de consensus dans la communauté médicale
 
-Il est important de noter qu'il n'existe pas de consensus clair au sein de la communauté médicale et professionnelle sur la validité du concept de ROGD. Des organisations telles que la World Professional Association for Transgender Health (WPATH) n'ont pas reconnu le ROGD comme un terme médical officiellement reconnu. Cela soulève des doutes quant à sa légitimité et à son utilité dans les discussions sur la dysphorie de genre.
-
+Il est important de noter que le terme est rejeté majoritairement dans la milieu médicale et professionnelle des transidentité. Des organisations telles que la World Professional Association for Transgender Health (WPATH) demande de ne plus utilise le terme ROGD comme un terme médical officiellement reconnu, celà donnant une impression d'une validité de celui-ci.
 Conclusion
 
-Les ROGD sont un concept controversé qui manque de preuves solides pour le soutenir. Les critiques soulignent le manque de recherche approfondie, les risques de biais et de stigmatisation, ainsi que le manque de consensus au sein de la communauté médicale. Il est important d'adopter une approche critique et équilibrée dans les discussions sur la dysphorie de genre, en veillant à respecter les droits et les expériences des personnes transgenres.
+Les ROGD sont un concept qui manque de preuves solides pour le soutenir. Les critiques soulignent le manque de recherche approfondie, les risques de biais et de stigmatisation, ainsi que le manque de consensus au sein de la communauté médicale. Il est important d'adopter une approche critique et équilibrée dans les discussions sur la dysphorie de genre, en veillant à respecter les droits et les expériences des personnes transgenres.
