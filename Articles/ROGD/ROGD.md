@@ -5,7 +5,7 @@ La dysphorie de genre à apparition rapide, connue sous le nom de ROGD (Rapid On
 
 Manque de preuves solides et de recherche approfondie
 
-L'une des critiques majeures concernant les ROGD est le manque de preuves solides pour étayer cette notion. Une l'articles Littman   Les études menées jusqu'à présent présentent des lacunes importantes en termes de méthodologie et de taille d'échantillon. De plus, il existe un manque de consensus dans la définition même du ROGD, ce qui soulève des inquiétudes quant à sa validité en tant que catégorie distincte de la dysphorie de genre.
+L'une des critiques majeures concernant les ROGD est le manque de preuves solides pour étayer cette notion. Une l'article Littman   Les études menées jusqu'à présent présentent des lacunes importantes en termes de méthodologie et de taille d'échantillon. De plus, il existe un manque de consensus dans la définition même du ROGD, ce qui soulève des inquiétudes quant à sa validité en tant que catégorie distincte de la dysphorie de genre.
 
 Biais potentiel et manque de représentativité
 
