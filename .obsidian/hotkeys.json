@@ -24,5 +24,14 @@
       ],
       "key": "D"
     }
+  ],
+  "ytranscript:fetch-transcript": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
