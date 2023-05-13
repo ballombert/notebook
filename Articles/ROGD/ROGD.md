@@ -28,6 +28,8 @@ Les ROGD sont un concept qui manque de preuves solides pour le soutenir. Les cri
 Pour allez plus loin [« Rapid-Onset Gender Dysphoria » (openedition.org)](https://journals.openedition.org/glad/5756#tocto1n1)
 
 
+ROGD one la fin d'un mythe 
+
 
 
 le temr  rogd proviens de Lisa Littman en 2018 
