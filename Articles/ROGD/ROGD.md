@@ -33,3 +33,12 @@ Pour allez plus loin [« Rapid-Onset Gender Dysphoria » (openedition.org)](ht
 le temr  rogd proviens de Lisa Littman en 2018 
 
 ROGD : des enfants en detrese social et psychologique les conduirait 
+
+Definition 
+
+ROGD : des enfants en detrese social et psychologique les conduirait 
+
+Historique 
+
+le temr  rogd proviens de Lisa Littman en 2018 
+
