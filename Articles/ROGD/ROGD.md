@@ -53,11 +53,11 @@ Ah, la dysphorie de genre à apparition rapide (ROGD)… Vous savez, cette myst�
 
 ## Comment est née la théorie de la ROGD ?
 
-Tout a commencé en 2018, lorsque Lisa Littman a publié une étude exploratoire dans la revue PLOS ONE. Selon cette étude, certains parents sur des forums en ligne affirmaient que la dysphorie de genre de leurs enfants avait soudainement commencé à la puberté, coïncidant avec une augmentation de l'utilisation des médias sociaux et l'influence des pairs. Littman a alors avancé l'hypothèse que la ROGD pourrait être le résultat d'une "contagion sociale" et de mécanismes de coping limités pour gérer les émotions fortes ou négatives.
+Tout a commencé en 2018, lorsque Lisa Littman a publié une étude exploratoire dans la revue PLOS ONE. Selon cette étude, certains parents sur des forums en ligne affirmaient que la dysphorie de genre de leurs enfants avait soudainement commencé à la puberté, coïncidant avec une augmentation de l'utilisation des médias sociaux et l'influence des pairs. Littman a alors avancé l'hypothèse que la ROGD pourrait être le résultat d'une "contagion sociale" et de mécanismes de mimétisme limités pour gérer les émotions fortes ou négatives.
 
 ### Des problèmes de méthodologie
 
-Malheureusement pour Littman, sa méthodologie présentait de nombreuses failles qui lui valut une   réécriture de son article quelques semaines après sa publication. Voici quelques exemples des faiblesses de celui-ci, elle a recruté ses participants parmi les parents fréquentant des sites Web particulièrement négatifs à l'égard des personnes transgenres, ce qui a probablement entraîné un biais de sélection. De plus, les réponses des parents ne reflétaient pas nécessairement les expériences et les symptômes des adolescents ou des jeunes adultes concernés.
+Malheureusement pour Littman, sa méthodologie présentait de nombreuses failles qui lui valut la réécriture de son article quelques semaines après sa publication. Voici quelques exemples des faiblesses de celui-ci, elle a recruté ses participants parmi les parents fréquentant des sites Web particulièrement négatifs à l'égard des personnes transgenres, ce qui a probablement entraîné un biais de sélection. De plus, les réponses des parents ne reflétaient pas nécessairement les expériences et les symptômes des adolescents ou des jeunes adultes concernés.
 
 ## Pourquoi la ROGD n'est-elle pas reconnue par la communauté médicale et scientifique ?
 
