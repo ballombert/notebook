@@ -26,3 +26,7 @@ Il est important de noter que le terme est rejeté majoritairement dans le milie
 Les ROGD sont un concept qui manque de preuves solides pour le soutenir. Les critiques soulignent le manque de recherche approfondie, les risques de biais et de stigmatisation, ainsi que le manque de consensus au sein de la communauté médicale. Il est important d'adopter une approche critique dans les discussions sur la dysphorie de genre, en respectant les droits et les expériences des personnes transgenres.
 
 Pour allez plus loin [« Rapid-Onset Gender Dysphoria » (openedition.org)](https://journals.openedition.org/glad/5756#tocto1n1)
+
+
+
+
