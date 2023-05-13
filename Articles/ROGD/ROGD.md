@@ -80,7 +80,7 @@ Le principal danger de la théorie de la ROGD est qu'elle peut causer un préjud
 
 ### Des répercutions sur les droits et les politiques concernant les jeunes transgenres
 
-La désinformation autour de la ROGD affecte également les décisions en matière de politiques relatives aux droits des jeunes transgenres. De nombreux projets de loi visant à limiter les droits des jeunes transgenres à l'accès a des traitements d'affirmations du genre ont la ROGD pour soutenir leurs arguments. Par exemple, un rapport de 2022 a cité l'étude de 2018 dans la campagne visant à empêcher Medicaid de fournir des soins liés à la transition en Floride.
+La désinformation autour de la ROGD affecte également les décisions en matière de politiques relatives aux droits des jeunes transgenres. De nombreux projets de loi visant à limiter les droits des jeunes transgenres à l'accès a des traitements d'affirmations du genre ont la ROGD pour soutenir leurs arguments. Par exemple, un rapport de 2022 a cité l'étude de 2018 dans la campagne visant à empêcher l'access aux soins <de fournir des soins liés à la transition en Floride.
 
 ### 4.2 Effets sur l'accès au soutien et aux ressources
 
