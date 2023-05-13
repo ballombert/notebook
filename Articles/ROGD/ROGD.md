@@ -77,14 +77,14 @@ Il est difficile de dire exactement pourquoi tant de gens sont convaincus de l'e
 
 ## Quels sont les dangers de la théorie de la ROGD ?
 
-Le principal danger de la théorie de la ROGD est qu'elle peut causer un préjudice considérable aux jeunes transgenres. En promouvant l'idée que la dysphorie de genre est probablement "contagieuse" et résultant de mécanismes de mimétisme inadaptés, la théorie de la ROGD stigmatise et délégitime les expériences des jeunes transgenres.
+Le principal danger de la théorie de la ROGD est qu'elle peut causer un préjudice considérable aux adolescents ou aux jeunes transgenres. En promouvant l'idée que la dysphorie de genre est probablement "contagieuse" et résultant de mécanismes de mimétisme inadaptés, la théorie de la ROGD stigmatise et délégitime les expériences des adolescents ou des jeunes transgenres.
 
 ### Des répercutions sur les droits et les politiques concernant les jeunes transgenres
 
-La désinformation autour de la ROGD affecte également les décisions en matière de politiques relatives aux droits des jeunes transgenres. De nombreux projets de loi visant à limiter les droits des jeunes transgenres à l'accès a des traitements d'affirmations du genre ont la ROGD pour soutenir leurs arguments. Par exemple, un rapport de 2022 a cité l'étude de 2018 dans la campagne visant à empêcher l'accès aux soins liés à la transition en Floride.
+La désinformation autour de la ROGD affecte également les décisions en matière de politiques relatives aux droits des adolescents ou des jeunes transgenres. De nombreux projets de loi visant à limiter les droits des adolescents ou des jeunes transgenres à l'accès a des traitements d'affirmations du genre ont la ROGD pour soutenir leurs arguments. Par exemple, un rapport de 2022 a cité l'étude de 2018 dans la campagne visant à empêcher l'accès aux soins liés à la transition en Floride.
 
 ### 4.2 Effets sur l'accès au soutien et aux ressources
 
-La théorie de la ROGD peut par ailleurs nuire à l'accès des jeunes transgenres au soutien et aux ressources dont ils ont besoin. En suggérant que l'utilisation des médias sociaux et la connexion avec des personnes partageant des expériences similaires peuvent être à l'origine de la dysphorie de genre soudaine chez les jeunes, la théorie de la ROGD risque de dissuader les jeunes transgenres de chercher du soutien et de l'information en ligne.
+La théorie de la ROGD peut par ailleurs nuire à l'accès des adolescents ou des jeunes transgenres au soutien et aux ressources dont ils ont besoin. En suggérant que l'utilisation des médias sociaux et la connexion avec des personnes transgenre partageant des expériences similaires peuvent être à l'origine de la dysphorie de genre soudaine chez les jeunes, la théorie de la ROGD risque de dissuader les adolescents ou des jeunes transgenres de chercher du soutien et de l'information en ligne.
 
-Conclusion, la ROGD reste un mythe encore trop rependu, et un argument pour convaincre des parents crédule que leurs enfants va bien. Il serrait préférable que l'on se concentre d'avantage sur les besoins des adolescent en demande d'affirmation de genre, plutôt que de refermer la porte des soins, les études montrant que l'affirmation de genre réduit considérablement le mal-être de l'enfant
+Conclusion, la ROGD reste un mythe encore trop rependu, et un argument pour convaincre des parents crédule que leurs enfants va bien et qu'il doivent arrété d'interagire sur les reseaux sociaux. Il serrait préférable que l'on se concentre d'avantage sur les besoins des adolescents ou des jeunes en demande d'affirmation de genre, plutôt que de refermer la porte aux soins, les études montrant que l'affirmation de genre réduit considérablement le mal-être de ceux-ci
