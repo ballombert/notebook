@@ -15,11 +15,11 @@ Une autre préoccupation légitime est le risque de biais dans les sources utili
 
 **Stigmatisation et impact sur les personnes transgenres**
 
-Aux États-Unis l'argument des ROGD est toujours utilisé dans les débats politiques. L'accent mis sur le ROGD entraîne une stigmatisation et une marginalisation accrues des personnes transgenres. En mettant l'accent sur les facteurs sociaux et culturels, et minimisant l'importance des expériences et des sentiments internes des personnes transgenres. Cela remettre en question la légitimité de l'identité de genre des jeunes personnes et leur accès aux soins de santé adaptés.
+Aux États-Unis l'argument des ROGD est toujours utilisé dans les débats politiques. L'accent mis sur le ROGD entraîne une stigmatisation et une marginalisation accrues des personnes transgenres. En mettant l'accent sur les facteurs sociaux et culturels, et minimisant l'importance des expériences et des sentiments internes des personnes transgenres. Cela remettre en question la légitimité de l'identité de genre des jeunes personnes et leur accès aux soins de santé adaptés. En Juin 2022 l'argument des ROGD est encore utilisé dans un rapport [Florida Medicaid]([AHCA_GAPMS_June_2022_Report.pdf (myflorida.com)](https://ahca.myflorida.com/content/download/4869/file/AHCA_GAPMS_June_2022_Report.pdf)) pour limiter laccèss aux soins des personnes transgenre 
 
 **Manque de consensus dans la communauté médicale**
 
-Il est important de noter que le terme est rejeté majoritairement dans le milieu médicale et professionnelle de la transidentité. Des organisations telles que la World Professional Association for Transgender Health (WPATH) demande de ne plus utilise le terme ROGD comme un terme médical officiellement reconnu, celà donnant une impression d'une validité scientifique de celui-ci.
+Il est important de noter que le terme est rejeté majoritairement dans le milieu médicale et professionnelle de la transidentité. Des organisations telles que la [World Professional Association for Transgender Health (WPATH)](https://www.wpath.org/media/cms/Documents/Public%20Policies/2018/9_Sept/WPATH%20Position%20on%20Rapid-Onset%20Gender%20Dysphoria_9-4-2018.pd demande de ne plus utilise le terme ROGD comme un terme médical officiellement reconnu, celà donnant une impression d'une validité scientifique de celui-ci.
 
 **Conclusion**
 
