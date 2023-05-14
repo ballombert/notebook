@@ -7,7 +7,7 @@ La dysphorie de genre à apparition rapide, connue sous le nom de ROGD (Rapid On
 
 **Manque de preuves solides et de recherche approfondie**
 
-L'une des critiques majeures concernant les ROGD est le manque de preuves solides pour étayer cette notion. Lisa Littman tête de fils de cette thèse, base ces conclusions uniquement sur des témoignages de parent sur des sites défavorable à l'affirmation du genre. En aout 2018 elle publia un article, prônant la thèse de l'existence d'un nouveau type de dysphorie. La faiblesse de l'échantillon fait que deux semaines plus tard fait l'objet d'un examen. Et conduit le journal à faire des excuses à la communauté trans, mais aussi une réécriture de l'article, appuyant que l'hypothèse devrait être encore démontrée.   
+L'une des critiques majeures concernant les ROGD est le manque de preuves solides pour étayer cette notion. Lisa Littman tête de fils de cette thèse, base ces conclusions uniquement sur des témoignages de parent sur des sites défavorable à l'affirmation du genre. En aout 2018 elle publia un article, prônant la thèse de l'existence d'un nouveau type de dysphorie. La faiblesse de l'échantillon fait que deux semaines plus tard fait l'objet d'un examen. Et conduit le journal à faire des excuses à la communauté trans, mais aussi une réécriture de l'article, appuyant que l'hypothèse devrait être encore démontrée. En Mars 2023   
 
 **Biais potentiel et manque de représentativité**
 
