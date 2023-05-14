@@ -37,6 +37,6 @@ La désinformation autour de la ROGD affecte également les décisions en matiè
 
 ### Effets sur l'accès au soutien et aux ressources
 
-La théorie de la ROGD peut par ailleurs nuire à l'accès des adolescents ou des jeunes transgenres au soutien et aux ressources dont ils ont besoin. En suggérant que l'utilisation des médias sociaux et la connexion avec des personnes transgenre partageant des expériences similaires peuvent être à l'origine de la dysphorie de genre soudaine chez les jeunes, la théorie de la ROGD risque de dissuader les adolescents ou des jeunes transgenres de chercher du soutien et de l'information en ligne.
+La théorie de la ROGD peut par ailleurs nuire à l'accès des adolescents ou des jeunes transgenres au soutien et aux ressources dont ils ont besoin. En suggérant une contamination par les réseaux sociaux et la connexion avec des personnes transgenre, certain parent  dissuader les adolescents ou des jeunes transgenres de chercher du soutien et de l'information en ligne.
 
 Conclusion, la ROGD reste un mythe encore trop rependu, et un argument pour convaincre des parents crédule que leurs enfants va bien et qu'il doivent arrété d'interagire sur les reseaux sociaux. Il serrait préférable que l'on se concentre d'avantage sur les besoins des adolescents ou des jeunes en demande d'affirmation de genre, plutôt que de refermer la porte aux soins, les études montrant que l'affirmation de genre réduit considérablement le mal-être de ceux-ci
