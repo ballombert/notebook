@@ -74,7 +74,7 @@ Many articles in scientific journals have opposed the term ROGD.
 
 A [2020 article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7012957/) states that the 2018 study used flawed research methods. The critique also explores the potential bias of the paper and the use of language that falsely compares transgender identity to an infectious disease or disorder.
 
-A [2022 article](https://www.jpeds.com/article/S0022-3476(21)01085-4/fulltext) from the *Journal of Pediatrics* also did not support the hypothesis of ROGD and suggests that the survey responses may represent the experiences and perceptions of parents rather than adolescents or young adults with gender dysphoria.
+A [2022 article](https://www.jpeds.com/article/S0022-3476(21)01085-4/fulltext) from the *Journal of Pediatrics* also did not support the hypotheshttps://www.jpeds.com/article/S0022-3476(21)01085-4/fulltextis of ROGD and suggests that the survey responses may represent the experiences and perceptions of parents rather than adolescents or young adults with gender dysphoria.
 
 ### Objections
 

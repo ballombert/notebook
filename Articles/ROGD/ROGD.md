@@ -21,7 +21,7 @@ L'étude de Littman était basée sur des observations de parents, ce qui signif
 
 ### Réfutation par d'autres études
 
-Plusieurs articles publiés dans des revues scientifiques se sont opposés au terme ROGD. Par exemple, un article de 2020 a critiqué l'étude de Littman pour ses méthodes de recherche défectueuses et a soulevé des questions sur le biais potentiel de l'article. Un autre article de 2022 a également rejeté l'hypothèse de la ROGD, suggérant que les réponses des parents reflétaient davantage leurs propres expériences et perceptions que celles des adolescents ou des jeunes adultes concernés.
+Plusieurs articles publiés dans des revues scientifiques se sont opposés au terme ROGD. Par exemple, un article de 2020 [Methodological Critique of Littman’s (2018) Parental-Respondents Accounts of “Rapid-Onset Gender Dysphoria” - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7012957/) a critiqué l'étude de Littman pour ses méthodes de recherche défectueuses et a soulevé des questions sur le biais potentiel de l'article. Un autre article de 2022 [Do Clinical Data from Transgender Adolescents Support the Phenomenon of “Rapid Onset Gender Dysphoria”? - The Journal of Pediatrics (jpeds.com)](https://www.jpeds.com/article/S0022-3476(21)01085-4/fulltext) a également rejeté l'hypothèse de la ROGD, suggérant que les réponses des parents reflétaient davantage leurs propres expériences et perceptions que celles des adolescents ou des jeunes adultes concernés.
 
 ## Pourquoi tant de gens croient-ils en la ROGD ?
 
