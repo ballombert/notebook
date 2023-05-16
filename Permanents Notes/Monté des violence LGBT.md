@@ -45,7 +45,7 @@ La libération de la parole LGBTIPhobe au sein du gouvernement se propage à tou
 
 Les données révèlent une augmentation alarmante de la violence envers les personnes transgenres, avec une hausse de 35% au cours des deux dernières années. De plus, les débats hostiles et politisés autour de la question des personnes trans contribuent à une atmosphère de tension. Il est essentiel d'écouter et de respecter les identités trans, mais celles-ci ne devraient pas faire l'objet d'un débat.
 
-Le rapport met également en évidence des problèmes de transphobie dans les commerces et les services, tels que le refus de prendre en compte le prénom d'une personne dans le milieu scolaire.
+Le rapport met également en évidence des problèmes de transphobie dans les commerces et les services, tels que le refus de prendre en compte le prénom d'une personne trans dans le milieu scolaire.
 
 Il est également souligné dans le rapport que plus d'un tiers des personnes subissent des LGBTPhobies familiales et environ un quart en milieu professionnel. Près de la moitié des demandes d'aide concernent des discriminations au travail. De plus, le rapport révèle qu'environ une personne sur quatre ressent un mal-être au travail et que la moitié des personnes cache leur orientation sexuelle au travail.
 
