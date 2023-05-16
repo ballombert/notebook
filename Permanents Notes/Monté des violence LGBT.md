@@ -5,11 +5,11 @@ Rapport de Sos homophobie: Libération de la parole LGBTPhobe et Monté des viol
 
 Le 17 mai c'est la journée mondial contre l'homophobie, la transphobie et la biphobie, c'est aussi la sortie du rapport de SOS Homophobie. Les chiffres montrent une augmentation de LGBTPhobie et particulièrement de la transphobie 
 
-La libération de la parole LGBTPhobe au plus au niveau du gouvernement,   donne une  qui se propage à tous les niveaux de la société et dans l'espace public. Cette libération de la parole s'accompagne d'un sentiment d'impunité, entraînant une hausse préoccupante des actes de violence.
+La libération de la parole LGBTPhobe au plus au niveau du gouvernementi se propage à tous les niveaux de la société et dans l'espace public. Cette libération de la parole s'accompagne d'un sentiment d'impunité, entraînant une hausse préoccupante des actes de violence.
 
-Les données révèlent une augmentation alarmante de la violence envers les personnes transgenres, avec une hausse de 35% au cours des deux dernières années. De plus, la tenue de débats hostiles et politisés autour de la question des personnes trans ajoute à l'atmosphère de tension.
+Les données révèlent une augmentation alarmante de la violence envers les personnes transgenres, avec une hausse de 35% au cours des deux dernières années. De plus, la tenue de débats hostiles et politisés autour de la question des personnes trans ajoute à l'atmosphère de tension. Il est essentiel que les transidentités soient écoutées et respectées, mais les transidentités ne sont pas un débat.
 
-Il est essentiel que les transidentités soient écoutées et respectées, plutôt que d'être stigmatisées. Le rapport souligne également la triste réalité selon laquelle un tiers des jeunes subissent des violences familiales liées à leur identité de genre. De plus, un cas sur cinq révèle l'existence de la transphobie au sein des services.
+Le rapport souligne également la triste réalité selon laquelle un tiers des jeunes subissent des violences familiales liées à leur identité de genre. De plus, un cas sur cinq révèle l'existence de la transphobie au sein des services.
 
 Le tragique décès de Lucas, âgé de 13 ans, suite à des actes de harcèlement, met en évidence l'urgence de lutter contre cette violence. En outre, le rapport révèle que près d'une personne sur quatre fait face à un mal-être au travail en raison de leur identité de genre.
 
