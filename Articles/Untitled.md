@@ -21,3 +21,11 @@ Ah, l'idéologie des racines hétéronormatives, c'est tellement rafraîchissant
 3/4: Allez, tous ensemble maintenant, prenez une inspiration profonde. Ah, et toi là-bas, qui semble vivre dans un monde parallèle rempli de déviants, je t'en prie, fais-toi plaisir ! Laisse tes fantasmes t'envahir et sois un homme viril, fier et sans aucun complexe. Après tout, l'auto-assurance, c'est tellement sexy, n'est-ce pas ?
 
 4/4: Assumer ses désirs et ses rêveries, voilà la clé d'une vie épanouissante. Alors, mes chéris, embrassons cette vision de l'éducation sans hésitation ni remords. C'est tellement merveilleux de se laisser guider par nos illusions les plus extravagantes. Vive l'ironie et les idées farfelues !
+
+
+  
+
+
+
+
+3/3: Oui, étant incapable de s'assumer, petit chéri enfermé dans ton idéologie, tu répands ta haine !
