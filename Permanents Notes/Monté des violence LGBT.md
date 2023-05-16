@@ -1,19 +1,19 @@
 
-Rapport SOS Homophobie 2023 : libération de la parole LGBTPhobe et une augmentation dramatique des violences.
+Rapport SOS Homophobie 2023 : libération de la parole LGBTIPhobe et une augmentation dramatique des violences.
 
-Rapport de Sos homophobie: Libération de la parole LGBTPhobe et Monté des violences 
+Rapport de Sos homophobie: Libération de la parole LGBTIPhobe et Monté des violences 
 
-Le 17 mai c'est la journée mondial contre l'homophobie, la transphobie et la biphobie, c'est aussi la sortie du rapport de SOS Homophobie. Les chiffres montrent une augmentation de LGBTPhobie et particulièrement de la transphobie 
+Le 17 mai c'est la journée mondial contre l'homophobie, la transphobie et la biphobie, c'est aussi la sortie du rapport de SOS Homophobie. Les chiffres montrent une augmentation des LGBTIPhobies et particulièrement de la transphobie 
 
-La libération de la parole LGBTPhobe au plus au niveau du gouvernement qui se propage à tous les niveaux de la société, dans l'espace public et médiatique. Cette libération de la parole s'accompagne d'un sentiment d'impunité, entraînant une hausse préoccupante des actes de violence. 
+La libération de la parole LGBTIPhobe au plus au niveau du gouvernement qui se propage à tous les niveaux de la société, dans l'espace public et médiatique. Cette libération de la parole s'accompagne d'un sentiment d'impunité, entraînant une hausse préoccupante des actes de violence. 
 
 Les données révèlent une augmentation alarmante de la violence envers les personnes transgenres, avec une hausse de 35% au cours des deux dernières années. De plus, la tenue de débats hostiles et politisés autour de la question des personnes trans ajoute à l'atmosphère de tension. Il est essentiel que les transidentités soient écoutées et respectées, mais les transidentités ne sont pas un débat.
 
-De plus, le rapport révèle des problèmes de transphobie dans les services ex refus de prendre en compte le prénom de la personne.
+De plus, le rapport révèle des problèmes de transphobie dans les commerces et services comme refus de prendre en compte le prénom de la personne dans le milieu scolaire.
 
-Le rapport souligne également la triste réalité selon laquelle plus d'un tiers de personne subissent des LGBTPhobie familiales. Et encore 1/4 sur le milieu du travail, dallieur presque que la moitié des demandes d'aide concerne des discriminations au travaille 
+Le rapport souligne également la triste réalité selon laquelle plus d'un tiers de personne subissent des LGBTPhobies familiales. Et encore 1/4 sur le milieu du travail, d'ailleurs presque que la moitié des demandes d'aide concerne des discriminations au travaille. En outre, le rapport révèle que près d'une personne sur quatre fait face à un mal-être au travail et une personne sur deux cache . 
 
-L'année 2023, eut lieu le tragique décès de Lucas, âgé de 13 ans, suite à des actes de harcèlement, met en évidence l'urgence de lutter contre cette violence. En outre, le rapport révèle que près d'une personne sur quatre fait face à un mal-être au travail en raison de leur identité de genre.
+L'année 2023, eut lieu le tragique décès de Lucas, âgé de 13 ans, suite à des actes de harcèlement, met en évidence l'effort à mettre sur la sensibilisation au LGBTIPhobies chez les plus jeunes. 
 
 
 
