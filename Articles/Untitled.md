@@ -7,7 +7,7 @@ Allez prenez une grande respiration, toi là qui en tu fantasmes sur les dévian
 ![[Pasted image 20230516205259.png]]
 
 
-Oh, mes petits chéris ! Il faut vraiment qu'on mette un frein à cette envie irrésistible de vouloir façonner l'éducation des enfants, parce que voyez-vous, la frontière entre "inculquer" et "endoctriner" est  .
+Oh, mes petits chéris ! Il faut vraiment qu'on mette un frein à cette envie irrésistible de vouloir façonner l'éducation des enfants, parce que voyez-vous, la frontière entre "inculquer" et "endoctriner" est aussi fine que votre ouverture d'esprit.
 
 Ah, l'idéologie des racines hétéronormatives, c'est tellement rafraîchissant, on se croirait presque à d'illusoire  ! Allez, tous ensemble maintenant, prenez une inspiration profonde. Surtout toi là-bas, qui rêve éveillé en pensant aux déviants, tu devrais réellement te faire du bien. Oui, sois un homme viril et fier de tes fantasmes, assume, quoi !
 
