@@ -14,7 +14,7 @@ Ah, l'idéologie des racines hétéronormatives, c'est tellement rafraîchissant
 
 
 
-1/4: Oh, mes petits chéris ! Il faut réellement qu'on mette un frein à cette envie irrésistible de vouloir façonner l'éducation des enfants, parce que voyez-vous, la frontière entre "inculquer" et "endoctriner" est si mince qu'on pourrait la confondre avec un fil à coudre.
+1/4: Oh, mes petits chéris ! Il faut réellement qu'on mette un frein à cette envie irrésistible de vouloir façonner l'éducation des enfants, parce que voyez-vous, la frontière entre "inculquer" et "endoctriner" est si mince qu'on pourrait y passé .
 
 2/4: Ah, l'idéologie des racines hétéronormatives, c'est tellement rafraîchissant, on se croirait presque au seminaire ! Vous savez, c'est comme si on avait découvert une potion magique pour élever nos chères têtes blondes dans un monde tout rose.
 
