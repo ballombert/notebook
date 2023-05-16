@@ -3,9 +3,9 @@ Rapport SOS Homophobie 2023 : libération de la parole LGBTPhobe et une augmenta
 
 Rapport de Sos homophobie: Libération de la parole LGBTPhobe et Monté des violences 
 
-Le 17 mai c'est la journée mondial contre l'homophobie, la transphobie et la biphobie, c'est aussi la sortie du rapport de SOS Homophobie. Les chiffres montrent une augmentation de LGBTPhobie  et particulierement de la transphobie 
+Le 17 mai c'est la journée mondial contre l'homophobie, la transphobie et la biphobie, c'est aussi la sortie du rapport de SOS Homophobie. Les chiffres montrent une augmentation de LGBTPhobie et particulièrement de la transphobie 
 
-SOS Homophobie a récemment publié un rapport mettant en évidence une augmentation significative de la parole LGBTPhobe, qui se propage à tous les niveaux de la société et dans l'espace public. Cette libération de la parole s'accompagne d'un sentiment d'impunité, entraînant une hausse préoccupante des actes de violence.
+La libération de la parole LGBTPhobe au plus au niveau du gouvernement,   donne une  qui se propage à tous les niveaux de la société et dans l'espace public. Cette libération de la parole s'accompagne d'un sentiment d'impunité, entraînant une hausse préoccupante des actes de violence.
 
 Les données révèlent une augmentation alarmante de la violence envers les personnes transgenres, avec une hausse de 35% au cours des deux dernières années. De plus, la tenue de débats hostiles et politisés autour de la question des personnes trans ajoute à l'atmosphère de tension.
 
