@@ -1,4 +1,6 @@
 
+Rapport SOS Homophobie 2023 : libération de la parole LGBTPhobe et une augmentation dramatique des violences.
+
 Rapport de  Sos homo phobie: Libération de la parole LGBTPhobe et Monté des violence 
 
 
@@ -14,8 +16,9 @@ La violance familliale chez les jeunes Un cas sur 3
 
 
 
-Transphobie dans les servise 1 cas sur 5 
+Transphobie dans les service  1 cas sur 5 
+
 
 Lucas 13 ans meurt suite au harcelement 
 
-1 personne sur 4 est victime de mal être  au travaille aux 
+1 personne sur 4 est victime de mal être  au travaille
