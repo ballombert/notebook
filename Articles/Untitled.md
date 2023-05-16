@@ -14,9 +14,9 @@ Ah, l'idéologie des racines hétéronormatives, c'est tellement rafraîchissant
 
 
 
-1/4: Oh, mais bonjour mes petits chéris ! Il faut vraiment qu'on mette un frein à cette envie irrésistible de vouloir façonner l'éducation des enfants, parce que voyez-vous, la frontière entre "inculquer" et "endoctriner" est si mince qu'on pourrait la confondre avec un fil à coudre.
+1/4: Oh, mes petits chéris ! Il faut réellement qu'on mette un frein à cette envie irrésistible de vouloir façonner l'éducation des enfants, parce que voyez-vous, la frontière entre "inculquer" et "endoctriner" est si mince qu'on pourrait la confondre avec un fil à coudre.
 
-2/4: Ah, l'idéologie des racines hétéronormatives, c'est tellement rafraîchissant, on se croirait presque dans un conte de fées illusoire ! Vous savez, c'est comme si on avait découvert une potion magique pour élever nos chères têtes blondes dans un monde tout rose.
+2/4: Ah, l'idéologie des racines hétéronormatives, c'est tellement rafraîchissant, on se croirait presque au seminaire ! Vous savez, c'est comme si on avait découvert une potion magique pour élever nos chères têtes blondes dans un monde tout rose.
 
 3/4: Allez, tous ensemble maintenant, prenez une inspiration profonde. Ah, et toi là-bas, qui semble vivre dans un monde parallèle rempli de déviants, je t'en prie, fais-toi plaisir ! Laisse tes fantasmes t'envahir et sois un homme viril, fier et sans aucun complexe. Après tout, l'auto-assurance, c'est tellement sexy, n'est-ce pas ?
 
