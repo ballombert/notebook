@@ -1,0 +1,25 @@
+{
+  "calendarSources": [
+    {
+      "type": "caldav",
+      "name": "Personal",
+      "url": "https://nextcloud.allombert.fr/remote.php/dav/calendars/beatrice/personal/",
+      "homeUrl": "https://nextcloud.allombert.fr/remote.php/dav/calendars/beatrice/personal/",
+      "color": "#0082C9",
+      "username": "beatrice",
+      "password": "FamAll2012"
+    },
+    {
+      "type": "local",
+      "color": "#50fa7b",
+      "directory": "calendar"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}

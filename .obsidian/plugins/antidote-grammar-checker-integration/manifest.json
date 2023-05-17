@@ -1,0 +1,11 @@
+{
+  "id": "antidote-grammar-checker-integration",
+  "name": "Antidote Grammar Checker Integration",
+  "version": "2.1.1",
+  "minAppVersion": "0.15.0",
+  "description": "Unofficial integration of Antidote, a powerful English and French grammar checker",
+  "author": "Heziode",
+  "authorUrl": "https://github.com/Heziode",
+  "fundingUrl": "https://www.buymeacoffee.com/Heziode",
+  "isDesktopOnly": true
+}

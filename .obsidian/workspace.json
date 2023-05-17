@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "b498690703ece054",
+    "type": "split",
+    "children": [
+      {
+        "id": "33853ff42773b0d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89a07cd345bdf36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2023-05-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "026b679ab1d8b4f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3950b987db7f5e96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba1185e8dde31690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "407bce4ff25fbd3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "9136cb962bd8bcf2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "468654d221995e98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57aa24ef786e8f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a13b73d959fc061",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ed7d48c1ab5af1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2023-05-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7c4fc9dc0cd9b23",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dd5edfeb0715af3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2023-05-17.md"
+              }
+            }
+          },
+          {
+            "id": "ea51fd721296458d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2023-05-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d2dabcdacbcfef9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 715.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "89a07cd345bdf36c",
+  "lastOpenFiles": [
+    "Articles/Untitled.md",
+    "Journal/2023-05-17.md",
+    "Pasted image 20230516205259.png",
+    "Journal/2023-05-16.md",
+    "Permanents Notes/Monté des violence LGBT.md",
+    "notes/Dan Andrews (@DanielAndrewsMP)  Twitter.md",
+    "Emission/Beyond the Binary.md",
+    "Journal/2023-05-15.md",
+    "ReadItLater Inbox/Note 2023-05-15 21-03-08.md",
+    "Personal/Myst.md",
+    "Pasted image 20230514191423.png",
+    "Journal/2023-05-14.md",
+    "Articles/ROGD/sources/Rapid onset gender dysphoria What to know.md",
+    "Articles/ROGD/ROGD.md",
+    "Articles/ROGD/Untitled.md",
+    "Articles/ROGD/sources/AHCA_GAPMS_June_2022_Report.pdf",
+    "Articles/ROGD/Growing of transgender.md",
+    "Articles/ROGD/sources/Social Cognitive Theory of Gender Development and Differentiation.pdf",
+    "Articles/ROGD/sources/Study of 1,655 Cases Supports the Rapid-Onset Gender Dysphoria Hypothesis.md",
+    "Articles/ROGD/sources/Article.md",
+    "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
+    "Articles/ROGD/sources/Methodological Critique of Littman’s (2018) Parental-Respondents Accounts of “Rapid-Onset Gender Dysphoria”.md",
+    "ReadItLater Inbox/Untitled.md",
+    "ReadItLater Inbox/Youtube - Ancient Therapy for Modern Problems Stoic Philosophy Explained.md",
+    "ReadItLater Inbox/Article 2023-05-14 12-15-28.md",
+    "ReadItLater Inbox/L'orientation sexuelle peut-elle varier dans le temps  - C'est comme ça.md",
+    "Articles/ROGD/sources/Article 2023-05-13 19-48-23.md",
+    "ReadItLater Inbox/assets/ravenround.gif",
+    "ReadItLater Inbox/Note 2023-05-13 23-32-23.md",
+    "ReadItLater Inbox/Note 2023-05-06 00-26-55.md",
+    "ReadItLater Inbox/Note 2023-05-13 00-12-34.md",
+    "ReadItLater Inbox/assets",
+    "Articles/ROGD/sources",
+    "Discord",
+    "Task",
+    "Journal",
+    "Personal/Secte",
+    "Articles/ROGD",
+    "Articles",
+    "Personal/LGBTQIA+/Images/Pasted image 20230331231237.png",
+    "Personal/LGBTQIA+/Images/Pasted image 20230330164724.png",
+    "Images/Pasted image 20230417210624.png",
+    "Pasted image 20230502211402.png",
+    "Untitled.canvas",
+    "Journal/Untitled.canvas"
+  ]
+}
