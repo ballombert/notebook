@@ -6,7 +6,12 @@ Définition d'un génocide
 Condition de définition d'un génicide 
 > [!ai]+ AI
 >
-> Le génocide est défini comme un acte commis dans l'intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux. Cette intention peut être manifestée par des actes tels que le meurtre de membres du groupe, la grave atteinte à l'intégrité physique ou mentale de membres du groupe, la soumission intentionnelle du groupe à des conditions d'existence devant entraîner sa destruction physique totale ou partielle, la mise en place de mesures visant à entraver les naissances au sein du groupe ou encore le transfert forcé d'enfants du groupe à un autre groupe. La condition essentielle pour la définition d'un génocide est donc l'intention de détruire un groupe humain en tout ou en partie.
+> Le génocide est défini comme un acte commis dans l'intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux. Cette intention peut être manifestée par des actes tels que :
+> - le meurtre de membres du groupe, 
+> - la grave atteinte à l'intégrité physique ou mentale de membres du groupe, 
+> - la soumission intentionnelle du groupe à des conditions d'existence devant entraîner sa destruction physique totale ou partielle, 
+> - la mise en place de mesures visant à entraver les naissances au sein du groupe ou encore le transfert forcé d'enfants du groupe à un autre groupe. 
+> La condition essentielle pour la définition d'un génocide est donc l'intention de détruire un groupe humain en tout ou en partie.
 
 
 
