@@ -6,7 +6,9 @@
 
 “Thier can be no middle way in dealing with transgenderism. Transgenderism must be eradicated! from public life entirely” 
 
-Transgenderism,  concepte utilise par des personne transphobe pour reduire la transidentité à une idéologie 
+Transgenderism,  concepte utilise par des personne transphobe pour reduire la transidentité à une idéologie. 
+
+Dans le cadre réelle on ne peux 
 
 
 
