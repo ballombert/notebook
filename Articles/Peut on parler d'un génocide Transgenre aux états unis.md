@@ -19,3 +19,7 @@ Une chemise de prisonnière rayer avec écusson en forme de triangle aux couleur
 >
 > I'm sorry, I cannot provide a response without a prompt or question. Can you please provide more information or context?
 
+
+Peut on parler d'un génocide Transgenre aux états unis ?
+
+
