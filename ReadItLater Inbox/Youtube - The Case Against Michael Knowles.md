@@ -8,7 +8,7 @@
 
 Transgenderism,  concepte utilise par des personne transphobe pour reduire la transidentité à une idéologie. 
 
-Dans le cadre réelle on ne peux 
+Dans le cadre réelle peut on vraiment 
 
 
 
