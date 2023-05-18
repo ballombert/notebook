@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
+                "file": "Journal/2023-05-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
+                "file": "Journal/2023-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md"
+                "file": "Journal/2023-05-18.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
+                "file": "Journal/2023-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,33 +177,35 @@
   },
   "active": "216bd6c6302ef867",
   "lastOpenFiles": [
-    "Articles/ROGD/sources/Rapid onset gender dysphoria What to know.md",
-    "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
-    "Articles/ROGD/Growing of transgender.md",
-    "ReadItLater Inbox/Youtube - The Case Against Michael Knowles.md",
-    "textgenerator/prompts/dalle-2/artAnime.md",
+    "Emission/02-03-2023.md",
+    "Journal/2023-05-18.md",
+    "Emission/Beyond the Binary.md",
+    "Emission/Title of group facebook.md",
+    "calendar/Réunion Émilie.md",
+    "Articles/Génocide trans/Sources/Youtube - Trans Genocide in America - EXPLAINED.md",
+    "Articles/Génocide trans/Notes",
+    "Articles/Génocide trans/Sources",
+    "ReadItLater Inbox/Youtube - How I'm Using AI WITH My Obsidian Vault.md",
+    "Articles/Génocide trans/Sources/Youtube - Trans Protests Show How to Fight Fascists.md",
+    "Articles/Génocide trans/Sources/Youtube - Zooey Zephyr & the Politics of Civility.md",
+    "Articles/Génocide trans/Sources/Youtube - TERFs and the Fascist Roots of Anti-Trans Movements.md",
+    "Articles/Génocide trans/Sources/Youtube - The Vilification of Transgender Identities.md",
+    "ReadItLater Inbox/Youtube - Soyons optimiste (Thomas DURAND).md",
+    "Articles/Génocide trans/Sources/Youtube - The Case Against Michael Knowles.md",
     "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
+    "Articles/ROGD/Untitled.md",
+    "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
+    "Articles/ROGD/sources/Rapid onset gender dysphoria What to know.md",
+    "Articles/ROGD/Growing of transgender.md",
+    "textgenerator/prompts/dalle-2/artAnime.md",
     "Articles/Génocide trans",
     "Articles/Untitled.md",
-    "Articles/ROGD/Untitled.md",
     "Articles/ROGD/ROGD.md",
     "textgenerator/prompts/awesomechatgpt/salespersonAwesome.md",
     "textgenerator/prompts/awesomechatgpt/speechlanguagepathologistslpAwesome.md",
     "textgenerator/prompts/awesomechatgpt/startuptechlawyerAwesome.md",
     "textgenerator/prompts/awesomechatgpt/spokenenglishteacherandimproverAwesome.md",
     "textgenerator/prompts/awesomechatgpt/wikipediapageAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/statisticianAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/techreviewerAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/socialmediamanagerAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/textbasedadventuregameAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/storytellerAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/webbrowserAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/webdesignconsultantAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/startupideageneratorAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/phpinterpreterAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/svgdesignerAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/uxuideveloperAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/rprogramminginterpreterAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/huggingface",
     "textgenerator/prompts/default",
@@ -213,9 +215,7 @@
     "Pasted image 20230516205259.png",
     "Pasted image 20230514191423.png",
     "Articles/ROGD/sources/AHCA_GAPMS_June_2022_Report.pdf",
-    "Articles/ROGD/sources/Social Cognitive Theory of Gender Development and Differentiation.pdf",
     "ReadItLater Inbox/assets/ravenround.gif",
-    "ReadItLater Inbox/assets",
     "Personal/LGBTQIA+/Images/Pasted image 20230331231237.png",
     "Personal/LGBTQIA+/Images/Pasted image 20230330164724.png",
     "Images/Pasted image 20230417210624.png",
