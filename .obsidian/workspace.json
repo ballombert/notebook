@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Untitled 1.md",
+                "file": "templates/permanent-notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Untitled 1.md",
+                "file": "templates/permanent-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Untitled 1.md"
+                "file": "templates/permanent-notes.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Untitled 1.md",
+                "file": "templates/permanent-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,15 +178,19 @@
   },
   "active": "a59eab5bc75af09b",
   "lastOpenFiles": [
-    "Journal/JDSR.md",
+    "templates/daily-notes.md",
+    "Emission/Title of group facebook.md",
+    "Emission/Beyond the Binary.md",
+    "Discord/Untitled.md",
+    "calendar/Réunion Émilie.md",
+    "Articles/Untitled.md",
     "Articles/Untitled 1.md",
+    "Task/Payer son loyer.md",
+    "Journal/JDSR.md",
     "Pasted image 20230518192347.png",
     "Pasted image 20230518191534.png",
     "Journal/2023-05-18.md",
     "Emission/02-03-2023.md",
-    "Emission/Beyond the Binary.md",
-    "Emission/Title of group facebook.md",
-    "calendar/Réunion Émilie.md",
     "Articles/Génocide trans/Sources/Youtube - Trans Genocide in America - EXPLAINED.md",
     "Articles/Génocide trans/Notes",
     "Articles/Génocide trans/Sources",
@@ -204,11 +208,7 @@
     "Articles/ROGD/Growing of transgender.md",
     "textgenerator/prompts/dalle-2/artAnime.md",
     "Articles/Génocide trans",
-    "Articles/Untitled.md",
     "Articles/ROGD/ROGD.md",
-    "textgenerator/prompts/awesomechatgpt/salespersonAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/speechlanguagepathologistslpAwesome.md",
-    "textgenerator/prompts/awesomechatgpt/startuptechlawyerAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/huggingface",
     "textgenerator/prompts/default",
