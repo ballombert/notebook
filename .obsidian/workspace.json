@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Peut on parler d'un génocide Transgenre aux états unis.md",
+                "file": "ReadItLater Inbox/Youtube - The Case Against Michael Knowles.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Peut on parler d'un génocide Transgenre aux états unis.md",
+                "file": "ReadItLater Inbox/Youtube - The Case Against Michael Knowles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Peut on parler d'un génocide Transgenre aux états unis.md"
+                "file": "ReadItLater Inbox/Youtube - The Case Against Michael Knowles.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Peut on parler d'un génocide Transgenre aux états unis.md",
+                "file": "ReadItLater Inbox/Youtube - The Case Against Michael Knowles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +145,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "7901cf6eade85c5c",
+            "type": "leaf",
+            "state": {
+              "type": "transcript-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -167,8 +175,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ba1185e8dde31690",
+  "active": "216bd6c6302ef867",
   "lastOpenFiles": [
+    "textgenerator/prompts/dalle-2/artAnime.md",
+    "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
     "Articles/Génocide trans",
     "ReadItLater Inbox/Youtube - The Case Against Michael Knowles.md",
     "Articles/Untitled.md",
@@ -176,7 +186,6 @@
     "Articles/ROGD/ROGD.md",
     "Articles/ROGD/Growing of transgender.md",
     "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
-    "Articles/Peut on parler d'un génocide Transgenre aux états unis.md",
     "textgenerator/prompts/awesomechatgpt/salespersonAwesome.md",
     "textgenerator/prompts/awesomechatgpt/speechlanguagepathologistslpAwesome.md",
     "textgenerator/prompts/awesomechatgpt/startuptechlawyerAwesome.md",
@@ -207,7 +216,6 @@
     "Articles/ROGD/sources/Social Cognitive Theory of Gender Development and Differentiation.pdf",
     "ReadItLater Inbox/assets/ravenround.gif",
     "ReadItLater Inbox/assets",
-    "Articles/ROGD/sources",
     "Personal/LGBTQIA+/Images/Pasted image 20230331231237.png",
     "Personal/LGBTQIA+/Images/Pasted image 20230330164724.png",
     "Images/Pasted image 20230417210624.png",
