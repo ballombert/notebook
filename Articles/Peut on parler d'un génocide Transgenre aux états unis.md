@@ -3,7 +3,7 @@ Définition d'un génocide
 >
 > Un génocide est un crime international qui consiste à tuer intentionnellement tout ou partie d'un groupe national, ethnique, racial ou religieux. Il peut également inclure des actes tels que la torture, les violences sexuelles et la destruction de biens culturels. Le génocide est considéré comme l'un des crimes les plus graves contre l'humanité et est puni par le droit international.
 
-Condition de définition d'un génicide 
+Condition de définition d'un génocide 
 > [!ai]+ AI
 >
 > Le génocide est défini comme un acte commis dans l'intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux. Cette intention peut être manifestée par des actes tels que :
