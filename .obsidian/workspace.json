@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JDSR.md",
+                "file": "Articles/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JDSR.md",
+                "file": "Articles/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JDSR.md"
+                "file": "Articles/Untitled 1.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JDSR.md",
+                "file": "Articles/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +178,11 @@
   },
   "active": "a59eab5bc75af09b",
   "lastOpenFiles": [
+    "Journal/JDSR.md",
+    "Articles/Untitled 1.md",
     "Pasted image 20230518192347.png",
     "Pasted image 20230518191534.png",
     "Journal/2023-05-18.md",
-    "Journal/JDSR.md",
     "Emission/02-03-2023.md",
     "Emission/Beyond the Binary.md",
     "Emission/Title of group facebook.md",
