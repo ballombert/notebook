@@ -6,4 +6,6 @@
 
 “Thier can be no middle way in dealing with transgenderism. Transgenderism must be eradicated! from public life entirely” 
 
+Transgenderism qui n'est qu'un concepte utilise par des personne anti-trans
+
 Michael Knowles
