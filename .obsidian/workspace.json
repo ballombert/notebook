@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/permanent-notes.md",
+                "file": "JDR/JDSR.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/permanent-notes.md",
+                "file": "JDR/JDSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/permanent-notes.md"
+                "file": "JDR/JDSR.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/permanent-notes.md",
+                "file": "JDR/JDSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +178,15 @@
   },
   "active": "a59eab5bc75af09b",
   "lastOpenFiles": [
+    "JDR/Star_Trek_Adventures_Le_Dernier_Voyage_recueil_de_missions_vol._1.pdf",
+    "JDR/Star Trek Adventures Livre de règles - Inconnu.pdf",
+    "ebooks/sun_tzu_art_de_la_guerre.epub",
+    "ebooks/ETP_v2.0-2.epub",
+    "JDR/JDSR.md",
+    "JDR/Untitled.md",
+    "ReadItLater Inbox/Note 2023-05-18 22-26-15.md",
+    "JDR",
+    "templates/permanent-notes.md",
     "templates/daily-notes.md",
     "Emission/Title of group facebook.md",
     "Emission/Beyond the Binary.md",
@@ -186,7 +195,6 @@
     "Articles/Untitled.md",
     "Articles/Untitled 1.md",
     "Task/Payer son loyer.md",
-    "Journal/JDSR.md",
     "Pasted image 20230518192347.png",
     "Pasted image 20230518191534.png",
     "Journal/2023-05-18.md",
@@ -204,20 +212,12 @@
     "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
     "Articles/ROGD/Untitled.md",
     "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
-    "Articles/ROGD/sources/Rapid onset gender dysphoria What to know.md",
-    "Articles/ROGD/Growing of transgender.md",
-    "textgenerator/prompts/dalle-2/artAnime.md",
     "Articles/Génocide trans",
-    "Articles/ROGD/ROGD.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts/huggingface",
     "textgenerator/prompts/default",
-    "textgenerator/prompts/dalle-2",
-    "textgenerator/prompts",
-    "textgenerator",
     "Pasted image 20230516205259.png",
     "Pasted image 20230514191423.png",
-    "Articles/ROGD/sources/AHCA_GAPMS_June_2022_Report.pdf",
     "ReadItLater Inbox/assets/ravenround.gif",
     "Personal/LGBTQIA+/Images/Pasted image 20230331231237.png",
     "Personal/LGBTQIA+/Images/Pasted image 20230330164724.png",
