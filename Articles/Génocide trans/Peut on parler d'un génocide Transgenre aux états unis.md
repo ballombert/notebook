@@ -14,7 +14,7 @@ c) Le fait d’imposer délibérément au groupe des conditions d’existence de
 d) Imposer des mesures visant à empêcher les naissances au sein du groupe;
 e) Transfert forcé d’enfants du groupe vers un autre groupe
 
-source : [Convention on the Prevention and Punishment of the Crime of Genocide Article II ](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide))
+source : [Convention on the Prevention and Punishment of the Crime of Genocide Article II ](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
 
 
 En france 
