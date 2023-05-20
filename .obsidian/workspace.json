@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Transgender genocide - Wikipedia.md",
+                "file": "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Untitled 2.md",
+                "file": "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Untitled 2.md"
+                "file": "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Untitled 2.md",
+                "file": "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +188,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f110396fe4f77aa6",
+  "active": "a59eab5bc75af09b",
   "lastOpenFiles": [
+    "Articles/Terf.pdf",
     "Articles/Transgender genocide - Wikipedia.md",
+    "ReadItLater Inbox/Genocide and Global Queer Politics.md",
     "Articles/Untitled 2.md",
     "Articles/Génocide trans/cotes",
     "Articles/Génocide trans/Sources/Untitled.md",
@@ -206,7 +207,6 @@
     "Articles/ROGD/ROGD.md",
     "Pasted image 20230520200511.png",
     "JDR/JDSR.md",
-    "Articles/Terf.pdf",
     "ReadItLater Inbox/Caroline Eliacheff — Wikipédia.md",
     "ReadItLater Inbox/assets/Voir et modifier les données sur Wikidata.png",
     "ReadItLater Inbox/assets",
@@ -235,8 +235,6 @@
     "ReadItLater Inbox/Youtube - How I'm Using AI WITH My Obsidian Vault.md",
     "Articles/Génocide trans/Sources/Youtube - Trans Protests Show How to Fight Fascists.md",
     "Articles/Génocide trans/Sources/Youtube - Zooey Zephyr & the Politics of Civility.md",
-    "Articles/Génocide trans/Sources/Youtube - TERFs and the Fascist Roots of Anti-Trans Movements.md",
-    "Articles/Génocide trans/Sources/Youtube - The Vilification of Transgender Identities.md",
     "Untitled.canvas",
     "Journal/Untitled.canvas"
   ]
