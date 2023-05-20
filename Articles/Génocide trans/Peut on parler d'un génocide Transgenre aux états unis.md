@@ -30,9 +30,31 @@ Le génocide est puni de la réclusion criminelle à perpétuité
 
 source: Code pénal [Article 211-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417533
 
-si en France le genre d'une personne peut être un critère de génocide, il ne l'ai pas à l'intenational. 
+si en France le genre d'une personne peut être un critère de génocide, il ne l'ai pas à l'international. 
 
 Mais le genre a t il déjà été utiliser comme critère génocidère ? 
+
+Les groupe totalitarisme on un tandance a la suveillance des meunaces asociales. Les groupe LGBT sont souvent victime de dicrimination 
+
+Dans le cas nazi, les hommes gays étaient perçus comme violant les principes eugéniques.
+En Irak après 2003, une campagne meurtrière a été lancée contre les homosexuels, avec une fatwa appelant à les tuer. encore aujourd'hui 1. Les homosexuels vivent dans la peur en Irak, se cachant et déménageant fréquemment pour échapper aux raids des escadrons de la mort.
+Des assassinats d'homosexuels ont eu lieu, avec des tribunaux religieux prononçant des peines allant de coups de fouet à la peine de mort.
+
+Dans le monde occidental avec l'ouverture de la société pour les homosexuels. L'homosexualité est sorte de l'anomalité. Le totalisrimse trouver une autre cible dans les communaté transgenre et travestie 
+
+
+ces dernières années, alors que les droits des homosexuels sont devenus de plus en plus acceptés et respectés, le fardeau des atrocités a de plus en plus ciblé les femmes transgenres et les travestis masculins
+
+_Genocide: A Comprehensive Introduction_
+Adam Jones
+
+## une recrudecence des lois anti trans
+
+2022 fut 
+
+
+
+
 
 
 
