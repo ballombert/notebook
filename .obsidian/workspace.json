@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Génocide trans/Sources/Untitled.md",
+                "file": "Articles/Transgender genocide - Wikipedia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f110396fe4f77aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Génocide trans/Sources/Untitled.md",
+                "file": "Articles/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Génocide trans/Sources/Untitled.md"
+                "file": "Articles/Untitled 2.md"
               }
             }
           },
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Génocide trans/Sources/Untitled.md",
+                "file": "Articles/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,12 +189,20 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a59eab5bc75af09b",
+  "active": "f110396fe4f77aa6",
   "lastOpenFiles": [
+    "Articles/Transgender genocide - Wikipedia.md",
+    "Articles/Untitled 2.md",
+    "Articles/Génocide trans/cotes",
+    "Articles/Génocide trans/Sources/Untitled.md",
+    "ReadItLater Inbox/assets/220px-Trans_Rights_01.jpg",
+    "ReadItLater Inbox/assets/260px-Institut_f%C3%BCr_Sexualwissenschaft_-_Bibliothek_1933.jpg",
+    "ReadItLater Inbox/assets/220px-Bundesarchiv_Bild_102-14597%2C_Berlin%2C_Opernplatz%2C_B%C3%BCcherverbrennung.jpg",
+    "ReadItLater Inbox/assets/alt text.jpg",
+    "ReadItLater Inbox/assets/Page semi-protected.png",
     "Pasted image 20230520201841.png",
     "Pasted image 20230520201657.png",
     "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
-    "Articles/Génocide trans/Sources/Untitled.md",
     "Articles/ROGD/ROGD.md",
     "Pasted image 20230520200511.png",
     "JDR/JDSR.md",
@@ -206,7 +227,6 @@
     "Articles/Untitled 1.md",
     "Task/Payer son loyer.md",
     "Pasted image 20230518192347.png",
-    "Pasted image 20230518191534.png",
     "Journal/2023-05-18.md",
     "Emission/02-03-2023.md",
     "Articles/Génocide trans/Sources/Youtube - Trans Genocide in America - EXPLAINED.md",
@@ -217,13 +237,6 @@
     "Articles/Génocide trans/Sources/Youtube - Zooey Zephyr & the Politics of Civility.md",
     "Articles/Génocide trans/Sources/Youtube - TERFs and the Fascist Roots of Anti-Trans Movements.md",
     "Articles/Génocide trans/Sources/Youtube - The Vilification of Transgender Identities.md",
-    "ReadItLater Inbox/Youtube - Soyons optimiste (Thomas DURAND).md",
-    "Articles/Génocide trans",
-    "Pasted image 20230516205259.png",
-    "Pasted image 20230514191423.png",
-    "ReadItLater Inbox/assets/ravenround.gif",
-    "Personal/LGBTQIA+/Images/Pasted image 20230331231237.png",
-    "Personal/LGBTQIA+/Images/Pasted image 20230330164724.png",
     "Untitled.canvas",
     "Journal/Untitled.canvas"
   ]
