@@ -50,7 +50,9 @@ Adam Jones
 
 ## une recrudecence des lois anti trans
 
-2022 fut 
+2022 
+
+![[Pasted image 20230520221107.png]]
 
 
 
