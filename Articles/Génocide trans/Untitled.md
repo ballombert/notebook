@@ -1,0 +1,34 @@
+À mesure que les efforts législatifs visant à effacer les personnes transgenres de la vie publique prennent de l'ampleur, nous avons assisté à une vague de projets de loi cherchant à nier l'accès aux soins de santé de base, à la reconnaissance légale, à l'éducation, aux toilettes, aux activités sportives ou au droit d'exister ouvertement dans les écoles publiques.
+
+2023 marque la quatrième année consécutive de records en termes du nombre total de projets de loi anti-trans examinés aux États-Unis. Le volume considérable de projets de loi fait partie d'une escalade contre les personnes transgenres, tant au niveau des États qu'au niveau national.
+
+Comment en sommes-nous arrivés à ce moment ? Quelles sont les différences entre les types de projets de loi que nous avons observés ces dernières années ? Voici un aperçu des évolutions que nous avons constatées :
+
+2021
+En 2021, le nombre de projets de loi présentés a plus que doublé par rapport à l'année précédente. Les États-Unis semblaient atteindre un point de rupture, avec 144 projets de loi introduits dans 37 États. Dix-huit d'entre eux ont été adoptés, dont le "Save Adolescents from Experimentation (SAFE) Act" de l'Arkansas, une interdiction des soins de confirmation de genre. Le SAFE Act est devenu loi malgré le veto du gouverneur républicain Asa Hutchinson, qui a qualifié le projet de loi de "vaste empiétement du gouvernement".
+
+2022
+En 2022, une nouvelle vague de projets de loi de plus en plus draconiens est arrivée. 174 projets de loi ont été présentés et 26 ont été adoptés. Les nouvelles lois interdisaient les soins de confirmation de genre et prévoyaient des sanctions sévères pour les prestataires de soins. Elles inscrivaient dans la loi des définitions de "hommes" et de "femmes", tout en empêchant les élèves trans de participer aux activités sportives. Elles introduisaient des projets de loi intitulés "Don't Say Gay or Trans" qui stigmatisent les enseignants et les élèves LGBTQ+ dans les écoles au nom des droits parentaux. Elles prévoyaient également des exemptions pour la discrimination fondée sur des motifs religieux et modifiaient de manière urgente la législation des États pour refuser des certificats de naissance non binaires.
+
+2023
+En 2023, nous constatons la poursuite des tendances observées ces dernières années : exclusion des enfants trans et des enseignants de l'école, refus de reconnaissance par les certificats de naissance de l'État et interdiction des soins de confirmation de genre largement acceptés.
+
+Cependant, de nombreux projets de loi de 2023 vont encore plus loin. Le projet de loi OK SB129 propose d'étendre les interdictions des soins de confirmation de genre jusqu'à l'âge adulte, soit jusqu'à 26 ans. Pour les médecins, cela signifierait que la fourniture de soins soutenus par toutes les principales associations médicales entraînerait des accusations de crime grave et la perte de la licence médicale. De
+
+ même, le projet de loi WY SF0111 qualifierait les soins de confirmation de genre d'abus sur mineurs.
+
+Les écoles sont souvent le lieu de projets de loi anti-trans, invoquant souvent les "droits parentaux". L'année dernière, des projets de loi tels que le FL H1557, intitulé "Don't Say Gay or Trans", ont fait les gros titres en limitant l'expression des enseignants et des élèves LGBTQ+. En 2023, cette tendance se poursuit avec des projets de loi tels que l'AZ HB1700, encourageant les parents à signaler et à interdire les livres qui "favorisent la fluidité de genre ou les pronoms de genre", ou l'AZ SB1001, qui exige que tant un tuteur que l'enseignant approuvent les pronoms d'un élève.
+
+2023 a vu une vague d'interdictions réactionnaires des "drag", notamment le projet de loi AZ SB1698 qui redéfinirait les lieux accueillant des divertissements non conformes aux genres en tant qu'entreprises "réservées aux adultes". Cependant, la formulation des projets de loi est si large qu'elle englobe le chant, la synchronisation labiale et même un monologue tout en portant des "vêtements, du maquillage ou d'autres accessoires" différents de ceux attribués à la naissance.
+
+Cette année, nous constatons également l'émergence d'une législation nationale anti-trans. La "Déclaration des droits des femmes" cherche à effacer la reconnaissance des personnes trans par le gouvernement fédéral, définissant le sexe assigné à la naissance comme une définition "immuable" de l'homme ou de la femme, du garçon ou de la fille. Elle dicterait également les modalités de collecte des données par le gouvernement. Le "My Child, My Choice Act" cherche à étendre les restrictions éducatives que nous avons constatées dans les États individuels à l'échelle fédérale.
+
+Pour mieux comprendre la nature de la législation étatique, nous recommandons de lire les projets de loi en cours pour se faire une idée de leur formulation et de leur objectif. Vous pouvez également remonter plus loin avec notre archive de législation anti-trans de 2022. Vous verrez comment les projets de loi cherchent à inscrire une définition douteuse de "l'homme" et de "la femme" dans la législation de l'État, à interdire la discussion sur la sexualité et le genre, à qualifier le chant ou les monologues de performances sexuelles et à classer les soins de confirmation de genre, soutenus de manière écrasante par la communauté médicale, comme de l'abus sur mineurs.
+
+Bien sûr, toutes les activités anti-trans au niveau de l'État ne peuvent pas être reflétées dans un aperçu ou même dans la liste complète des projets de loi eux-mêmes. En 2022, le Texas n'apparaissait pas sur notre carte législative. Cela semblait étrange pour certains, car le Texas avait fait les gros titres pour ses politiques cruelles contre les personnes trans. L'année précédente, le Texas avait même été en tête du pays en termes de nombre de projets de loi anti-trans, avec 16 introduits et l'ad
+
+option de la loi HB25, interdisant aux enfants transgenres de jouer aux sports.
+
+Cependant, en 2022, le Texas n'a proposé aucun projet de loi anti-trans. À la place, le Texas était un État très important pour les droits des personnes trans cette année-là, car le gouverneur Greg Abbott a émis une directive sans précédent ciblant les enfants transgenres et leurs familles. Pour cette raison, nous avons créé "Et le Texas ?", une rubrique présentant les efforts anti-trans au Texas en 2022.
+
+Le nombre et les catégories de projets de loi chaque année apportent des réponses tout en soulevant de nouvelles questions. Ils fournissent une chronologie de l'émergence des projets de loi anti-trans aux États-Unis et témoignent d'un engagement croissant des représentants de l'État dans les efforts anti-trans.

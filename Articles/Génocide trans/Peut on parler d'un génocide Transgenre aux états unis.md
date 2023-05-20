@@ -54,7 +54,11 @@ Adam Jones
 
 ![[Pasted image 20230520221107.png]]
 
+Au état unis la depuis 4 années les proposition de lois anti-trans battent des record.
 
+En 2021 on semblais avoir atteint un point de reture 144 projet de lois anti-trans dont 18 adopter comme la fameuse loi de l'Arkansas "Save Adolescents from Experimentation (SAFE) Act" qui interdisait les soins d'affirmation de genre. Ces soins font pourtant majoritairement soutenur par la communauté medicale. 
+
+En 2023 174 projet de lois dont 26 adopté dont la celèbre  "Don't Say Gay or Trans" 
 
 
 
