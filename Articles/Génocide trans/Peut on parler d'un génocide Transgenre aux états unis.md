@@ -22,6 +22,18 @@ Une chemise de prisonnière rayer avec écusson en forme de triangle aux couleur
 
 Peut on parler d'un génocide Transgenre aux états unis ?
 
+la libération de la paroles des anti-trans est repise par une ultra droite qui  ataque en force les droit des personne trans 
+
+- limitant l'acces au lieux publicque 
+- reduisant les soins au personne trans
+
+Cetaine traitant les gender affirming care come 
+
+Des association pour au térapie de conversion 
+
+
+
+
 Liste de lois aux etats unis 
 
 
