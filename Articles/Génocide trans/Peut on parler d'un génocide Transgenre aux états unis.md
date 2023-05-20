@@ -13,11 +13,21 @@ Condition de définition d'un génocide
 > - la mise en place de mesures visant à entraver les naissances au sein du groupe ou encore le transfert forcé d'enfants du groupe à un autre groupe. 
 > La condition essentielle pour la définition d'un génocide est donc l'intention de détruire un groupe humain en tout ou en partie.
 
+les 
+
+
 Une chemise de prisonnière rayer avec écusson en forme de triangle aux couleurs rose bleu et blanc
 
 > [!ai]+ AI
 >
 > I'm sorry, I cannot provide a response without a prompt or question. Can you please provide more information or context?
+
+
+dix étape d'un génocide 
+
+## CLASSIFICATION
+
+division par des personne par le groupe en position d'autorité en eux et nous. Selon un critère ethinque, de race, religion, nationalité
 
 
 Peut on parler d'un génocide Transgenre aux états unis ?
