@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDR/JDSR.md",
+                "file": "Articles/ROGD/ROGD.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDR/JDSR.md",
+                "file": "Articles/ROGD/ROGD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDR/JDSR.md"
+                "file": "Articles/ROGD/ROGD.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDR/JDSR.md",
+                "file": "Articles/ROGD/ROGD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +178,10 @@
   },
   "active": "a59eab5bc75af09b",
   "lastOpenFiles": [
+    "Pasted image 20230520200511.png",
+    "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
+    "JDR/JDSR.md",
+    "Articles/Terf.pdf",
     "ReadItLater Inbox/Caroline Eliacheff — Wikipédia.md",
     "ReadItLater Inbox/assets/Voir et modifier les données sur Wikidata.png",
     "ReadItLater Inbox/assets",
@@ -185,7 +189,6 @@
     "JDR/Star Trek Adventures Livre de règles - Inconnu.pdf",
     "ebooks/sun_tzu_art_de_la_guerre.epub",
     "ebooks/ETP_v2.0-2.epub",
-    "JDR/JDSR.md",
     "JDR/Untitled.md",
     "ReadItLater Inbox/Note 2023-05-18 22-26-15.md",
     "JDR",
@@ -212,11 +215,8 @@
     "Articles/Génocide trans/Sources/Youtube - The Vilification of Transgender Identities.md",
     "ReadItLater Inbox/Youtube - Soyons optimiste (Thomas DURAND).md",
     "Articles/Génocide trans/Sources/Youtube - The Case Against Michael Knowles.md",
-    "Articles/Génocide trans/Peut on parler d'un génocide Transgenre aux états unis.md",
     "Articles/ROGD/Untitled.md",
-    "Articles/ROGD/sources/Youtube - Change-t-on de sexe bêtement à cause d'Internet - Psykonnaisance 33.md",
     "Articles/Génocide trans",
-    "textgenerator/prompts/awesomechatgpt",
     "Pasted image 20230516205259.png",
     "Pasted image 20230514191423.png",
     "ReadItLater Inbox/assets/ravenround.gif",

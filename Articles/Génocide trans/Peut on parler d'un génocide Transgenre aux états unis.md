@@ -22,4 +22,7 @@ Une chemise de prisonnière rayer avec écusson en forme de triangle aux couleur
 
 Peut on parler d'un génocide Transgenre aux états unis ?
 
+Liste de lois aux etats unis 
+
+
 
