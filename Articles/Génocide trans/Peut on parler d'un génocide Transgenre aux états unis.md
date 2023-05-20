@@ -4,35 +4,34 @@ Définition d'un génocide
 > Un génocide est un crime international qui consiste à tuer intentionnellement tout ou partie d'un groupe national, ethnique, racial ou religieux. Il peut également inclure des actes tels que la torture, les violences sexuelles et la destruction de biens culturels. Le génocide est considéré comme l'un des crimes les plus graves contre l'humanité et est puni par le droit international.
 
 Condition de définition d'un génocide 
-> [!ai]+ AI
->
-> Le génocide est défini comme un acte commis dans l'intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux. Cette intention peut être manifestée par des actes tels que :
-> - le meurtre de membres du groupe, 
-> - la grave atteinte à l'intégrité physique ou mentale de membres du groupe, 
-> - la soumission intentionnelle du groupe à des conditions d'existence devant entraîner sa destruction physique totale ou partielle, 
-> - la mise en place de mesures visant à entraver les naissances au sein du groupe ou encore le transfert forcé d'enfants du groupe à un autre groupe. 
-> La condition essentielle pour la définition d'un génocide est donc l'intention de détruire un groupe humain en tout ou en partie.
+>[!Citation]
+Dans la présente Convention, on entend par génocide l’un quelconque des actes ci-après, commis dans l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux, en tant que tel :
+a) Meurtre de membres du groupe;
+b) Le fait de porter gravement atteinte à l’intégrité physique ou mentale de membres du groupe;
+c) Le fait d’imposer délibérément au groupe des conditions d’existence devant entraîner sa destruction physique totale ou partielle;
+d) Imposer des mesures visant à empêcher les naissances au sein du groupe;
+e) Transfert forcé d’enfants du groupe vers un autre groupe
 
-les 
+source : [Convention on the Prevention and Punishment of the Crime of Genocide Article II ]([Convention on the Prevention and Punishment of the Crime of Genocide | OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide))
+
 
 En france 
-[Article 211-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417533
-Constitue un génocide le fait, en exécution d'un plan concerté tendant à la destruction totale ou partielle d'un groupe national, ethnique, racial ou religieux, ou d'un groupe déterminé à partir de tout autre critère arbitraire, de commettre ou de faire commettre, à l'encontre de membres de ce groupe, l'un des actes suivants :
 
+>[Citation]
+>Constitue un génocide le fait, en exécution d'un plan concerté tendant à la destruction totale ou partielle d'un groupe national, ethnique, racial ou religieux, ou d'un groupe déterminé à partir de tout autre critère arbitraire, de commettre ou de faire commettre, à l'encontre de membres de ce groupe, l'un des actes suivants :
 – atteinte volontaire à la vie ;
 – atteinte grave à l'intégrité physique ou psychique ;
 – soumission à des conditions d'existence de nature à entraîner la destruction totale ou partielle du groupe ;
 – mesures visant à entraver les naissances ;
 – transfert forcé d'enfants.
-
 Le génocide est puni de la réclusion criminelle à perpétuité
 
+source: Code pénal [Article 211-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417533
 
-Une chemise de prisonnière rayer avec écusson en forme de triangle aux couleurs rose bleu et blanc
+si en France le genre d'une personne peut être un critère de génocide, il ne l'ai pas à l'intenational. 
 
-> [!ai]+ AI
->
-> I'm sorry, I cannot provide a response without a prompt or question. Can you please provide more information or context?
+Mais le genre a t il déjà été utiliser comme critère génocidère ? 
+
 
 
 dix étape d'un génocide 
