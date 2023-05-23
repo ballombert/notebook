@@ -29,15 +29,11 @@ L'évolution des droits et de la reconnaissance des personnes transgenres aux É
   
 Avant d'examiner les éléments qualification ces violences envers les personnes transgenres aux États-Unis en tant que génocide, il est essentiel de comprendre la complexité et la gravité de ce terme. Le génocide est un concept qui englobe une définition légale, mais aussi un processus destructeur en plusieurs étapes, telles que décrites par Gregory Stanton. Comprendre ces différentes étapes nous permettra d'évaluer si les réalités vécues par les personnes transgenres aux États-Unis correspondent à ce schéma. En examinant ces étapes, nous serons en mesure d'analyser de manière approfondie si les conditions nécessaires pour qualifier les violences contre les personnes transgenres aux États-Unis de génocide sont présentes.
 
-Examinonns deux définition celle du droit international 
-[Convention on the Prevention and Punishment of the Crime of Genocide | OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-prevention-and-punishment-crime-genocide)
+### Définition 
 
-Définition d'un génocide 
-> [!ai]+ AI
->
-> Un génocide est un crime international qui consiste à tuer intentionnellement tout ou partie d'un groupe national, ethnique, racial ou religieux. Il peut également inclure des actes tels que la torture, les violences sexuelles et la destruction de biens culturels. Le génocide est considéré comme l'un des crimes les plus graves contre l'humanité et est puni par le droit international.
+Examinons deux définitions, celle du droit international et les lois françaises 
 
-Condition de définition d'un génocide 
+Les nations units definit le génocide comme suit : 
 >[!Citation]
 Dans la présente Convention, on entend par génocide l’un quelconque des actes ci-après, commis dans l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux, en tant que tel :
 a) Meurtre de membres du groupe;
@@ -61,6 +57,17 @@ En france
 Le génocide est puni de la réclusion criminelle à perpétuité
 
 source: Code pénal [Article 211-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417533
+
+On remaque la presence de 5 critère qui nous permeterons d'identifier la calification de génocide :
+
+– atteinte volontaire à la vie 
+– atteinte grave à l'intégrité physique ou psychique 
+– soumission à des conditions d'existence de nature à entraîner la destruction totale ou partielle du groupe 
+– mesures visant à entraver les naissances 
+– transfert forcé d'enfants.
+
+a partir de là 
+
 
 si en France le genre d'une personne peut être un critère de génocide, il ne l'ai pas à l'international. 
 
