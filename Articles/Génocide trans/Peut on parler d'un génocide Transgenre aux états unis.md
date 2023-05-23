@@ -22,7 +22,7 @@ plan
 Conclussion
 
 
-L'évolution des droits et de la reconnaissance des personnes transgenres aux États-Unis a été marquée par de nombreux . Malheureusement, ces avancées ont été entachées par l'adoption de lois anti-trans, des discours de haine virulents et des tragiques décès de personnes transgenres. Face à ces réalités troublantes, il est essentiel de se demander si nous pouvons véritablement parler d'un génocide transgenre dans ce contexte. Cet article se propose d'examiner les éléments constitutifs du génocide, de retracer l'historique des discriminations envers les personnes transgenres aux États-Unis, et d'analyser les arguments en faveur ou en défaveur de la qualification de ces violences comme un génocide.
+L'évolution des droits et de la reconnaissance des personnes transgenres aux États-Unis a été marquée par de nombreux obstacles. Malheureusement depuis 2020, ces avancées ont été entachées par l'adoption de lois anti-trans, des discours de haine virulents et des tragiques décès de personnes transgenres. Face à ces réalités troublantes, il est essentiel de se demander si nous pouvons véritablement parler d'un génocide transgenre dans ce contexte. Cet article se propose d'examiner les éléments constitutifs du génocide, de retracer l'historique des discriminations envers les personnes transgenres aux États-Unis, et d'analyser les arguments en faveur ou en défaveur de la qualification de ces violences comme un génocide.
 
 Définition d'un génocide 
 > [!ai]+ AI
