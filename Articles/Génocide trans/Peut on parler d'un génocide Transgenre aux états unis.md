@@ -4,7 +4,7 @@ introduction
 au état unis beaucoup de lois anti trans 
 beaucoup de discourt de haine 
 des morts 
-plussieur activiste et sociologue par de genocide trans 
+plussieur activiste et sociologue par de génocide trans 
 
 1 Genocide 
 1.1 definition
