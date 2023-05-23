@@ -1,6 +1,24 @@
 
+introduction 
 
+au état unis beaucoup de lois anti trans 
+beaucoup de discourt de haine 
+des morts 
+plussieur activiste et sociologue par de genocide trans 
 
+1 Genocide 
+1.1 definition
+1.2 fonctionement 
+
+2. Historique
+	1. retorique 
+	2. Loi
+	3. Personne exclus
+3. Peut on parler de génocide 
+	1. Les ellement de cohérence 
+	2. TDOR
+	3. Avenir
+Conclussion
 
 
 Définition d'un génocide 
