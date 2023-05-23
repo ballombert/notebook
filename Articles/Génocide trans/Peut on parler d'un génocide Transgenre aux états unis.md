@@ -27,7 +27,9 @@ L'évolution des droits et de la reconnaissance des personnes transgenres aux É
 ## Qu'est ce qu'un génocide 
 
   
-Avant d'examiner les éléments qualification ces violences envers les personnes transgenres aux États-Unis en tant que génocide, il est essentiel de comprendre la complexité et la gravité de ce terme. Le génocide est un concept qui englobe une définition légale, mais aussi un processus destructeur en plusieurs étapes, telles que décrites par Gregory Stanton. Comprendre ces différentes étapes nous permettra d'évaluer si les réalités vécues par les personnes transgenres aux États-Unis correspondent à ce schéma. Ces étapes, qui seront abordées plus en détail ultérieurement, incluent la classification, la symbolisation, la discrimination, la déshumanisation, l'organisation, la polarisation, la préparation, l'extermination, la négation et enfin, la justice. En examinant ces étapes, nous serons en mesure d'analyser de manière approfondie si les conditions nécessaires pour qualifier les violences contre les personnes transgenres aux États-Unis de génocide sont présentes.
+Avant d'examiner les éléments qualification ces violences envers les personnes transgenres aux États-Unis en tant que génocide, il est essentiel de comprendre la complexité et la gravité de ce terme. Le génocide est un concept qui englobe une définition légale, mais aussi un processus destructeur en plusieurs étapes, telles que décrites par Gregory Stanton. Comprendre ces différentes étapes nous permettra d'évaluer si les réalités vécues par les personnes transgenres aux États-Unis correspondent à ce schéma. En examinant ces étapes, nous serons en mesure d'analyser de manière approfondie si les conditions nécessaires pour qualifier les violences contre les personnes transgenres aux États-Unis de génocide sont présentes.
+
+
 
 Définition d'un génocide 
 > [!ai]+ AI
