@@ -6,6 +6,7 @@ beaucoup de discourt de haine
 des morts 
 plussieur activiste et sociologue par de génocide trans 
 
+plan
 1 Genocide 
 1.1 definition
 1.2 fonctionement 
