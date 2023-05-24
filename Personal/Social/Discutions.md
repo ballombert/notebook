@@ -87,3 +87,6 @@ et oui c'est légitime et ok de vouloir profiter de son jardin et de poser la ve
 par contre le déni ''la france ne vire pas à la dictature'', faut arrêter de suite encore une fois, tous les indicateurs de base sont rouge depuis avant la dernière réélection,et depuis c'est pire on vous regarde tous en facepalmant, et vos tv sont aussi actualisées que celle de corée du nord, ça c'est flippant c'est pas comme si j'avais pas toute ma famille sur sol, hors mes proches
 
 > On est dans un pays totalitaire je ne sais pas si c'est une dictature vu qu'il y a un pseudo démocratie mais le système est en par essence totalitaire un président qui assume toutes les fonctions c'est normal qu'avec ce système on se retrouve avec de l'extrême droite aussi forte et que les idées de sécurité l'emportent surtout. Merci Jospin? 
+
+
+
