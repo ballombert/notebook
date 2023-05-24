@@ -10,12 +10,16 @@ modèles marchent 1984 n'était absolument pas prédictif, mais un avertissement
 
 > J toujours eu du mal à comprendre les interactions humaines et ce système de sociabilité entre être humain, j'ai dû passer mon temps à l'analyser. Je vais tenter dans donner une Synthèse.
 
-> J'inclus dans le système social à la fois les totalitarismes extrémistes et les fachos mais aussi toutes les volontés de lutte sociale . Toute personne qui pense être hors du système se leur. Car nous faisons tous partie de celui ci . Une des phrases que je préfère Non chez Camus c'est ""
+> J'inclus dans le système social à la fois les totalitarismes extrémistes et les fachos mais aussi toutes les volontés de lutte sociale . Toute personne qui pense être hors du système se leur. Car nous faisons tous partie de celui ci . Une des phrases que je préfère Non chez Camus c'est "_Qu’est-ce qu’un homme révolté ? Un homme qui dit non. Mais s’il refuse, il ne renonce pas : c’est aussi un homme qui dit oui, dès son premier mouvement._" J'entends par là que l'on ne peut sortir d'un système sans avoir pris conscience de celui ci et des influences qui l'a sur nous. D'où cette histoire Dame révoltée qui dit oui J'appartiens à un système . Mais non , je ne tolère pas celui ci .
 
-et les alternatives censées existent, sauf dans la narration dite libérale, ce qui rend les gens qui ont grandi dans ce modèle aussi ignorants que les gens qui pensent que l'arn messager peut coder tout seul un virus, et je ne plaisante pas
+> Je suis en plein revisionnage de hacking social . Et je trouve leur vision très intéressante . Pour déconstruire un modèle social, faut il encore en comprendre toutes les influences car . Toute révolution sans comprendre le système que l'on veut remplacer est voué à le reproduire ou faire partie de celui ci.
 
+et les alternatives censées existent, sauf dans la narration dite libérale, ce qui rend les gens qui ont grandi 
+dans ce modèle aussi ignorants que les gens qui pensent que l'arn messager peut coder tout seul un virus, et je ne plaisante pas
 
-Original message:
+> Sur la RN messager oui . Oui , mais je crois que dans le VIH , c'est bien de l'ARN qui va recoder l'ADN pour pouvoir produire de nouveaux virus, c'est le cas de tous les retroVirus
+
+> Oui il existe d'autres systèmes il n'y a pas de souci mais entre Un système et un autre il y a un passage à faire ."Le communisme, n’est pour nous ni un état qui doit être créé, ni un idéal sur lequel la réalité devra se régler. **Nous appelons communisme le mouvement réel qui abolit l’état actuel**" Je crois que c'est ce mouvement réel dont parlait marx . 
 
 Les revolution même culturelle son inarrêtable... C'est pour ca la monté…
 ça aussi c'est complètement de la croyance copine
@@ -24,23 +28,18 @@ Les revolution même culturelle son inarrêtable... C'est pour ca la monté…
 et libérale
 
 chaque progres surtout dans notre pays s'est fait par la lutte
-
-
-
-
 et ce n'est absolument pas factuel du tout, vraiment (l'évolution par essence des société si chère à nos néolib est un des plus gros outil de confusionnisme)
 
-
+> Pour qu'une lutte fonctionne ou pour qu'un mouvement s'enclenche il faut une dynamique et c'est cette dynamique qui pour moi, Qui ne peuvent pas être arrêtés. Pour toute lutte il faut un terrain que ce soit Rosa Parks ou la Révolution française le terrain est primordial pour que cette lutte puisse Être féconde. J'entends le fait que certaines idées basées sur le réel sont un terreau pour des mouvements de lutte .. Pour moi je pense que certaines idées peuvent vivre et d'autres mourir j'ai Un peu réfléchi à la mémétique et je pense que les idées fondées sur le réel ont plus de chances de survie que les idées totalitarismes qui font fi de celui ci. En gros quand une majorité d'esprit sont contaminés par une idée un mouvement peut se lancer . Et une révolution ou un changement peut avoir lieu . C'est le cas des luttes . Pour l'esclavage ou pour tout autre droit , ces luttes ont d'abord passé par un ensemble de pensées .
 
 
 celui qui est un levier pour la croyance que tous ce qui ne serait pas d'un centre fantasmé (parce que bien blanc et bien à droite) ne seraient que des extrêmes qui s'équivalent
-
-
-
 je ne te dis pas combien il faut tordre à l'histoire de l'humanité et à sa science pour sortir ça sans trembler des genoux aux gosses (et on leur vend ça depuis l'école primaire)
-
-
 donc non. si aujourd'hui on tolère les métis (et ça encore, entre nous on n'y est pas) ce n'est pas parce que la société s'est habituée
+
+> Oui les extrêmes ne se volent pas techniquement il y a beaucoup plus de morts fait par l'extrême droite qu'à l'extrême gauche . D'autre part le totalitarisme est toujours de droite même si . Et certains mouvements dits de gauche communistes léninistes ont eu des tendances totalitaristes ce totalitarisme était de droite voire hacking social toute la série des totalitarisme.
+
+
 
 
 mais parce que des gens ont bravé les interdits, ont subis des oppressions et parce qu'il y a eu des morts si fortement médiatisées qu'on ne pouvait plus maintenir la narration
