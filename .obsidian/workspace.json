@@ -11,11 +11,9 @@
             "id": "65975960a6de89bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "epub",
               "state": {
-                "file": "Personal/Social/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "ebooks/sun_tzu_art_de_la_guerre.epub"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Social/Untitled.md",
+                "file": "ebooks/sun_tzu_art_de_la_guerre.epub",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Social/Untitled.md"
+                "file": "ebooks/sun_tzu_art_de_la_guerre.epub"
               }
             }
           },
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Social/Untitled.md",
+                "file": "ebooks/sun_tzu_art_de_la_guerre.epub",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,10 +175,11 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "65975960a6de89bf",
+  "active": "ba1185e8dde31690",
   "lastOpenFiles": [
-    "Personal/Social/Message Zet caline.md",
+    "ebooks/ETP_v2.0-2.epub",
     "Personal/Social/Untitled.md",
+    "Personal/Social/Message Zet caline.md",
     "README.md",
     "Images/Pasted image 20230514191423.png",
     "Images/Pasted image 20230516205259.png",
@@ -221,8 +220,6 @@
     "JDR/Star_Trek_Adventures_Le_Dernier_Voyage_recueil_de_missions_vol._1.pdf",
     "JDR/Star Trek Adventures Livre de règles - Inconnu.pdf",
     "ebooks/sun_tzu_art_de_la_guerre.epub",
-    "ebooks/ETP_v2.0-2.epub",
-    "JDR/Untitled.md",
     "JDR",
     "Beyond the binary/Articles/Génocide trans/Notes",
     "Untitled.canvas",

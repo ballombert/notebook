@@ -5,7 +5,8 @@
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "0.23.0",
+  "version": "1.0.2",
+  "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "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",
     "defaultModel": "gpt-3.5-turbo",
