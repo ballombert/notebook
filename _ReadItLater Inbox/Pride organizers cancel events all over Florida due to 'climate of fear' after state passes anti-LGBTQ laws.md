@@ -2,7 +2,7 @@
 
 # [Pride organizers cancel events all over Florida due to 'climate of fear' after state passes anti-LGBTQ laws](https://www.businessinsider.com/florida-lgbtq-pride-events-canceled-fear-anti-trans-laws-desantis-2023-5?r=US&IR=T)
 
-![](ReadItLater%20Inbox/assets/top-left.svg) ![](ReadItLater%20Inbox/assets/bottom-right.svg)
+![](top-left.svg) ![](bottom-right.svg)
 
 -   Pride events across Florida are being canceled after DeSantis signs anti-LGBTQ bills into law.
 -   In St. Cloud, organizers canceled an event after performers said they didn't feel safe attending.

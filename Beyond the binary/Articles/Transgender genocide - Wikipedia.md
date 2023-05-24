@@ -2,11 +2,11 @@
 
 # [Transgender genocide - Wikipedia](https://en.wikipedia.org/wiki/Transgender_genocide)
 
-[![Page semi-protected](ReadItLater%20Inbox/assets/Page%20semi-protected.png)](https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi "This article is semi-protected due to vandalism")
+[![Page semi-protected](Page%20semi-protected.png)](https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi "This article is semi-protected due to vandalism")
 
 From Wikipedia, the free encyclopedia
 
-[![](ReadItLater%20Inbox/assets/220px-Trans_Rights_01.jpg)](https://en.wikipedia.org/wiki/File:Trans_Rights_01.jpg)
+[![](220px-Trans_Rights_01.jpg)](https://en.wikipedia.org/wiki/File:Trans_Rights_01.jpg)
 
 **Transgender genocide** or **trans genocide** is a term used by scholars and activists to describe an elevated level of [systematic discrimination](https://en.wikipedia.org/wiki/Structural_discrimination "Structural discrimination") and [violence against transgender people](https://en.wikipedia.org/wiki/Violence_against_transgender_people "Violence against transgender people").[\[1\]](https://en.wikipedia.org/wiki/Transgender_genocide#cite_note-Jones-2017-1)[\[2\]](https://en.wikipedia.org/wiki/Transgender_genocide#cite_note-Waites-2018-2)[\[3\]](https://en.wikipedia.org/wiki/Transgender_genocide#cite_note-Fuller-3)
 
@@ -88,7 +88,7 @@ Transgender genocide has been examined by scholars of [queer studies](https://en
 
 ## Activism
 
-[![alt text](ReadItLater%20Inbox/assets/alt%20text.jpg)](https://en.wikipedia.org/wiki/File:STG_L_cropped_IMG_2801.jpg)
+[![alt text](alt%20text.jpg)](https://en.wikipedia.org/wiki/File:STG_L_cropped_IMG_2801.jpg)
 
 Activist holding a "Stop Trans Genocide" sign
 

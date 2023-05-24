@@ -135,14 +135,14 @@ Sa vision de la [transidentité](https://fr.wikipedia.org/wiki/Transidentit%C3%A
 
 ### Liens externes\[[modifier](https://fr.wikipedia.org/w/index.php?title=Caroline_Eliacheff&veaction=edit&section=15 "Modifier la section : Liens externes") | [modifier le code](https://fr.wikipedia.org/w/index.php?title=Caroline_Eliacheff&action=edit&section=15 "Modifier la section : Liens externes")\]
 
--   Ressources relatives à l'audiovisuel[![Voir et modifier les données sur Wikidata](ReadItLater%20Inbox/assets/Voir%20et%20modifier%20les%20données%20sur%20Wikidata.png)](https://www.wikidata.org/wiki/Q1044483?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") :
+-   Ressources relatives à l'audiovisuel[![Voir et modifier les données sur Wikidata](Voir%20et%20modifier%20les%20données%20sur%20Wikidata.png)](https://www.wikidata.org/wiki/Q1044483?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") :
     
     -   [Allociné](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=49965.html)
     -   [Ciné-Ressources](http://www.cineressources.net/recherche_t_r.php?type=PNP&pk=35569)
     -   [Unifrance](https://www.unifrance.org/annuaires/personne/139675)
     -   (en) [IMDb](https://tools.wmflabs.org/wikidata-externalid-url/?p=345&url_prefix=https://www.imdb.com/&id=nm0253428)
     
--   Ressources relatives à la recherche[![Voir et modifier les données sur Wikidata](ReadItLater%20Inbox/assets/Voir%20et%20modifier%20les%20données%20sur%20Wikidata.png)](https://www.wikidata.org/wiki/Q1044483?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") :
+-   Ressources relatives à la recherche[![Voir et modifier les données sur Wikidata](Voir%20et%20modifier%20les%20données%20sur%20Wikidata.png)](https://www.wikidata.org/wiki/Q1044483?uselang=fr#identifiers "Voir et modifier les données sur Wikidata") :
     
     -   [Cairn](https://www.cairn.info/publications-de-wd--8683.htm)
     -   [Persée](https://www.persee.fr/authority/169839)
