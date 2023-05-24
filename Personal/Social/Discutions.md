@@ -1,11 +1,19 @@
 
-c'est là ou on est sur des projections différentes ce modèle n'est normé que dans notre modèle de civi qui a déjà planté au moins trois fois de ses dysfonctionnements dans l'histoire de l'humanité et d'autres modèles marchent 1984 n'était absolument pas prédictif, mais un avertissement, l'avertissement du découragement du à la narration libérale
+c'est là ou on est sur des projections différentes ce modèle n'est normé que dans notre modèle de civi qui a déjà planté au moins trois fois de ses dysfonctionnements dans l'histoire de l'humanité et d'autres 
 
-Enter
+> JE comprends pas vraiment les trois fois  
+
+
+modèles marchent 1984 n'était absolument pas prédictif, mais un avertissement, l'avertissement du découragement du à la narration libérale
+
+> Oui, mais c'est applicable au mormonisme ou en certaine partie et à tout totalitarisme. Mais ce qui me parle dans 1984 C le côté Matrix le moment néo se libère de la matrice c aussi inclus dans le système. La rébellion dans 1984 est aussi une fausse idée de destruction du système car elle est inclue à l du système
+
+> J toujours eu du mal à comprendre les interactions humaines et ce système de sociabilité entre être humain, j'ai dû passer mon temps à l'analyser. Je vais tenter dans donner une Synthèse.
+
+> J'inclus dans le système social à la fois les totalitarismes extrémistes et les fachos mais aussi toutes les volontés de lutte sociale . Toute personne qui pense être hors du système se leur. Car nous faisons tous partie de celui ci . Une des phrases que je préfère Non chez Camus c'est ""
 
 et les alternatives censées existent, sauf dans la narration dite libérale, ce qui rend les gens qui ont grandi dans ce modèle aussi ignorants que les gens qui pensent que l'arn messager peut coder tout seul un virus, et je ne plaisante pas
 
-Enter
 
 Original message:
 

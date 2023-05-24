@@ -11,9 +11,11 @@
             "id": "65975960a6de89bf",
             "type": "leaf",
             "state": {
-              "type": "epub",
+              "type": "markdown",
               "state": {
-                "file": "ebooks/sun_tzu_art_de_la_guerre.epub"
+                "file": "Personal/Social/Discutions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ebooks/sun_tzu_art_de_la_guerre.epub",
+                "file": "Personal/Social/Discutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ebooks/sun_tzu_art_de_la_guerre.epub"
+                "file": "Personal/Social/Discutions.md"
               }
             }
           },
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ebooks/sun_tzu_art_de_la_guerre.epub",
+                "file": "Personal/Social/Discutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,10 +177,13 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "ba1185e8dde31690",
+  "active": "65975960a6de89bf",
   "lastOpenFiles": [
+    "Permanents Notes/Comment ce faire une idée sur l'état de la science.md",
+    "Beyond the binary/Articles/Monté des violence LGBT.md",
+    "ebooks/sun_tzu_art_de_la_guerre.epub",
     "ebooks/ETP_v2.0-2.epub",
-    "Personal/Social/Untitled.md",
+    "Personal/Social/Discutions.md",
     "Personal/Social/Message Zet caline.md",
     "README.md",
     "Images/Pasted image 20230514191423.png",
@@ -215,11 +220,9 @@
     "Beyond the binary/Articles/Génocide trans/cotes",
     "Beyond the binary/Articles/Génocide trans/Sources/Untitled.md",
     "JDR/JDSR.md",
-    "_ReadItLater Inbox/Caroline Eliacheff — Wikipédia.md",
     "_ReadItLater Inbox/assets",
     "JDR/Star_Trek_Adventures_Le_Dernier_Voyage_recueil_de_missions_vol._1.pdf",
     "JDR/Star Trek Adventures Livre de règles - Inconnu.pdf",
-    "ebooks/sun_tzu_art_de_la_guerre.epub",
     "JDR",
     "Beyond the binary/Articles/Génocide trans/Notes",
     "Untitled.canvas",
