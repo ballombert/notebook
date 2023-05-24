@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76d640c76265a359",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -177,7 +188,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "65975960a6de89bf",
+  "active": "76d640c76265a359",
   "lastOpenFiles": [
     "Permanents Notes/Comment ce faire une idée sur l'état de la science.md",
     "Beyond the binary/Articles/Monté des violence LGBT.md",
